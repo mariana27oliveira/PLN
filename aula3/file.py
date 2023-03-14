@@ -5,7 +5,8 @@ import re
 file = open ('dicionario_medico.txt', encoding='utf8')
 text = file.read()
 #text = re.sub(r'\f', '', text) -- anterior, não apanhava as descrições que estavam na outra página
-text = re.sub(r'\n\f', '', text)
+text = re.sub(r'\f', '\n', text)
+text = re.sub(r'(\n\n.+)\n\n', 'r\1', text)
 
 #print (re.sub(r'\n\f', '', text))
 
@@ -36,25 +37,25 @@ html = open('dicionario_medico.html', 'w', encoding = 'utf8')
 header = '''<html>
 <head>
 <meta charset = 'utf-8' />
+'<h1 style="font-size:60px; font-family: Arial, sans-serif;color: green;text-align: center">Dicionário Médico</h1>'
 </head>
 <body>
 
 ''' 
-body = '<table style="border-collapse: collapse; border: 1px solid black; margin: auto;">'
-
+body = '<table style="border-collapse: collapse; border: 1px solid gray; margin: auto; width: 80%">'
 
 
 # Cabeçalho da tabela
 body += '<tr>'
-body += '<th style="border: 1px solid black; font-size: 20px; color: green; font-family: Arial, sans-serif; text-align: center;">Designação</th>'
-body += '<th style="border: 1px solid black; font-size: 20px; color: green; font-family: Arial, sans-serif; text-align: center;">Descrição</th>' 
+body += '<th style="border: 1px solid gray; font-size: 20px; color: green; font-family: Arial, sans-serif; text-align: center;background-color: lightgray; padding-top: 5px; padding-bottom: 5px; padding-left: 5px;padding-right: 5px;">Designação</th>'
+body += '<th style="border: 1px solid gray; font-size: 20px; color: green; font-family: Arial, sans-serif; text-align: center;background-color: lightgray; padding-top: 5px; padding-bottom: 5px; padding-left: 5px;padding-right: 5px;">Descrição</th>' 
 body += '</tr>'
 
 # Linhas da tabela
 for designation, description in new_entries:
     body += '<tr>'
-    body += '<td style="border: 1px solid black; font-size: 14px; font-family: Arial, sans-serif; text-align: center;"><b>' + designation + '</b></td>'
-    body += '<td style="border: 1px solid black; font-size: 14px; font-family: Arial, sans-serif; text-align: center;">' + description + '</td>'
+    body += '<td style="border: 1px solid gray; font-size: 14px; font-family: Arial, sans-serif; text-align: center; padding-top: 5px; padding-bottom: 5px; padding-left: 5px;padding-right: 5px;"><b>' + designation + '</b></td>'
+    body += '<td style="border: 1px solid gray; font-size: 14px; font-family: Arial, sans-serif; text-align: center; padding-top: 5px; padding-bottom: 5px; padding-left: 5px;padding-right: 5px;">' + description + '</td>'
     body += '</tr>'
 
 
