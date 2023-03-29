@@ -8,9 +8,13 @@ text = file.read()
 text = re.sub(r'\f', '\n', text)
 text = re.sub(r'(\n\n.+)\n\n', 'r\1', text)
 
+
+
 #print (re.sub(r'\n\f', '', text))
 
 entries = re.findall(r'\n\n(.+)((?:\n.+)+)', text)
+
+print(entries)
 
 #print(entries)
 
