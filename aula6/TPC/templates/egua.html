@@ -1,0 +1,112 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Fatos interessantes sobre ÉGUAS</title>
+    <style>
+      body {
+        background-color: #D2B48C;
+        font-family: Arial, sans-serif;
+        color: #654321;
+        text-align: center;
+      }
+      h1 {
+        text-align: center;
+        font-size: 36px;
+        margin-top: 50px;
+      }
+      p {
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+      }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      li {
+        margin: 10px;
+        padding: 20px;
+        background-color: #D2B48C;
+        border-radius: 10px;
+        text-align: center;
+        width: 300px;
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+      }
+      li span {
+        font-weight: bold;
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+      li:hover {
+        box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.7);
+        transform: translateY(-5px);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Factos interessantes sobre ÉGUAS</h1>
+    <p style="margin: 50px 50px;">As éguas são animais incríveis que possuem várias características únicas. Aqui estão alguns factos interessantes sobre elas:</p>
+    <ul>
+      <li>
+        <span>Sociais</span>
+        <p>As éguas são animais sociais e geralmente vivem em grupos liderados por uma égua dominante.</p>
+      </li>
+      <li>
+        <span>Distintas</span>
+        <p>As éguas são fêmeas dos cavalos e podem ser reconhecidas pela sua falta de barba e pelos seus dentes pequenos e pontiagudos.</p>
+      </li>
+      <li>
+        <span>Protetoras</span>
+        <p>As éguas são muito protetoras em relação aos seus potros e podem ser extremamente agressivas se sentirem que os seus potros estão ameaçados.</p>
+      </li>
+      <li>
+        <span>Visão</span>
+        <p>As éguas possuem uma visão excecional e podem ver em quase todas as direções, exceto diretamente atrás delas.</p>
+      </li>
+      <li>
+        <span>Memória</span>
+        <p>As éguas têm uma excelente memória e podem se lembrar de outras éguas e cavalos por anos.</p>
+      </li>
+      <li>
+        <span>A dormir</span>
+        <p>As éguas são capazes de dormir em pé e usam um mecanismo de bloqueio das pernas para manter a posição enquanto descansam.</p>
+      </li>
+      <li>
+        <span>Atléticas</span>
+        <p>As éguas são animais atléticos e podem atingir velocidades de até 55 km/h.</p>
+      </li>
+      <li>
+        <span>Inteligentes</span>
+        <p>As éguas são animais muito inteligentes e podem ser treinadas para realizar várias tarefas, como saltar obstáculos e correr em corridas de cavalos.</p>
+      </li>
+      <li>
+        <span>Gravidez</span>
+        <p>As éguas têm gestações que duram cerca de 11 meses e geralmente dão à luz um único potro.</p>
+      </li>
+      <li>
+        <span>Alimentação</span>
+        <p>As éguas são animais herbívoros e alimentam-se principalmente de capim, folhas e brotos de plantas.</p>
+      </li>
+      <li>
+        <span>Sensíveis</span>
+        <p>As éguas são animais bastante sensíveis e exigem cuidados regulares para garantir a sua saúde e bem-estar.</p>
+      </li> 
+    </ul>
+    <div style="text-align: left;">
+      <button onclick="window.location.href='/PaginaInicial'">Voltar à página inicial</button>
+    </div>
+  </body>
+</html>
+{% endblock %}

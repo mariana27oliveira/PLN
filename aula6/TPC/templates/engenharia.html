@@ -1,0 +1,116 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Fatos interessantes sobre ENGENHARIA</title>
+    <style>
+      body {
+        background-color: #F6E7D2;
+        font-family: Arial, sans-serif;
+        color: #782602;
+        text-align: center;
+      }
+      h1 {
+        text-align: center;
+        font-size: 36px;
+        margin-top: 50px;
+      }
+      p {
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+      }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      li {
+        margin: 10px;
+        padding: 20px;
+        background-color: #F6E7D2;
+        border-radius: 10px;
+        text-align: center;
+        width: 300px;
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+      }
+      li span {
+        font-weight: bold;
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+      li:hover {
+        box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.7);
+        transform: translateY(-5px);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Factos interessantes sobre ENGENHARIA</h1>
+    <p style="margin: 50px 50px;">A engenharia é uma disciplina ampla e emocionante que envolve a aplicação de conhecimentos científicos e matemáticos para resolver problemas do mundo real. Aqui estão alguns factos interessantes sobre engenharia:</p>
+    <ul>
+      <li>
+        <span>Ingenium</span>
+        <p>A palavra "engenharia" vem da palavra latina "ingenium", que significa "invenção inteligente".</p>
+      </li>
+      <li>
+        <span>Idade do Bronze</span>
+        <p>A engenharia é uma das profissões mais antigas do mundo, surgiu na Idade do Bronze.</p>
+      </li>
+      <li>
+        <span>Escola de Engenharia</span>
+        <p>A primeira escola de engenharia do mundo foi fundada em 1818 em Paris, França.</p>
+      </li>
+      <li>
+        <span>Engenharia Civil</span>
+        <p>A engenharia civil é uma das disciplinas de engenharia mais antigas e é responsável pela construção de algumas das estruturas mais impressionantes do mundo, como a Torre Eiffel e a Ponte Golden Gate.</p>
+      </li>
+      <li>
+        <span>Engenharia Aeroespacial</span>
+        <p>A engenharia aeroespacial é responsável pelo projeto e construção de aeronaves e espaçonaves.</p>
+      </li>
+      <li>
+        <span>Engenharia Elétrica</span>
+        <p>A engenharia elétrica é responsável pelo projeto e construção de sistemas elétricos e eletrônicos, incluindo dispositivos de comunicação e computação.</p>
+      </li>
+      <li>
+        <span>Engenharia Mecânica</span>
+        <p>A engenharia mecânica é responsável pelo projeto e construção de máquinas e sistemas mecânicos, incluindo motores e veículos.</p>
+      </li>
+      <li>
+        <span>Engenharia Quimica</span>
+        <p>A engenharia química é responsável pelo projeto e construção de processos químicos, como a produção de produtos químicos e combustíveis.</p>
+      </li>
+      <li>
+        <span>Engenharia Biomédica</span>
+        <p>A engenharia biomédica é responsável pelo projeto e construção de dispositivos e tecnologias médicas.</p>
+      </li>
+      <li>
+        <span>Engenharia Ambiental</span>
+        <p>A engenharia ambiental é responsável pelo projeto e construção de soluções para problemas ambientais, como a poluição e a conservação de recursos naturais.</p>
+      </li>
+      <li>
+        <span>Salário</span>
+        <p>A engenharia é uma das profissões mais bem pagas, com um salário médio anual nos Estados Unidos de mais de US $90.000.</p>
+      </li>
+      <li>
+        <span>Debugging</span>
+        <p>Os engenheiros costumam referir-se ao problema de encontrar e corrigir erros em código como "debugging". Esse termo surgiu em 1947 pelo engenheiro Grace Hopper, que encontrou um inseto preso num dos seus computadores.</p>
+      </li>
+    </ul>
+    <div style="text-align: left;">
+      <button onclick="window.location.href='/PaginaInicial'">Voltar à página inicial</button>
+    </div>  
+  </body>
+</html>
+{% endblock %}

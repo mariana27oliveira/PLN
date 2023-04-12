@@ -1,0 +1,120 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Fatos interessantes sobre ELEFANTES</title>
+    <style>
+      body {
+        background-color: #f2f2f2;
+        font-family: Arial, sans-serif;
+        color: #333333;
+        text-align: center;
+      }
+      h1 {
+        text-align: center;
+        font-size: 36px;
+        margin-top: 50px;
+      }
+      p {
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+      }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      li {
+        margin: 10px;
+        padding: 20px;
+        background-color: #f2f2f2;
+        border-radius: 10px;
+        text-align: center;
+        width: 300px;
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+      }
+      li span {
+        font-weight: bold;
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+      li:hover {
+        box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.7);
+        transform: translateY(-5px);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Factos interessantes sobre ELEFANTES</h1>
+    <p style="margin: 50px 50px;">Os elefantes são animais fascinantes e possuem várias características únicas. Aqui estão alguns factos interessantes sobre eles:</p>
+    <ul>
+      <li>
+        <span>Tamanho</span>
+        <p>Os elefantes são os maiores animais terrestres do mundo.</p>
+      </li>
+      <li>
+        <span>Família</span>
+        <p>Os elefantes possuem um incrível senso de família e têm um forte vínculo com os seus parentes, muitas vezes cuidando uns dos outros ao longo da vida.</p>
+      </li>
+      <li>
+        <span>Memória</span>
+        <p>Os elefantes têm uma excelente memória e podem lembrar-se de outros elefantes e locais por décadas.</p>
+      </li>
+      <li>
+        <span>Inteligentes</span>
+        <p>Os elefantes são animais muito inteligentes e podem aprender vários comandos e truques, além de mostrar empatia e ajudar outros elefantes em necessidade.</p>
+      </li>
+      <li>
+        <span>Tromba</span>
+        <p>Os elefantes têm uma tromba incrível (com mais de 40.000 músculos) e altamente sensível, sendo capaz de realizar tarefas delicadas, como pegar numa folha, e tarefas mais brutais, como derrubar uma árvore.</p></p>
+      </li>
+      <li>
+        <span>Visão</span>
+        <p>Os elefantes têm uma visão relativamente pobre, mas compensam isso com um excelente olfato e audição.</p>
+      </li>
+      <li>
+        <span>Gravidez</span>
+        <p>Os elefantes têm uma gestação que dura cerca de 22 meses, o que é a gestação mais longa de qualquer animal terrestre.</p>
+      </li>
+      <li>
+        <span>Alimentação</span>
+        <p>Os elefantes são animais herbívoros e podem comer até 300 quilos de comida por dia, incluindo frutas, legumes, folhas e cascas de árvores.</p>
+      </li>
+      <li>
+        <span>Longevidade</span>
+        <p>Os elefantes podem viver até 70 anos em condições ideais de vida.</p>
+      </li>
+      <li>
+        <span>Saltar</span>
+        <p>Os elefantes são os únicos animais terrestres que não conseguem saltar.</p>
+      </li>
+      <li>
+        <span>Medos</span>
+        <p>Os elefantes têm medo de abelhas e foram observados a correr em pânico quando ouvem o zumbido de um enxame.</p>
+      </li>
+      <li>
+        <span>Autoconsciência</span>
+        <p>Os elefantes são capazes de reconhecer as suas próprias reflexões em espelhos, o que indica autoconsciência.</p>
+      </li>
+      <li>
+        <span>Pele</span>
+        <p>A pele de um elefante é tão grossa que eles podem ser picados por milhares de mosquitos e nem sequer sentir.</p>
+      </li>
+    </ul>
+    <div style="text-align: left;">
+      <button onclick="window.location.href='/PaginaInicial'">Voltar à página inicial</button>
+    </div> 
+  </body>
+</html>
+{% endblock %}

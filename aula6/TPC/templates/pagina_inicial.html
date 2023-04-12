@@ -1,0 +1,67 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>FACTOS INTERESSANTES EEE</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #F0F0F0; /* cor cinza claro */
+      }
+      h1 {
+        color: green;
+        text-align: center;
+        font-size: 36px;
+        font-weight: bold;
+        margin-top: 50px;
+      }
+      nav {
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+      }
+      button {
+        font-size: 24px;
+        padding: 10px 20px;
+        margin: 10px;
+        background-color: green;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: darkgreen;
+      }
+      p {
+        text-align: center;
+        margin-top: 50px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>FACTOS INTERESSANTES EEE</h1>
+    <p style="margin: 50px 50px;">Factos interessantes são interessantes porque nos permitem aprender coisas novas e descobrir curiosidades que nos fazem olhar para o mundo de forma diferente! Aqui podes encontrar factos interessantes sobre todas as palavras começadas com E.</p>
+    <nav>
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/imagens/engenharia.png" width="450px" alt="Foto 1">
+        <button onclick="window.location.href='/engenharia'">Engenharia</button>
+      </div>
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/imagens/egua.png" width="450px">
+        <button onclick="window.location.href='/egua'">Égua</button>
+      </div>
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/imagens/elefante.png" width="450px">
+        <button onclick="window.location.href='/elefante'">Elefante</button>
+      </div>
+    </nav>
+  </body>
+</html>
+
+
+
+{% endblock %}
