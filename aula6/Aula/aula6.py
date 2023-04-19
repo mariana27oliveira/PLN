@@ -1,24 +1,29 @@
+import json
 from flask import Flask, render_template
 
 app = Flask(__name__)
 
+file = open ("terms.json", encoding="utf-8")
+
+db = json.load(file)
+
+
 @app.route("/")
 
-def hello_world():
-    return "<p>Hello, World!</p>" #fazer o html no mesmo ficheiro
-
-
-@app.route("/homepage")
-
 def home():
-    return render_template ("home.html", title="DICIONÁRIO MÉDICO")
+    return render_template ("home.html", title="WELCOME!!")
 
 
+@app.route("/terms")
 
-@app.route("/creditos")
+def terms():
+    return render_template("terms.html", designations=db.keys())
 
-def creditos():
-    return render_template("creditos.html")
+
+@app.route("/term/<t>")
+
+def term(t):
+    return render_template("term.html", designation = t, value=db.get(t, "None"))
 
 app.run(host="localhost", port=3000, debug=True)
 #o debug permite-me fazer alterações e a página atualizar automaticamente, sem ter de correr novamente

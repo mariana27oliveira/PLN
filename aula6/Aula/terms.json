@@ -1,0 +1,4070 @@
+{
+    "Palavra": {
+        "des": "",
+        "en": "Word"
+    },
+    "Significado": {
+        "des": "",
+        "en": "Meaning"
+    },
+    "Å": {
+        "des": "Unidade angström; unidade de comprimento de onda, de radiações eletromagnéticas, igual a 10-7 mm.",
+        "en": "THE"
+    },
+    "a, an": {
+        "des": "Pref. gr.: ausência ou negação (afasia, analgesia); - corruptela do pref. lat. ab (aversão)",
+        "en": "Não encontrado"
+    },
+    "AA": {
+        "des": "Sigla da instituição internacional dos Alcoólatras Anônimos.",
+        "en": "AA"
+    },
+    "ãa": {
+        "des": "Abreviatura latina que significa &#34;de cada&#34;, usada para designar uma quantidade comum de vários componentes de uma formulação. Pronuncia-se &#34;aná&#34;.",
+        "en": "oh"
+    },
+    "ab": {
+        "des": "Pref. lat.: negação ou separação (ablepsia, abaxial), aumento ou intensidade (absorver), movimento ou desvio (aborto).",
+        "en": "ab"
+    },
+    "abacteriano": {
+        "des": "Isento de bactérias; não-bacteriano.",
+        "en": "abacterial"
+    },
+    "abactus venter": {
+        "des": "Parto prematuro, artificial; aborto induzido.",
+        "en": "Não encontrado"
+    },
+    "abafação": {
+        "des": "Dispnéia; falta de ar; período pré-menstrual (pop.).",
+        "en": "smothering"
+    },
+    "abafamento": {
+        "des": "Diminuição dos ruídos orgânicos, principalmente das bulhas cardíacas.",
+        "en": "smothering"
+    },
+    "abaixador de língua": {
+        "des": "Instrumento para abaixar a língua, no exame da garganta; abaixa-língua; cataglosso.",
+        "en": "Não encontrado"
+    },
+    "abalado": {
+        "des": "Que sofreu abalo; deprimido.",
+        "en": "shaken up"
+    },
+    "abalienação": {
+        "des": "Distúrbio mental.",
+        "en": "abalienation"
+    },
+    "abalo": {
+        "des": "Reação; choque ou alteração produzida por medicamento ou estado patológico.",
+        "en": "concussion"
+    },
+    "abaloado": {
+        "des": "Que apresenta forma de balão; bojado.",
+        "en": "shaken"
+    },
+    "abapical": {
+        "des": "Situado na base ou na extremidade oposta do ápice.",
+        "en": "abapical"
+    },
+    "abarognose": {
+        "des": "Perda da sensibilidade ao peso.",
+        "en": "abarognosis"
+    },
+    "abarticulação": {
+        "des": "Diartrose; deslocação.",
+        "en": "abatement"
+    },
+    "abarticular": {
+        "des": "Relativo à abarticulação; que está fora da articulação.",
+        "en": "collapse"
+    },
+    "abartrose": {
+        "des": "Diartrose.",
+        "en": "abarthrosis"
+    },
+    "abasia": {
+        "des": "Perda parcial ou total da marcha, sem distúrbio da força muscular; em geral coincide com a incapacidade de ficar de pé (astasia).",
+        "en": "abasia"
+    },
+    "abastardar": {
+        "des": "Inferiorizar; degradar.",
+        "en": "bastardize"
+    },
+    "abater": {
+        "des": "Matar animais; abaixar; deprimir.",
+        "en": "shoot down"
+    },
+    "abatimento": {
+        "des": "Diminuição acentuada de sensações ou atos dependentes da ação nervosa: movimento, sensações, entendimento, afecções e instintos, ligados a influências físicas ou morais muito intensas, prolongadas ou nocivas que atuam sobre o sistema nervoso central.",
+        "en": "abatement"
+    },
+    "abatista": {
+        "des": "Trépano de ponta cônica, e que não perfura o cérebro.",
+        "en": "abaptist"
+    },
+    "abaxial": {
+        "des": "Fora do eixo do corpo, ou da linha considerada como eixo de um órgão.",
+        "en": "abaxial"
+    },
+    "abcedado": {
+        "des": "Que se refere à inflamação transformada em abscesso; abscedado.",
+        "en": "abcessed"
+    },
+    "abdome": {
+        "des": "Ventre, parte inferior do tronco. É uma cavidade localizada entre o tórax e a bacia (pelve). Superiormente, o abdome está separado do tórax pelo diafragma. Inferiormente, confina-se com a bacia, geralmente descrita como uma cavidade separada, apesar de se",
+        "en": "acute abdomen"
+    },
+    "abdome agudo": {
+        "des": "Afecção aguda do peritônio ou de um órgão ou estrutura, localizada no abdome, que exige imediata intervenção cirúrgica.",
+        "en": "Não encontrado"
+    },
+    "abdominalização": {
+        "des": "Método cirúrgico com o objetivo de aliviar o trabalho cardíaco na angina do peito: divisão do diafragma na zona tendinosa e remoção, com isso, da pressão negativa na cavidade torácica.",
+        "en": "abdominalization"
+    },
+    "abdominocentese": {
+        "des": "Punção do abdome, para esvaziar líquido ou pus.",
+        "en": "abdominocentesis"
+    },
+    "abdominoso": {
+        "des": "Que tem abdome volumoso.",
+        "en": "abdominal"
+    },
+    "abdução": {
+        "des": "Movimento que afasta um membro do plano mediano que divide o corpo em duas metades semelhantes ou simétricas; antônimo de adução.",
+        "en": "abduction"
+    },
+    "abducente": {
+        "des": "Relativo à abdução; que realiza a abdução; abdutor.",
+        "en": "abducent"
+    },
+    "abduzir": {
+        "des": "Mover afastando do eixo do corpo.",
+        "en": "abduct"
+    },
+    "abentérico": {
+        "des": "Situado fora do intestino.",
+        "en": "abenteric"
+    },
+    "abepitimia": {
+        "des": "Inapetência aos instintos somáticos: fome, sede, apetite sexual e outros.",
+        "en": "abepitimia"
+    },
+    "aberração": {
+        "des": "Desvio ou irregularidade de aspecto, estrutura, atividade de órgão ou exercício de uma função.",
+        "en": "aberration"
+    },
+    "aberração cromática": {
+        "des": "Fadiga experimentada pelo olho, mesmo pelo olho normal, quando procura fixar atentamente varios objetos de cores diferentes, simultâneamente. Deriva dos diferentes índices de refração das cores do espectro, que formam seus focos em pontos diferentes do ei",
+        "en": "Não encontrado"
+    },
+    "aberrante": {
+        "des": "Que se desvia do padrão ou caminhos normais.",
+        "en": "aberrant"
+    },
+    "abertura": {
+        "des": "Orifício de passagem de cavidade ou comunicações.",
+        "en": "opening"
+    },
+    "abetalipoproteinemia": {
+        "des": "Estado de carência de betalipoproteínas no soro.",
+        "en": "abetalipoproteinemia"
+    },
+    "abiatropia": {
+        "des": "Estado patológico com morte de certas partes, como calvície precoce, atrofia muscular primária, etc. .",
+        "en": "abiatropy"
+    },
+    "abioceno": {
+        "des": "Hábitat onde não se encontram seres vivos.",
+        "en": "abiocene"
+    },
+    "abiofilia": {
+        "des": "Crueldade para com os seres vivos.",
+        "en": "abiophilia"
+    },
+    "abiogênese": {
+        "des": "Ausência de formação de vida; geração espontânea.",
+        "en": "abiogenesis"
+    },
+    "abiologia": {
+        "des": "Estudo dos corpos inorgânicos.",
+        "en": "biology"
+    },
+    "abiose": {
+        "des": "Ausência ou deficiência de vida.",
+        "en": "abiosis"
+    },
+    "abioto": {
+        "des": "O mesmo que cicuta.",
+        "en": "abioto"
+    },
+    "abirritação": {
+        "des": "Diminuição da resposta a um estímulo; atonia.",
+        "en": "aberration"
+    },
+    "abirritante": {
+        "des": "Que diminui a irritação.",
+        "en": "annoying"
+    },
+    "abissal": {
+        "des": "Relativo a abismos ou lugares situados entre 2.000 e 5.000 m de profundidade oceânica.",
+        "en": "abyssal"
+    },
+    "abjunção": {
+        "des": "Separação.",
+        "en": "abjunction"
+    },
+    "ablação": {
+        "des": "Remoção de uma estrutura como um pólipo, um tumor, parte de um órgão, de um membro por amputação, excisão, etc.; avulsão.",
+        "en": "ablation"
+    },
+    "ablactação": {
+        "des": "Desmame da criança; cessação da secreção láctea.",
+        "en": "ablation"
+    },
+    "ablactente": {
+        "des": "Que está no fim da lactação, entre 1 e 2 anos de idade.",
+        "en": "ablatant"
+    },
+    "ablastêmico": {
+        "des": "Que não germina; que não apresenta folhas.",
+        "en": "ablastemic"
+    },
+    "ablástico": {
+        "des": "Que não se desenvolveu.",
+        "en": "ablastic"
+    },
+    "ablefaria": {
+        "des": "Ausência de pálpebra.",
+        "en": "ablefaria"
+    },
+    "ablepsia": {
+        "des": "Cegueira; perda da visão.",
+        "en": "ablepsia"
+    },
+    "abléptico": {
+        "des": "Cego.",
+        "en": "ableptic"
+    },
+    "ablução": {
+        "des": "Lavagem, ducha; banho; ato ou efeito de abluir.",
+        "en": "ablution"
+    },
+    "abluente": {
+        "des": "Diluente, limpador, detergente.",
+        "en": "abutting"
+    },
+    "ABO, sistema": {
+        "des": "Classificação dos grupos sangüíneos (A, B, AB, O).",
+        "en": "Não encontrado"
+    },
+    "abolição": {
+        "des": "Supressão de atividades funcionais.",
+        "en": "abolition"
+    },
+    "aboral": {
+        "des": "Oposto à boca; longe da boca.",
+        "en": "aboral"
+    },
+    "aborso": {
+        "des": "Ventre que abortou; aborto.",
+        "en": "abortion"
+    },
+    "abortamento": {
+        "des": "Ato ou fenômeno de abortar; expulsão do embrião ou feto.",
+        "en": "abortion"
+    },
+    "abortanda": {
+        "des": "Mulher que sofreu aborto; ou na iminência de aborto.",
+        "en": "aborting"
+    },
+    "abortar": {
+        "des": "Dar à luz antes do termo da gestação; expulsar feto inviável, prematuramente.",
+        "en": "abort"
+    },
+    "aborto": {
+        "des": "Feto de menos de 500 g na ocasião da expulsão do útero, sem possibilidade de sobreviver; ação ou fenômeno de abortar.",
+        "en": "abortion"
+    },
+    "abraquia": {
+        "des": "Ausência ou falta congênita de braços.",
+        "en": "abraquia"
+    },
+    "abrasão": {
+        "des": "Escoriação da pele ou de uma superfície mucosa, devido a qualquer ação mecânica (atrito, raspagem); ação de raspar, raspagem.",
+        "en": "abrasion"
+    },
+    "abreugrafia": {
+        "des": "Radiografia do tórax, introduzida pelo radiologista brasileiro Manoel de Abreu (1894-1962) para a profilaxia em massa da tuberculose pulmonar. Consiste em tirar radiografia de 70 mm, em série, por meio de máquina fotográfica adaptada ao aparelho de raios",
+        "en": "abreugraphy"
+    },
+    "abscesso": {
+        "des": "Coleção localizada de pus; pus acumulado numa cavidade formada nos tecidos ou num órgão cavitário, devido a processo inflamatório.",
+        "en": "abscess"
+    },
+    "abscissa": {
+        "des": "Uma das coordenadas, geralmente a horizontal, que define a posição de um ponto sobre um plano, utilizada para exprimir, em gráficos ou curvas, a evolução ou os dados de um fenômeno qualquer.",
+        "en": "abscissa"
+    },
+    "absintismo": {
+        "des": "Intoxicação pelo uso ou abuso de absinto.",
+        "en": "absinthism"
+    },
+    "absinto": {
+        "des": "Folhas e raízes de Artemisa absinthium, planta dotada de ação excitante estomacal, estimulante cardíaca e anti-helmíntica.",
+        "en": "absinthe"
+    },
+    "absoluto": {
+        "des": "Isento de combinações; que é perfeitamente puro; isento de água.",
+        "en": "absolute"
+    },
+    "absorção": {
+        "des": "Captação e assimilação de substâncias pelo sangue, linfa, mucosas e pele.",
+        "en": "absorption"
+    },
+    "abstêmio": {
+        "des": "Que não toma bebidas alcoólicas.",
+        "en": "teetotaler"
+    },
+    "absterger": {
+        "des": "Limpar úlceras, chagas ou feridas; limpar; purificar.",
+        "en": "abstain"
+    },
+    "abstinência": {
+        "des": "Ato de se abster; renúncia; privação.",
+        "en": "abstinence"
+    },
+    "abstração": {
+        "des": "Ato ou efeito de abstrair ou separar uma coisa de outra; alheamento de espírito.",
+        "en": "abstraction"
+    },
+    "abstrato": {
+        "des": "Que resulta de abstração; que está distraído; absorto; indiferente.",
+        "en": "abstract"
+    },
+    "abulia": {
+        "des": "Alteração patológica caracterizada por diminuição ou supressão da vontade.",
+        "en": "abolish"
+    },
+    "abusus coeundi": {
+        "des": "Excesso de relações sexuais.",
+        "en": "Não encontrado"
+    },
+    "academia": {
+        "des": "Sede onde se reúnem sábios, pro-fissionais de cultura, para ensinar e discutir assuntos. Origina-se de Akademus, personagem grego em cujos jardins Platão se reunia com seus discípulos.",
+        "en": "gym"
+    },
+    "acalásia": {
+        "des": "Ausência de relaxamento dos esfíncteres.",
+        "en": "achalasia"
+    },
+    "acalmia": {
+        "des": "Período de repouso intercalado en-tre períodos de agitação ou exacerbação de um estado mórbido.",
+        "en": "calm"
+    },
+    "acampsia": {
+        "des": "Rigidez ou dureza de uma articulação ou órgão.",
+        "en": "acampsia"
+    },
+    "acantáceo": {
+        "des": "Espinhoso; que possui espinhos; acantino.",
+        "en": "acanthaceous"
+    },
+    "acantino": {
+        "des": "Espinhoso.",
+        "en": "acanthine"
+    },
+    "acanto": {
+        "des": "Do gr. ákantha; espinha, espinho (acantocéfalo, acantoma, hexacanto).",
+        "en": "acanthus"
+    },
+    "acantocéfalo": {
+        "des": "Que tem a extremidade anterior do corpo armada de espinhos; helminto de corpo alongado, mais ou menos cilíndrico ou achatado, revestido por cutícula espessada com pregas transversas e desprovido de tubo digestivo; parasito do rato e do porco e, acidentalm",
+        "en": "acanthocephalan"
+    },
+    "acantose": {
+        "des": "Hipertrofia ou espessamento da camada de células espiculadas da pele.",
+        "en": "acanthosis"
+    },
+    "ação catalítica": {
+        "des": "Processo de mudança na ve-locidade de uma reação química por uma substância que permanece quimicamente inalterada durante toda a reação. A velocidade pode tanto ser aumentada como diminuída.",
+        "en": "Não encontrado"
+    },
+    "acapnia": {
+        "des": "Diminuição da taxa de dióxido de carbono (CO2) no sangue.",
+        "en": "acapnia"
+    },
+    "ácaro": {
+        "des": "Gênero de aracnídeos parasitos, produtores e transmissores de doenças ao homem e aos animais. Apresentam a cabeça reunida ao tórax e não possuem antenas. O abdome é desprovido de membros. Os adultos possuem oito patas e as larvas seis.",
+        "en": "mite"
+    },
+    "acarpo": {
+        "des": "Que não tem fruto.",
+        "en": "acarpus"
+    },
+    "acatápose": {
+        "des": "Impossibilidade de engolir.",
+        "en": "akataposis"
+    },
+    "acatisia": {
+        "des": "Impossibilidade psicogênica de se sentar. Psicose caracterizada pelo medo de permanecer sentado.",
+        "en": "akathisia"
+    },
+    "acefalia": {
+        "des": "Ausência de cabeça.",
+        "en": "headache"
+    },
+    "acesso": {
+        "des": "Ataque; início abrupto de uma doença ou crise.",
+        "en": "access"
+    },
+    "acetábulo": {
+        "des": "Cavidade do osso ilíaco onde se articula a cabeça do fêmur.",
+        "en": "acetabulum"
+    },
+    "achaque": {
+        "des": "Expressão antiga de falta ou defeito físico ou moral; alteração da saúde; doença. Expressão popular muito empregada para os sofrimentos que se prolongam ou repetem amiúde, como enxaqueca, reumatismo crônico, asma, dismenorréia, etc. .",
+        "en": "think that"
+    },
+    "acidez": {
+        "des": "Qualidade das substâncias que dão impressão picante e acre ao gosto; excesso de teor ácido; propriedade de um corpo libertar íons H.",
+        "en": "acidity"
+    },
+    "ácido": {
+        "des": "Substância que na presença da água fornece exclusivamente como cátion (íon positivo) o hidrogênio (H).",
+        "en": "fatty acid"
+    },
+    "ácido graxo": {
+        "des": "Uma das cinco classes das gorduras ou lipídios. Estes ácidos diferenciam-se entre si em face de suas características químicas; são chamados de saturados quando apresentam uma ligação molecular simples; de insaturados quando apresentam uma ligação molecula",
+        "en": "Não encontrado"
+    },
+    "acidófilos": {
+        "des": "Que têm afinidade para os corantes ácidos; que se cora facilmente pelos corantes ácidos; organismos que se desenvolvem bem no meio ácido.",
+        "en": "acidophilus"
+    },
+    "ácido-resistentes": {
+        "des": "Diz-se dos germes que, uma vez corados em laboratório, não perdem a cor sob a ação dos ácidos.",
+        "en": "acid-fast"
+    },
+    "acidose": {
+        "des": "Perturbação do equilíbrio ácido-básico, produzida pelo aumento absoluto ou relativo de ácidos nos líquidos do organismo. A acidose pode ser provocada por: a) produção excessiva de ácidos no organismo; b) acúmulo de ácidos, normalmente formados no organism",
+        "en": "acidosis"
+    },
+    "aciesia": {
+        "des": "Esterilidade na mulher; infecundidade feminina.",
+        "en": "aciesia"
+    },
+    "acino": {
+        "des": "Do gr. ákinos, cacho-de-uva (acinoso).",
+        "en": "acinus"
+    },
+    "ácino": {
+        "des": "Cacho; fundo do saco de uma glândula; conjunto de células que formam lobos de glândulas secretoras.",
+        "en": "acinus"
+    },
+    "aclide": {
+        "des": "Pequena opacidade na córnea; leucoma.",
+        "en": "climb"
+    },
+    "aclídio": {
+        "des": "Que não possui clavícula.",
+        "en": "aclide"
+    },
+    "aclinado": {
+        "des": "Relativo a dentes do maxilar superior que se apóiam lateralmente nos do maxilar inferior.",
+        "en": "inclined"
+    },
+    "aclis, acluo": {
+        "des": "Do gr. achlys, névoa (áclis, acluofobia).",
+        "en": "Não encontrado"
+    },
+    "acloridria": {
+        "des": "Ausência de ácido clorídrico no suco gástrico; anacloridria.",
+        "en": "achlorhydria"
+    },
+    "acma": {
+        "des": "Do gr. akmé, ponta, vértice, cume (menacma).",
+        "en": "acma"
+    },
+    "acme": {
+        "des": "O máximo de um fenômeno; crise ou fase crítica de uma doença.",
+        "en": "acme"
+    },
+    "acmestesia": {
+        "des": "Sensação aguda de picada na pele.",
+        "en": "acamesthesia"
+    },
+    "acmon": {
+        "des": "Do gr. ákmon, bigorna (acmonectomia).",
+        "en": "acmon"
+    },
+    "acne": {
+        "des": "Espinha, erupção papular, pustulosa ou nodular, resultante da inflamação das estruturas pilossebáceas.",
+        "en": "acne"
+    },
+    "acnemia": {
+        "des": "Ausência congênita de pernas.",
+        "en": "acneemia"
+    },
+    "acnite": {
+        "des": "Pequeno tumor da pele.",
+        "en": "acne"
+    },
+    "aco": {
+        "des": "Do gr. ákos, remédio (acognosia, panacéia).",
+        "en": "steel"
+    },
+    "acoasma": {
+        "des": "Alucinação auditiva indiferenciada; ruídos, sons elementares.",
+        "en": "acoasma"
+    },
+    "acolia": {
+        "des": "Supressão ou interrupção da secreção da bílis.",
+        "en": "acholia"
+    },
+    "acrase": {
+        "des": "V.acrato",
+        "en": "Não encontrado"
+    },
+    "acrato": {
+        "des": "Do gr. akratés, débil, sem força (acraturese, copracrasia).",
+        "en": "arato"
+    },
+    "acre": {
+        "des": "Picante; azedo; sabor forte.",
+        "en": "acre"
+    },
+    "acri": {
+        "des": "V. agri.",
+        "en": "acri"
+    },
+    "acribo": {
+        "des": "Do gr. akribón, executar com exatidão (acribomania).",
+        "en": "acribo"
+    },
+    "acridez": {
+        "des": "Qualidade do que é ácido.",
+        "en": "acridity"
+    },
+    "acrido": {
+        "des": "do gr. akris, akridos, gafanhoto (acridofagia).",
+        "en": "believe"
+    },
+    "acrinia": {
+        "des": "Ausência de secreção.",
+        "en": "acrinia"
+    },
+    "acro": {
+        "des": "Do gr. ákros ou ákron, extremo ou extremidade, ponta, cume (acrostesia, acrofobia, acromegalia).",
+        "en": "acro"
+    },
+    "acroase": {
+        "des": "Do gr. akroásis, ação de ouvir (anacroasia).",
+        "en": "acroase"
+    },
+    "acrobiste": {
+        "des": "Do gr. akrobystia, prepúcio (acrobistite, acrobistiólito).",
+        "en": "acrobiste"
+    },
+    "acrobistia": {
+        "des": "Prepúcio; operação de circuncisão.",
+        "en": "acrobisty"
+    },
+    "acrodontia": {
+        "des": "Posição de dentes diretamente soldados na borda superior dos maxilares, ao invés de nos alvéolos.",
+        "en": "acrodontia"
+    },
+    "acrofobia": {
+        "des": "Medo de altura.",
+        "en": "acrophobia"
+    },
+    "acrogeria": {
+        "des": "Estado mórbido caracterizado por envelhecimento prematuro da pele das mãos e dos pés.",
+        "en": "acrogeria"
+    },
+    "acromegalia": {
+        "des": "Afecção provocada pela hiperfunção da hipófise e caracterizada pelo aumento dos ossos e partes moles dos membros e da face.",
+        "en": "acromegaly"
+    },
+    "acromia": {
+        "des": "Diminuição ou ausência da pigmentação normal da pele.",
+        "en": "achromia"
+    },
+    "acromia congênita": {
+        "des": "Albinismo.",
+        "en": "Não encontrado"
+    },
+    "acrônfalo": {
+        "des": "Porção do cordão umbilical que fi-ca presa ao feto após o nascimento.",
+        "en": "acromphalus"
+    },
+    "acropatia": {
+        "des": "Qualquer doença nas extremidades.",
+        "en": "acropathy"
+    },
+    "acrotia": {
+        "des": "Ausência de pulso.",
+        "en": "acrotia"
+    },
+    "ACTH": {
+        "des": "Abreviação do inglês adrenocorticotrophic hormone (hormônio adrenocorticotrófico); hormônio da hipófise.",
+        "en": "ACTH"
+    },
+    "actino": {
+        "des": "Do gr. aktís, aktínos, raio de sol (actiniforme, actinodermite).",
+        "en": "actin"
+    },
+    "acu": {
+        "des": "Do lat. acus, agulha (acupuntura); - do gr. akoúo, escutar (acufênio).",
+        "en": "acu"
+    },
+    "acúfeno": {
+        "des": "Toda sensação auditiva que não resulta de estímulo exterior ao organismo; zumbido.",
+        "en": "tinnitus"
+    },
+    "acuidade": {
+        "des": "Grande sensibilidade dos órgãos dos sentidos.",
+        "en": "acuity"
+    },
+    "aculálio": {
+        "des": "Aparelho com que se ensinavam os surdos-mudos a falar.",
+        "en": "aculalius"
+    },
+    "acúmulo de medicamentos": {
+        "des": "Fenômeno resultante da somação de doses sucessivas que se verifica quando o medicamento permanece no organismo durante um período de tempo mais ou menos longo, porque a sua eliminação é lenta. O acúmulo depende exclusivamente da eliminação lenta do medica",
+        "en": "Não encontrado"
+    },
+    "acupuntura": {
+        "des": "Método terapêutico usado há milênios pelos chineses e japoneses, e que consiste na introdução de agulhas muito finas em pontos cutâneos precisos, para tratamento de certas perturbações funcionais ou para aliviar dores.",
+        "en": "acupuncture"
+    },
+    "acurácia": {
+        "des": "A ausência relativa de erro na estimativa de um parâmetro. É o grau em que uma medida representa o valor verdadeiro do efeito medido.",
+        "en": "accuracy"
+    },
+    "ad": {
+        "des": "Pref. lat.: em direção a, próximo de, junto de (adrenal, adsorção, adventício).",
+        "en": "ad"
+    },
+    "adamanto": {
+        "des": "Do gr. adámas, adámantos, diamante (adamantino, adamantoma).",
+        "en": "adamant"
+    },
+    "ade": {
+        "des": "Do gr. áden, bastante, abundantemente (adefagia).",
+        "en": "goodbye"
+    },
+    "adefagia": {
+        "des": "Voracidade; bulimia; apetite insaciável; gula.",
+        "en": "adephagia"
+    },
+    "adejar": {
+        "des": "Mover as asas para se manter em equilíbrio no ar; bater a(s) asa(s).",
+        "en": "flutter"
+    },
+    "adelfo": {
+        "des": "Do gr. adelphós, irmão (adelfia, deradelfia).",
+        "en": "adelpho"
+    },
+    "adelo": {
+        "des": "Do gr. ádelos, obscuro, indefinido, oculto (adelomorfo).",
+        "en": "goodbye"
+    },
+    "ademanes": {
+        "des": "Movimentos (principalmente das mãos) para exprimir idéias; acenos, gestos, sinais, trejeitos afetados e amaneirados.",
+        "en": "in addition"
+    },
+    "aden, adeno": {
+        "des": "Do gr. adén, adénos, gânglio, glândula (adenoma, adenopatia, linfadenite).",
+        "en": "Não encontrado"
+    },
+    "adenite": {
+        "des": "Inflamação ou ingurgitamento de uma glândula ou gânglio linfático.",
+        "en": "adenite"
+    },
+    "adenóide": {
+        "des": "Semelhante à glândula.",
+        "en": "adenoid"
+    },
+    "adenóides, vegetações": {
+        "des": "Estruturas de tecido linfóide normalmente presentes na nasofaringe das crianças e chamadas de tonsilas faríngeas.",
+        "en": "Não encontrado"
+    },
+    "adenoma": {
+        "des": "Tumor, geralmente benigno, formado pela proliferação dos elementos próprios de uma glândula.",
+        "en": "adenoma"
+    },
+    "adenopatia": {
+        "des": "Doença de glândulas ou de gânglios linfáticos.",
+        "en": "adenopathy"
+    },
+    "aderência": {
+        "des": "Brida; sinéquia; união viciosa - principalmente por tecido conjuntivo - de órgãos ou superfícies, oriunda de fenômenos inflamatórios ou alterações degenerativas.",
+        "en": "grip"
+    },
+    "adesão": {
+        "des": "Diz-se do grau em que os pacientes seguem a orientação/tratamento instituído pelo médico-assistente; &#34;compliance&#34; (em inglês).",
+        "en": "accession"
+    },
+    "adesividade": {
+        "des": "Propriedade das membranas celulares se prenderem umas às outras.",
+        "en": "adhesiveness"
+    },
+    "adesmia": {
+        "des": "Separação congênita de partes normalmente unidas.",
+        "en": "adesmia"
+    },
+    "adiadococinesia": {
+        "des": "Impossibilidade de execução de movimentos simples mas alternados ou sucessivos, na lesão cerebelar.",
+        "en": "adiadochokinesis"
+    },
+    "adiaforese": {
+        "des": "Supressão ou deficiência de transpiração.",
+        "en": "adiaphoresis"
+    },
+    "adiaforia": {
+        "des": "Falta de resposta a estímulos; indiferença; neutralidade.",
+        "en": "adiaphoria"
+    },
+    "adinamia": {
+        "des": "Estado de prostração física e/ou moral; debilidade geral, falta de forças, astenia extrema.",
+        "en": "adynamia"
+    },
+    "adipo": {
+        "des": "Do lat. adipe, gordura (adipoma, adipectomia).",
+        "en": "adipose"
+    },
+    "adiposidade": {
+        "des": "Excesso de gordura, obesidade, adipose.",
+        "en": "adiposity"
+    },
+    "adipsia": {
+        "des": "Falta de sede; rejeição anormal de bebidas.",
+        "en": "adipsia"
+    },
+    "aditivo": {
+        "des": "Substância adicionada a uma solução para aumentar, diminuir ou eliminar determinadas características, visando à conservação, melhoria da tolerabilidade ao paladar, uniformidade, estabilidade e aspecto estético da preparação farmacêutica.",
+        "en": "additive"
+    },
+    "adjutório": {
+        "des": "Que ajuda; laxante (pop.).",
+        "en": "adjunct"
+    },
+    "adjuvante": {
+        "des": "Que ajuda, que presta auxílio; medicamento ou medicação auxiliar.",
+        "en": "adjuvant"
+    },
+    "ADN": {
+        "des": "Abreviação de ácido desoxirribonucléico; DNA.",
+        "en": "DNA"
+    },
+    "adnato": {
+        "des": "Ligado a alguma coisa de que faz ou parece fazer parte.",
+        "en": "adnate"
+    },
+    "adolescência": {
+        "des": "Período da vida humana que sucede à infância, começa com a puberdade e se caracteriza por uma série de mudanças físicas e psicológicas, estendendo-se, aproximadamente, dos 12 aos 20 anos.",
+        "en": "adolescence"
+    },
+    "adolescente": {
+        "des": "Diz-se daquele que se encontra na adolescência, advindo do verbo latino alescere (alimentar); diz-se assim porque o jovem ainda recebe, enquanto cresce, o alimento fornecido pelos pais; sinônimo de jovem ou efebo; da mesma raiz o verbo adolescer, que é o",
+        "en": "adolescent"
+    },
+    "adrenalina": {
+        "des": "Substância produzida pela camada medular da cápsula supra-renal, também chamada epinefrina, supra-renina e adnefrina.",
+        "en": "adrenaline"
+    },
+    "adsorção": {
+        "des": "Fenômeno físico pelo qual uma su-bstância é retida na superfície de outra (adsorvente). Não há penetração para o interior (o que seria absorção).",
+        "en": "adsorption"
+    },
+    "adstringente": {
+        "des": "Que aperta; estíptico, que prende, que provoca constrição, que paralisa a cinética da musculatura lisa.",
+        "en": "astringent"
+    },
+    "adução": {
+        "des": "Movimento de aproximação de membro, ou parte do membro, do eixo do corpo; antônimo de abdução.",
+        "en": "adduction"
+    },
+    "adunco": {
+        "des": "Curvo ou recurvado; em forma de garra ou gancho.",
+        "en": "hooked"
+    },
+    "adunco, nariz": {
+        "des": "Nariz aquilino, como o bico da águia.",
+        "en": "Não encontrado"
+    },
+    "adustão": {
+        "des": "Calor excessivo; calcinação; cauterização.",
+        "en": "adustan"
+    },
+    "adventícia": {
+        "des": "Membrana ou camada externa da parede arterial.",
+        "en": "adventitia"
+    },
+    "adventício": {
+        "des": "Estrangeiro; acidental ou adquirido; não-natural.",
+        "en": "adventitious"
+    },
+    "aero": {
+        "des": "Do gr. aér, aéros, ou lat. aere, ar, vento (aerofagia, anaeróbio).",
+        "en": "aero"
+    },
+    "aeróbio": {
+        "des": "Que tem necessidade do oxigênio livre do ar para viver. Em geral refere-se a microrganismos.",
+        "en": "aerobic"
+    },
+    "aerobionte": {
+        "des": "Organismo aeróbio.",
+        "en": "aerobiont"
+    },
+    "aerocolia": {
+        "des": "Acúmulo de gases no colo, distendendo-o.",
+        "en": "aerocoly"
+    },
+    "aerofagia": {
+        "des": "Hábito de deglutir o ar, que surge em algumas pessoas, especialmente as que sofrem de dispepsia ou de certos estados ansiosos.",
+        "en": "Não encontrado"
+    },
+    "aerogastria": {
+        "des": "Existência de ar ou gases no estômago.",
+        "en": "aerogastric"
+    },
+    "aerose": {
+        "des": "Produção de gases nos tecidos ou órgãos.",
+        "en": "aerosis"
+    },
+    "aerossol": {
+        "des": "Mistura que contém partículas sólidas ou líquidas muito pequenas (diâmetro menor ou igual a 0,001 mm) dispersas num meio gasoso; nebulizador; aerosol.",
+        "en": "aerosol"
+    },
+    "afagia": {
+        "des": "Perda da capacidade de deglutir.",
+        "en": "stroke"
+    },
+    "afasia": {
+        "des": "Perda do poder de expressão pela fala, pela escrita ou pela sinalização, ou da capacidade de compreensão da palavra escrita ou falada, por lesão cerebral e sem alteração dos órgãos vocais.",
+        "en": "aphasia"
+    },
+    "afe": {
+        "des": "V. hafe.",
+        "en": "afe"
+    },
+    "afecção": {
+        "des": "Doença, moléstia, enfermidade; qualquer condição patológica.",
+        "en": "disease"
+    },
+    "afemia": {
+        "des": "Perda do poder de expressão pela fala devido a lesão cerebral.",
+        "en": "aphemia"
+    },
+    "aferente": {
+        "des": "Centrípeto; que converge para o centro.",
+        "en": "afferent"
+    },
+    "aférese": {
+        "des": "Expulsão de líquido de uma parte sólida ou semi-sólida; ablação; retirada da parte supérflua.",
+        "en": "apheresis"
+    },
+    "aferir": {
+        "des": "Conferir ou ajustar pesos, medidas, etc. com os respectivos padrões; padronizar.",
+        "en": "gauge"
+    },
+    "afetividade": {
+        "des": "Capacidade individual de experimentar emoções, paixões e sentimentos.",
+        "en": "affectivity"
+    },
+    "afetivo": {
+        "des": "Indivíduo sensível, que experimenta e demonstra com intensidade as emoções e os sentimentos.",
+        "en": "affective"
+    },
+    "afeto": {
+        "des": "Afeição; simpatia; amizade; amor.",
+        "en": "affection"
+    },
+    "afinidade": {
+        "des": "Atração; pendor; atração entre as energias químicas dos corpos.",
+        "en": "affinity"
+    },
+    "aflito": {
+        "des": "Agoniado; angustiado.",
+        "en": "distressed"
+    },
+    "aflorar": {
+        "des": "Tocar de leve a superfície; vir à superfície; aparecer na superfície da pele e da mucosa.",
+        "en": "emerge"
+    },
+    "afluir": {
+        "des": "Convergir; vir em grande quantidade.",
+        "en": "inflow"
+    },
+    "afluxo": {
+        "des": "Ato de afluir; afluência; fluxo; aumento de um líquido, particularmente san-gue, em determinada região.",
+        "en": "influx"
+    },
+    "afogamento": {
+        "des": "Asfixia por imersão.",
+        "en": "drowning"
+    },
+    "afogamento, reflexo do": {
+        "des": "Mecanismo da morte por asfixia, em que a aspiração de água provoca, no vestíbulo laringotraqueal, um reflexo centrípeto, que vai ao diencéfalo e deste volta ao centro respiratório bulbar, determinando a asfixia, que não seria provocada pela água nos pulmõ",
+        "en": "Não encontrado"
+    },
+    "afonia": {
+        "des": "Perda da voz.",
+        "en": "aphonia"
+    },
+    "afônico": {
+        "des": "Relativo à afonia; sem voz.",
+        "en": "aphonic"
+    },
+    "afonogelia": {
+        "des": "Incapacidade de dar risada alta.",
+        "en": "aphonogelia"
+    },
+    "aforese": {
+        "des": "Falta de secreção sudoral.",
+        "en": "aphoresis"
+    },
+    "aforia": {
+        "des": "Agenesia; esterilidade.",
+        "en": "aphoria"
+    },
+    "aforismo": {
+        "des": "Sentença; proposição.",
+        "en": "aphorism"
+    },
+    "afosia": {
+        "des": "Sensação visual subjetiva devido à interrupção ou falta de raios luminosos.",
+        "en": "aphosia"
+    },
+    "afrasia": {
+        "des": "Perturbações da linguagem em que o paciente pronuncia palavras soltas, ou incapacidade de formar frases por inferioridade mental (não confundir com afasia); mutismo; mutacismo.",
+        "en": "aphrasia"
+    },
+    "afrenia": {
+        "des": "Insanidade; demência.",
+        "en": "aphrenia"
+    },
+    "afrodisia": {
+        "des": "Desejo sexual, especialmente excessivo ou mórbido, também chamado de satiríase, no homem, e ninfomania na mulher. O termo advém de Afrodite, originariamente deusa do desejo feminino, força primordial de todo o universo; depois, deusa da beleza, do amor, d",
+        "en": "aphrodisia"
+    },
+    "afrodisíaco": {
+        "des": "Que aumenta ou excita o desejo sexual.",
+        "en": "aphrodisiac"
+    },
+    "afronesia": {
+        "des": "Demência; loucura.",
+        "en": "aphronesia"
+    },
+    "afrontação": {
+        "des": "Dispnéia; falta de ar; particularmente dispnéia de esforço; sufocação.",
+        "en": "affront"
+    },
+    "afta": {
+        "des": "Estomatite com formação de úlceras que geralmente acomete a mucosa da boca.",
+        "en": "mouth ulcers"
+    },
+    "aftongia": {
+        "des": "Afasia devido a espasmos dos músculos da fala ou da língua.",
+        "en": "aphthongia"
+    },
+    "aftosa, febre": {
+        "des": "Doença contagiosa provocada por um vírus que ataca certos animais de casco aberto e pode ser transmitida ao homem através do leite e outros produtos contaminados. As lesões vesiculosas geralmente se localizam na boca e na mucosa dos animais. É de caráter",
+        "en": "Não encontrado"
+    },
+    "aftose": {
+        "des": "Estado mórbido caracterizado pela presença de aftas.",
+        "en": "aphthosis"
+    },
+    "afusão": {
+        "des": "Aspersão de água sobre parte do corpo, a fim de diminuir a temperatura; ato de derramar líquidos.",
+        "en": "affusion"
+    },
+    "agadanhar": {
+        "des": "Unhar; arranhar; ferir com a unha.",
+        "en": "swipe"
+    },
+    "agalactia": {
+        "des": "Falta de secreção láctea da glândula mamária; agalactose.",
+        "en": "agalactia"
+    },
+    "agalha": {
+        "des": "O mesmo que amígdala.",
+        "en": "coat"
+    },
+    "agamaglobulinemia": {
+        "des": "Redução ou falta de gamaglobulinas no sangue encontrada em indivíduos sujeitos a infecções e que não se imunizam com vacinação.",
+        "en": "agammaglobulinemia"
+    },
+    "agamia": {
+        "des": "Reprodução sem congresso sexual.",
+        "en": "agamy"
+    },
+    "agamogonia": {
+        "des": "Geração que se realiza sem copulação; esquizogonia.",
+        "en": "agamogony"
+    },
+    "agangliônico": {
+        "des": "Caracterizado pela ausência de gânglios ou células gangliais.",
+        "en": "aganglionic"
+    },
+    "agapaxia": {
+        "des": "Espera ansiosa de determinado acontecimento.",
+        "en": "agapaxia"
+    },
+    "ágar": {
+        "des": "Gelose, cola do Japão; substância gelatinosa preparada a partir de algas marinhas; é usada como meio de cultura nos laboratórios de bacteriologia; pode ser empregada também na prisão-de-ventre, como medicamento; ágar-ágar.",
+        "en": "agar"
+    },
+    "agaroforese": {
+        "des": "O mesmo que eletroforese, com emprego de ágar gelatinoso como meio de suporte.",
+        "en": "agarophoresis"
+    },
+    "agarolítico": {
+        "des": "Capaz de dissolver o ágar; propriedade de bactérias do solo, e principalmente das águas de pântanos, lagunas e águas-marinhas, de vários gêneros.",
+        "en": "agarolitic"
+    },
+    "agastria": {
+        "des": "Ausência de estômago.",
+        "en": "agastria"
+    },
+    "ágata": {
+        "des": "Sílica natural, de que se fazem grais e outros utensílios usados em laboratório, por ser material muito duro e inatacável.",
+        "en": "agate"
+    },
+    "agatanhar": {
+        "des": "Arranhar; unhar.",
+        "en": "scramble"
+    },
+    "agelia": {
+        "des": "Ausência total do riso.",
+        "en": "agelia"
+    },
+    "agenesia": {
+        "des": "Desenvolvimento incompleto ou ausência congênita de qualquer órgão ou parte do corpo.",
+        "en": "agenesis"
+    },
+    "agênio": {
+        "des": "Neutro; sem sexo.",
+        "en": "agen"
+    },
+    "agenitalismo": {
+        "des": "Deficiência de secreção testicular ou ovariana, encontrada em pessoas castradas; eunuquismo.",
+        "en": "agenitalism"
+    },
+    "ágeno": {
+        "des": "Que não produz; que sofre de agenesia.",
+        "en": "agen"
+    },
+    "agente": {
+        "des": "Que opera ou exerce alguma ação; capaz de atuar sobre o organismo.",
+        "en": "agent"
+    },
+    "agerasia": {
+        "des": "Velhice com aparência de juventude; velhice sem doenças próprias da idade avançada.",
+        "en": "agerasia"
+    },
+    "ageusia": {
+        "des": "Deficiência ou ausência do sentido do gosto.",
+        "en": "ageusia"
+    },
+    "ágino": {
+        "des": "Sem aparelho reprodutor feminino.",
+        "en": "agin"
+    },
+    "agiria": {
+        "des": "Ausência de giro ou circunvolução.",
+        "en": "would act"
+    },
+    "agitação": {
+        "des": "Atividade motora exagerada, com excitação ou confusão mental.",
+        "en": "agitation"
+    },
+    "agitante": {
+        "des": "Que produz agitação.",
+        "en": "stirring"
+    },
+    "agitante, paralisia": {
+        "des": "Doença de Parkinson.",
+        "en": "Não encontrado"
+    },
+    "agitofasia": {
+        "des": "Deficiência na percepção; incompreensão de sensações; rapidez excessiva na fala, em que as palavras ou sílabas são omitidas inconscientemente, ou são pronunciadas de modo imperfeito.",
+        "en": "agitophasia"
+    },
+    "agitografia": {
+        "des": "Escrita excessivamente rápida, com omissão inconsciente de palavras ou de frases.",
+        "en": "agitography"
+    },
+    "agitolalia": {
+        "des": "Deformação, atropelamento, confusão ou tartamudeio da linguagem nos estados de agitação; forma de dislalia; o mesmo que agitofasia.",
+        "en": "agitolalia"
+    },
+    "aglaucopsia": {
+        "des": "Incapacidade para perceber a cor verde-mar.",
+        "en": "aglaucopsia"
+    },
+    "aglia": {
+        "des": "Cicatriz branca na córnea.",
+        "en": "aglia"
+    },
+    "aglicosúria": {
+        "des": "Ausência de glicose na urina.",
+        "en": "aglycosuria"
+    },
+    "aglobulia": {
+        "des": "Diminuição da taxa de glóbulos vermelhos.",
+        "en": "aglobulia"
+    },
+    "aglossia": {
+        "des": "Ausência congênita da língua.",
+        "en": "aglossia"
+    },
+    "aglutição": {
+        "des": "Incapacidade de engolir.",
+        "en": "agglutition"
+    },
+    "aglutinação": {
+        "des": "Aderência entre as pequenas partículas existentes num líquido; unir; reunir, ligar.",
+        "en": "agglutination"
+    },
+    "aglutinina": {
+        "des": "Anticorpo que provoca aglutinação.",
+        "en": "agglutinin"
+    },
+    "aglutinogênio": {
+        "des": "Substância que atua como antígeno, estimulando a produção de aglutinina.",
+        "en": "agglutinogen"
+    },
+    "aglutinoscópio": {
+        "des": "Aparelho de iluminação destinado a facilitar a verificação da aglutinação.",
+        "en": "agglutinoscope"
+    },
+    "agma": {
+        "des": "Fratura.",
+        "en": "agma"
+    },
+    "agma, agmato": {
+        "des": "Do gr. ágma, agmátos, fratura fragmento (agmatologia).",
+        "en": "Não encontrado"
+    },
+    "agmatologia": {
+        "des": "Conjunto de conhecimentos sobre fraturas.",
+        "en": "agmatology"
+    },
+    "agminado": {
+        "des": "Reunido em grande número; agregado.",
+        "en": "agminate"
+    },
+    "agnatia": {
+        "des": "Ausência congênita de maxilar inferior.",
+        "en": "agnathia"
+    },
+    "agnosia": {
+        "des": "Perda da capacidade de reconhecer as características dos objetos por meio dos sentidos: tato, gosto, olfato, visão e audição.",
+        "en": "agnosia"
+    },
+    "agnosticismo": {
+        "des": "Posição metodológica pela qual só se aceita como objetivamente verdadeira uma proposição que tenha evidência lógica satisfatória; atitude que considera fútil a Metafísica.",
+        "en": "agnosticism"
+    },
+    "agnóstico": {
+        "des": "Sectário do agnosticismo.",
+        "en": "agnostic"
+    },
+    "agogo": {
+        "des": "Do gr. agogós, o que conduz (colagogo).",
+        "en": "agogo"
+    },
+    "agonádico": {
+        "des": "Desprovido de gônadas; relativo à ausência de glândulas sexuais.",
+        "en": "agonadic"
+    },
+    "agonfo": {
+        "des": "Que apresenta dentes não implantados.",
+        "en": "agony"
+    },
+    "agonfose": {
+        "des": "Estado em que os dentes são frouxos; ausência de dentes.",
+        "en": "agonphosis"
+    },
+    "agonia": {
+        "des": "Ânsia; dor intensa; grande sofrimento; estado próximo à morte; mas o seu sentido legítimo é luta. Ela é uma luta contra a morte. O termo deriva de agon - a sua raiz - que se refere a tudo que é jogo, disputa, abrangendo os jogos públicos píticos e olímpic",
+        "en": "agony"
+    },
+    "agonista": {
+        "des": "Sinérgico, que atua de modo semelhante.",
+        "en": "agonist"
+    },
+    "agora": {
+        "des": "Do gr. agorá, praça, assembléia (agorafobia).",
+        "en": "now"
+    },
+    "agorafobia": {
+        "des": "Sensação de medo de estar só em espaço aberto.",
+        "en": "agoraphobia"
+    },
+    "agra": {
+        "des": "Do gr. ágra, ataque, presa (podagra, anconagra).",
+        "en": "now"
+    },
+    "agrafe": {
+        "des": "Grampo fixador metálico, para aproximar lábios de ferimentos ou cortes superficiais; usado em cirurgia.",
+        "en": "staple"
+    },
+    "agrafia": {
+        "des": "Incapacidade de exprimir os pensamentos pela escrita.",
+        "en": "agraphia"
+    },
+    "agramatismo": {
+        "des": "Incapacidade de pronunciar palavras com o seu significado correto; vício de pronúncia em que há omissão de uma ou várias letras da palavra.",
+        "en": "agrammatism"
+    },
+    "agramatofasia": {
+        "des": "Afasia mista, com tartumudeio.",
+        "en": "agrammatophasia"
+    },
+    "agranulocitose": {
+        "des": "Afecção aguda que se caracteriza por uma grande redução do número de leucócitos, especialmente dos polimorfonucleares ou granulócitos, acompanhada por febre e lesões ulceradas da garganta e da boca; leucopenia maligna ou perniciosa.",
+        "en": "agranulocytosis"
+    },
+    "agregação": {
+        "des": "Ato ou efeito de agregar; aproximação; junção.",
+        "en": "aggregation"
+    },
+    "agressividade": {
+        "des": "Disposição para condutas hostis, destrutivas, fixada e alimentada por experiências frustradas.",
+        "en": "aggressiveness"
+    },
+    "agri, agro": {
+        "des": "Do gr. agros, ou lat. ager, agris, campo (agromania); - do lat. acer, acris, azedo, ácido (agridoce ou acre-doce).",
+        "en": "Não encontrado"
+    },
+    "ágria": {
+        "des": "Erupção cutânea, localizada principal-mente nas extremidades, antigamente atribuída ao ácido úrico, e hoje atribuída à alergia micótica.",
+        "en": "agrarian"
+    },
+    "agrio": {
+        "des": "Do gr. ágrios, feroz, selvagem, cruel (agriotimia).",
+        "en": "watercress"
+    },
+    "agriotimia": {
+        "des": "Ferocidade; insânia; furor maníaco.",
+        "en": "agriothymia"
+    },
+    "agripa": {
+        "des": "Que nasce por apresentação podálica.",
+        "en": "agrippa"
+    },
+    "agripino, parto": {
+        "des": "Diz-se do parto em que a criança apresenta primeiro os pés.",
+        "en": "Não encontrado"
+    },
+    "agripnia": {
+        "des": "Insônia.",
+        "en": "agrippa"
+    },
+    "agripno": {
+        "des": "Do gr. ágrypnos, vigilante, que não pode dormir (agripnia, agripnocoma).",
+        "en": "agrippo"
+    },
+    "agripnótico": {
+        "des": "Que provoca insônia.",
+        "en": "agripnotic"
+    },
+    "agro": {
+        "des": "V. agri.",
+        "en": "agro"
+    },
+    "agromania": {
+        "des": "Distúrbio psiquiátrico em que há tendência à solidão ou a perambular pelo campo, quase sempre como sintoma de esquizofrenia.",
+        "en": "agromania"
+    },
+    "água": {
+        "des": "Substância líquida, inodora, insípida, chamada protóxido de hidrogênio, ou óxido hidrogenoso, de fórmula química H2O.",
+        "en": "Water"
+    },
+    "água de alibour": {
+        "des": "Solução de sulfato de cobre e zinco, alcanforada, usada das inflamações cutâneas.",
+        "en": "Não encontrado"
+    },
+    "água destilada": {
+        "des": "Água isenta de sais minerais, a menos de traços, obtida por destilação.",
+        "en": "Não encontrado"
+    },
+    "água do joelho": {
+        "des": "Urina (pop.).",
+        "en": "Não encontrado"
+    },
+    "água mineral": {
+        "des": "Água natural potável, com apreciável quantidade de sais minerais (no mínimo um grama por litro, sem contar os sais carbonáticos que lhe dão valor terapêutico).",
+        "en": "Não encontrado"
+    },
+    "água na barriga": {
+        "des": "Ascite (pop.).",
+        "en": "Não encontrado"
+    },
+    "água natural": {
+        "des": "Água existente na natureza em rios, lagos, fontes, na chuva, etc., contendo em geral sais e gases dissolvidos ou matéria insolúvel em suspensão.",
+        "en": "Não encontrado"
+    },
+    "água no coração": {
+        "des": "Derrame pericárdico (pop.).",
+        "en": "Não encontrado"
+    },
+    "água oxigenada": {
+        "des": "Peróxido de hidrogênio; líquido incolor, de composição química diferente da água comum (H2O) por conter na molécula dois átomos de oxigênio (H2O2). Tem a propriedade de liberar oxigênio facilmente, o que torna a H2O2 muito útil como anti-séptico, desodori",
+        "en": "Não encontrado"
+    },
+    "água pesada": {
+        "des": "Água que contém hidrogênio pesado (deutério), em lugar de hidrogênio comum. É usada nos reatores nucleares como moderador de neutrons; também chamada óxido de deutério.",
+        "en": "Não encontrado"
+    },
+    "água potável": {
+        "des": "A que é conveniente ao consumo humano, isenta de quantidades apreciáveis de sais minerais ou de microrganismos nocivos.",
+        "en": "Não encontrado"
+    },
+    "água sanitária": {
+        "des": "Composto clorado que se usa como descorante e desodorante.",
+        "en": "Não encontrado"
+    },
+    "água termal": {
+        "des": "Água medicinal cuja temperatura normal excede a do ambiente onde se encontra.",
+        "en": "Não encontrado"
+    },
+    "água vegetomineral": {
+        "des": "Solução medicamentosa adstringente que tem por base o acetato de chumbo.",
+        "en": "Não encontrado"
+    },
+    "aguadilha": {
+        "des": "Diarréia, corrimento de líquido com a consistência de água (pop.).",
+        "en": "watermelon"
+    },
+    "aguar": {
+        "des": "Ato de apresentar alterações conseqüentes a um desejo ou prazer não satisfeito; diluir; tornar menos concentrados os líquidos, alimentos, etc. .",
+        "en": "wait"
+    },
+    "aguardente": {
+        "des": "Destilado de soluções açucaradas, fermentadas por microrganismos (levedos e bactérias) em que o açúcar é decomposto em álcool, CO2 e outros corpos.",
+        "en": "brandy"
+    },
+    "aguda, doença": {
+        "des": "Doença que apresenta curso grave e curto.",
+        "en": "Não encontrado"
+    },
+    "agudeza": {
+        "des": "Qualidade do que é cortante ou agudo.",
+        "en": "sharpness"
+    },
+    "agudo": {
+        "des": "Ponteagudo; que apresenta extremidade afiada; que apresenta intensidade máxima ou grave.",
+        "en": "acute"
+    },
+    "aguilhoada": {
+        "des": "Dor forte e súbita sob a forma de picada.",
+        "en": "prodded"
+    },
+    "agulha": {
+        "des": "Instrumento de ponta fina e base perfurada, que serve para passar fios de costura.",
+        "en": "injection needle"
+    },
+    "agulha de injeção": {
+        "des": "Tubo perfurado com extremidade em bisel, e base ou canhão adaptável à extremidade de uma seringa de injeção.",
+        "en": "Não encontrado"
+    },
+    "agulha de sutura": {
+        "des": "Agulha curva, provida de orifício e acanaladura, por onde se coloca o fio da sutura.",
+        "en": "Não encontrado"
+    },
+    "agulhada": {
+        "des": "Sensação de picada, como a que resulta de penetração de agulha.",
+        "en": "stab"
+    },
+    "aicmo": {
+        "des": "V. ecmo.",
+        "en": "aicmo"
+    },
+    "aidético": {
+        "des": "Diz-se daquele que contraiu a Síndrome da Deficiência Imunológica Adquirida, ou AIDS.",
+        "en": "aids"
+    },
+    "AIDS": {
+        "des": "Sigla de &#34;Acquired Immunological Deficiency Syndrome&#34;, ou Síndrome de Deficiência Imunológica Adquirida.",
+        "en": "AIDS"
+    },
+    "ailuro": {
+        "des": "V. eluro.",
+        "en": "Não encontrado"
+    },
+    "ailurofobia": {
+        "des": "Medo mórbido de gatos; elurofobia.",
+        "en": "ailurophobia"
+    },
+    "ailuronicose": {
+        "des": "Doença da arranhadura do gato, provocada por vírus.",
+        "en": "ailuronicosis"
+    },
+    "ainhum": {
+        "des": "Afecção particular à raça negra, caracterizada pela formação de anel escleroso em torno dos dedos do pé, principalmente o quinto, o qual é progressivamente estrangulado, e torna-se globoso, acabando por se destacar.",
+        "en": "ahhh"
+    },
+    "ala": {
+        "des": "Do lat. ala, asa (alar, aliforme).",
+        "en": "Allah"
+    },
+    "alado": {
+        "des": "Que tem asas; que apresenta forma de asa.",
+        "en": "winged"
+    },
+    "alalia": {
+        "des": "Mutismo devido à paralisia ou defeito dos órgãos vocais.",
+        "en": "alalia"
+    },
+    "álalo": {
+        "des": "Que tem impossibilidade de falar.",
+        "en": "alalo"
+    },
+    "alambique": {
+        "des": "Dispositivo com retorta ou capitel ligado a uma serpentina, usado para destilação.",
+        "en": "Não encontrado"
+    },
+    "alantíase": {
+        "des": "Intoxicação em conseqüência de ingestão de salsicha, conservas, etc., que contenham toxinas do Clostridium botulinum; botulismo.",
+        "en": "allanthiasis"
+    },
+    "alanto": {
+        "des": "Do gr. allâs, allântos (alantóide, alantíase).",
+        "en": "allanto"
+    },
+    "alantóide": {
+        "des": "Divertículo tubular da parte posterior do saco vitelino do embrião.",
+        "en": "allantois"
+    },
+    "alassoterapia": {
+        "des": "Método terapêutico em que se procura modificar as condições biológicas do organismo.",
+        "en": "alassotherapy"
+    },
+    "alastrim": {
+        "des": "Doença febril, eruptiva, contagiosa e epidêmica; forma atenuada da varíola.",
+        "en": "alastrim"
+    },
+    "albicante": {
+        "des": "Esbranquiçado; branquejante; brancacento.",
+        "en": "albicante"
+    },
+    "albinismo": {
+        "des": "Anomalia congênita que se caracteriza pela ausência total ou parcial do pigmento da pele, dos pêlos, íris e coróide.",
+        "en": "albinism"
+    },
+    "albo": {
+        "des": "Do lat. albus, branco (albino, albinúria).",
+        "en": "albo"
+    },
+    "albugem": {
+        "des": "Formação de mancha branca nas unhas.",
+        "en": "albugo"
+    },
+    "albugínea": {
+        "des": "Camada fibrosa, brancacenta, que recobre os testículos, também chamada &#34;túnica albugínea&#34;.",
+        "en": "albuginea"
+    },
+    "albugo": {
+        "des": "Opacidade da córnea por deposição gordurosa ou leucoma.",
+        "en": "albugo"
+    },
+    "albumina": {
+        "des": "Proteína que existe em quase todos os tecidos animais e vegetais; a clara do ovo é constituída em grande parte de albumina.",
+        "en": "albumin"
+    },
+    "albuminúria": {
+        "des": "Presença de albumina na urina; visto que normalmente a urina não contém albumina. Suas principais causas são: doença renal, insuficiência cardíaca, febre, casos graves de anemia, drogas e venenos (chumbo, mercúrio, quinina).",
+        "en": "albuminuria"
+    },
+    "albumoptise": {
+        "des": "Presença de albumina no escarro.",
+        "en": "albumoptysis"
+    },
+    "alcalescente": {
+        "des": "Que possui a capacidade de alcalinizar ou de neutralizar a acidez; alcalinizante.",
+        "en": "alkalescent"
+    },
+    "alcalina, reserva": {
+        "des": "Teor de componentes sangüíneos capazes de neutralizar ácidos (bicarbonato de sódio, fosfato de potássio, proteínas).",
+        "en": "Não encontrado"
+    },
+    "alcalina, substância": {
+        "des": "Base; substância que na presença de água fornece como ânion (íon negativo) exclusivamente OH (hidroxila).",
+        "en": "Não encontrado"
+    },
+    "alcalinidade": {
+        "des": "Qualidade de alcalino (básico).",
+        "en": "alkalinity"
+    },
+    "alcalino": {
+        "des": "Relativo à álcali; medicamento que tem por base bicarbonato de sódio ou metais alcalinos.",
+        "en": "alkali"
+    },
+    "alcalóides": {
+        "des": "Substâncias encontradas em várias plantas. Geralmente são empregados com fins terapêuticos, como a atropina, cocaína, morfina, codeína, papaverina, nicotina, quinina, estricnina e outras. Existem também alcalóides artificiais, resultantes de síntese quími",
+        "en": "alkaloids"
+    },
+    "alcalose": {
+        "des": "Perturbação do equilíbrio ácido-básico, produzida pelo aumento absoluto ou relativo de substâncias alcalinas (bases) no organismo. Pode ser provocada por: a) diminuição da produção de ácidos no organismo; b) perda de ácidos pelos líquidos corpóreos; c) in",
+        "en": "alkalosis"
+    },
+    "alçamento": {
+        "des": "Retirada de colônias bacterianas crescidas sobre placas de isolamento, para outros meios de cultivo.",
+        "en": "lifting"
+    },
+    "alcatrão": {
+        "des": "Substância obtida na destilação do pinheiro ou hulha.",
+        "en": "tar"
+    },
+    "alcatroar": {
+        "des": "Cobrir, untar ou pintar com alcatrão.",
+        "en": "tar"
+    },
+    "alciforme": {
+        "des": "Que apresenta forma de alça.",
+        "en": "alciform"
+    },
+    "álcool": {
+        "des": "Líquido incolor, volátil, com cheiro e sabor característicos, obtido por fermentação de substâncias açucaradas ou amiláceas, ou mediante processos sintéticos, utilizado com larga faixa de propósitos; composto orgânico que contém pelo menos uma hidroxila (",
+        "en": "alcohol"
+    },
+    "alcoólatra": {
+        "des": "Pessoa que se entrega ao alcoolismo, viciada na ingestão de bebidas alcoólicas.",
+        "en": "alcoholic"
+    },
+    "Alcoólatras Anônimos": {
+        "des": "Instituição internacional fundada em 1935, em Akron, Ohio, Estados Unidos, com a sigla AA. É uma comunidade de homens e mulheres que compartilham suas experiências e se ajudam mutuamente com o objetivo de se recuperarem do alcoolismo. A condição única par",
+        "en": "Não encontrado"
+    },
+    "alcoolismo": {
+        "des": "Estado patológico decorrente do abuso de bebidas alcoólicas.",
+        "en": "alcoholism"
+    },
+    "aldosterona": {
+        "des": "Hormônio do córtex da supra-renal. Tem ação sobre o metabolismo inorgânico (sais minerais e H2O), promovendo retenção de sódio, cloro e água e excreção de potássio.",
+        "en": "aldosterone"
+    },
+    "aleatório": {
+        "des": "Dependente de fatores incertos, sujeito ao acaso; casual, fortuito.",
+        "en": "random"
+    },
+    "aleijado": {
+        "des": "Que tem algum defeito físico.",
+        "en": "crippled"
+    },
+    "aleitamento": {
+        "des": "Amamentação; alactamento.",
+        "en": "suckling"
+    },
+    "alelo": {
+        "des": "Do gr. allélon, uns aos outros (alelomorfo, alelotaxia).",
+        "en": "allele"
+    },
+    "alelopatia": {
+        "des": "Influência patogênica de um serviço sobre outro.",
+        "en": "allelopathy"
+    },
+    "alelotaxe": {
+        "des": "Desenvolvimento de um órgão a partir de várias estruturas embrionárias.",
+        "en": "allelotaxis"
+    },
+    "alentecer": {
+        "des": "Tornar-se lento, vagaroso.",
+        "en": "slow down"
+    },
+    "alentese": {
+        "des": "Introdução de substância estranha no organismo.",
+        "en": "alentejo"
+    },
+    "aleose": {
+        "des": "Modificação no caráter de uma doença; recuperação de doença; convales-cença.",
+        "en": "aleosis"
+    },
+    "alérgeno": {
+        "des": "Nome dado a qualquer substância, geralmente uma proteína, que introduzida no organismo o torna supersensível ou alérgico a ela.",
+        "en": "allergen"
+    },
+    "alergia": {
+        "des": "Sensibilidade exagerada do indivíduo a determinadas substâncias ou a agentes físicos que se mostram inócuos em iguais quantidades e condições para a maioria dos indivíduos da mesma espécie. Esse termo engloba todos os tipos de hipersensibilidade humana (a",
+        "en": "allergy"
+    },
+    "alergose": {
+        "des": "Doença alérgica.",
+        "en": "allergy"
+    },
+    "alerta": {
+        "des": "Transição de um estado de passividade a outro de atividade; vigília; vigilância; precaução.",
+        "en": "alert"
+    },
+    "alestesia": {
+        "des": "Sensação de toque experimentada em lugar afastado do ponto tocado.",
+        "en": "Não encontrado"
+    },
+    "aletia": {
+        "des": "Impossibilidade de esquecer.",
+        "en": "aletia"
+    },
+    "aleto": {
+        "des": "Do gr. alétes, errante (aletócito).",
+        "en": "flip"
+    },
+    "aleucemia": {
+        "des": "Ausência ou deficiência de leucócitos no sangue.",
+        "en": "aleukemia"
+    },
+    "aleuro": {
+        "des": "Do gr. áleuron, farinha (aleurona).",
+        "en": "aleuro"
+    },
+    "alexetério": {
+        "des": "Contraveneno; antídoto.",
+        "en": "alexeterio"
+    },
+    "alexia": {
+        "des": "Incapacidade de ler devido a lesão cerebral.",
+        "en": "alexia"
+    },
+    "alexina": {
+        "des": "Corpo termolábil inespecífico, que se fixa no complemento para a lise celular ou de bactérias.",
+        "en": "alexina"
+    },
+    "alexo": {
+        "des": "Do gr. aléxo, defender-se, preservar (alexócito, alexina).",
+        "en": "alexo"
+    },
+    "alfa": {
+        "des": "1a letra do alfabeto grego, correspondente ao a (alfa-tocoferol).",
+        "en": "alpha"
+    },
+    "alfo": {
+        "des": "Do gr. alphós, branco (alfose).",
+        "en": "alpha"
+    },
+    "alfodermia": {
+        "des": "Ausência de pigmentação da pele; acromatose.",
+        "en": "alphoderma"
+    },
+    "algália": {
+        "des": "Sonda oca para retirar urina ou examinar cálculos na bexiga.",
+        "en": "civet"
+    },
+    "algedo": {
+        "des": "Dores na região vesical, nos testículos e ânus.",
+        "en": "handcuff"
+    },
+    "algedônico": {
+        "des": "Que causa dor e prazer ao mesmo tempo.",
+        "en": "algedonic"
+    },
+    "algesia": {
+        "des": "Sensibilidade à dor.",
+        "en": "algesia"
+    },
+    "algia": {
+        "des": "Do gr. álgos, dor (analgesia, colecistalgia, antálgico).",
+        "en": "pain"
+    },
+    "álgico": {
+        "des": "Relativo à dor; produzido por excitação dolorosa.",
+        "en": "algic"
+    },
+    "alginurese": {
+        "des": "Micção dolorosa.",
+        "en": "alginuresis"
+    },
+    "algofobia": {
+        "des": "Medo mórbido de dores físicas.",
+        "en": "algophobia"
+    },
+    "algogenia": {
+        "des": "Produção de frio.",
+        "en": "algogenia"
+    },
+    "algolagnia": {
+        "des": "Perversão ou anomalia sexual em que o indivíduo procura sensação dolorosa no ato sexual.",
+        "en": "active algolagnia"
+    },
+    "algolagnia ativa": {
+        "des": "Sadismo.",
+        "en": "Não encontrado"
+    },
+    "algolagnia passiva": {
+        "des": "Masoquismo.",
+        "en": "Não encontrado"
+    },
+    "algopoese": {
+        "des": "Produção de dor.",
+        "en": "algopoesis"
+    },
+    "algor": {
+        "des": "Frio intenso.",
+        "en": "algor"
+    },
+    "algospasmo": {
+        "des": "Espasmo doloroso; cãimbra dolorosa.",
+        "en": "algospasm"
+    },
+    "alheamento": {
+        "des": "Indiferença em relação ao que se passa em torno.",
+        "en": "alienation"
+    },
+    "alíbil": {
+        "des": "Que é próprio para a alimentação; assimilável como alimento.",
+        "en": "alibil"
+    },
+    "alienação": {
+        "des": "Alheação, loucura, insanidade, perturbação mental.",
+        "en": "alienation"
+    },
+    "alienia": {
+        "des": "Ausência congênita de baço.",
+        "en": "alienia"
+    },
+    "alienista": {
+        "des": "Denominação antiga para psiquiatra.",
+        "en": "alienist"
+    },
+    "alieno": {
+        "des": "Do lat. alienus, alheio (alienação).",
+        "en": "alien"
+    },
+    "alifático": {
+        "des": "Que pertence a um óleo; relativo aos compostos de cadeia aberta de hidrocarbonetos gordurosos ou graxos; que pertence à série gordurosa.",
+        "en": "aliphatic"
+    },
+    "alimento": {
+        "des": "Qualquer substância nutritiva, suscetível de ser digerida e servir à nutrição dos tecidos e produção de calor e energia.",
+        "en": "food"
+    },
+    "alimento funcional": {
+        "des": "Termo primeiramente introduzido no Japão na década de 80; é definido como qualquer alimento ou parte de um alimento que proporcione benefícios à saúde, incluindo a prevenção e tratamento de doenças, além de satisfazer os requerimentos nutricionais tradici",
+        "en": "Não encontrado"
+    },
+    "alinfocitose": {
+        "des": "Ausência parcial ou completa de linfócitos no sangue circulante.",
+        "en": "allymphocytosis"
+    },
+    "alismo": {
+        "des": "Agitação; inquietação; ansiedade que acompanha os sofrimentos físicos.",
+        "en": "alism"
+    },
+    "alitro": {
+        "des": "Do gr. alitrós, criminoso (alitrologia).",
+        "en": "liter"
+    },
+    "aliviar": {
+        "des": "Acalmar; fazer cessar a dor ou o sofrimento.",
+        "en": "to relieve"
+    },
+    "aliviar-se": {
+        "des": "Dar à luz; defecar (pop.).",
+        "en": "relieve yourself"
+    },
+    "alma": {
+        "des": "Substrato das manifestações e sensações da vida psíquica; princípio espiritual do homem, concebível como separável do corpo e imortal.",
+        "en": "soul"
+    },
+    "almofariz": {
+        "des": "Vaso de metal ou pedra onde se esmaga qualquer substância, também chamado de gral ou pilão.",
+        "en": "mortar"
+    },
+    "alo": {
+        "des": "Do gr. állos, outro, diferente (alocinesia, alogamia, alopatia).",
+        "en": "Hello"
+    },
+    "alobiose": {
+        "des": "Alteração na reatividade orgânica, manifestada em presença de modificações ambientes ou de condições fisiológicas.",
+        "en": "allobiosis"
+    },
+    "alocinesia": {
+        "des": "Alteração na motilidade em que o movimento se faz no sentido oposto ao que o paciente pretende; movimento reflexo.",
+        "en": "allokinesis"
+    },
+    "alocroismo": {
+        "des": "Mudança ou variação de cor; estado em que o paciente confunde as cores ou não as percebe.",
+        "en": "allochroism"
+    },
+    "alocronia": {
+        "des": "Alteração do ritmo cardíaco.",
+        "en": "allochrony"
+    },
+    "aloerotismo": {
+        "des": "Orientação da libido para objetos externos; heteroerotismo.",
+        "en": "alloeroticism"
+    },
+    "aloftalmia": {
+        "des": "Diferença de coloração da íris nos dois olhos.",
+        "en": "allophthalmia"
+    },
+    "alogamia": {
+        "des": "Fecundação cruzada; reunião de dois gametas provenientes de dois indivíduos distintos.",
+        "en": "allogamy"
+    },
+    "alógeno": {
+        "des": "Originário de outra espécie ou raça; de raça diferente.",
+        "en": "allogeneic"
+    },
+    "alogia": {
+        "des": "Afasia; impossibilidade de falar, de origem central.",
+        "en": "alogy"
+    },
+    "aloiobiose": {
+        "des": "Relação entre seres de espécies diferentes.",
+        "en": "aloiobiosis"
+    },
+    "alojar": {
+        "des": "Localização de processo patológico ou corpo estranho em um ponto do organismo.",
+        "en": "lodge"
+    },
+    "alôjo": {
+        "des": "Vômito (pop.).",
+        "en": "alojo"
+    },
+    "alolalia": {
+        "des": "Qualquer distúrbio da fala, de origem central.",
+        "en": "alolalia"
+    },
+    "alopatia": {
+        "des": "Termo impróprio para o sistema usual de medicina clínica e cirúrgica. A impropriedade resulta da designação do processo de cura pela produção de um efeito do medicamento diferente ao da doença no organismo. A medicina alopática trata os contrários pelos c",
+        "en": "allopathy"
+    },
+    "alopeci": {
+        "des": "Do gr. alópex, alópekos, raposa (alopecia).",
+        "en": "alopeci"
+    },
+    "alopecia": {
+        "des": "Queda geral ou parcial dos pêlos, principalmente dos cabelos, podendo extremar-se na calvície. Os habitantes da antiga Trácia usavam gorros lisos feitos de pele de raposa, que traziam o nome de alopekia, os quais escondiam por completo os cabelos, dando a",
+        "en": "alopecia"
+    },
+    "aloquezia": {
+        "des": "Evacuação de matérias fecais por ânus artificial.",
+        "en": "allochezia"
+    },
+    "aloquiria": {
+        "des": "Transferência de local de uma sensação tátil ou dolorosa a ponto correspondente do membro do lado oposto, por perturbação mental.",
+        "en": "Não encontrado"
+    },
+    "alotrio": {
+        "des": "Do gr. allótrios, estranho (alotriofagia).",
+        "en": "allotrope"
+    },
+    "alquebrado": {
+        "des": "Enfraquecido; abatido; prostrado.",
+        "en": "broken"
+    },
+    "alquimia": {
+        "des": "Antigamente era sinônimo de Química. Depois ficou reservado para a arte antiga, misteriosa, que procurava ou pretendia transformar metais em ouro, ou obter uma substância que curasse todas as doenças. A prática nasceu no Egito, e a pretendida substância m",
+        "en": "alchemy"
+    },
+    "alta": {
+        "des": "Dar alta ao doente significa que o mesmo está capacitado para sair da enfermaria, curado, apto a viver fora do hospital. Por extensão, na clínica ambulatorial, privada ou não, dá-se alta ao doente considerado curado.",
+        "en": "high"
+    },
+    "alter": {
+        "des": "do lat. alter, outro (alter-ego).",
+        "en": "alter"
+    },
+    "altruísmo": {
+        "des": "Conduta baseada na idéia de bem-estar de outros, não levando em consideração o próprio bem-estar e em detrimento próprio.",
+        "en": "altruism"
+    },
+    "aluada": {
+        "des": "Menstruada (pop.).",
+        "en": "moony"
+    },
+    "alucinação": {
+        "des": "Percepção errônea dos sentidos sem fundamento objetivo. Pode ser auditiva, visual, tátil, cinestésica ou cenestésica. A mais comum é a alucinação auditiva, característica dos processos esquizoparanóides.",
+        "en": "hallucination"
+    },
+    "alva": {
+        "des": "Parte branca do globo ocular; esclerótica.",
+        "en": "alb"
+    },
+    "álveo": {
+        "des": "Cavidade; fossa; depressão; canal.",
+        "en": "alveum"
+    },
+    "alvéolo": {
+        "des": "Cavidade existente nos maxilares, onde se implantam os dentes.",
+        "en": "alveolus"
+    },
+    "alvéolos pulmonares": {
+        "des": "Minúsculos sacos aéreos, existentes nos pulmões, onde terminam as mais finas ramificações dos brônquios; é nos alvéolos que ocorrem as trocas gasosas com o sangue.",
+        "en": "Não encontrado"
+    },
+    "amacrino": {
+        "des": "Que não tem fibras longas, como os espongioblastos da retina, que não possuem prolongamentos dendríticos",
+        "en": "amacrine"
+    },
+    "âmago": {
+        "des": "A parte interna de alguma coisa.",
+        "en": "core"
+    },
+    "amálgama": {
+        "des": "Liga de mercúrio com outro metal; mistura ou ajuntamento de indivíduos diferentes.",
+        "en": "amalgam"
+    },
+    "amarelão": {
+        "des": "Ancilostomíase. (pop.).",
+        "en": "yellow"
+    },
+    "amargo": {
+        "des": "Que possui sabor acre; doloroso; triste.",
+        "en": "bitter"
+    },
+    "amargor": {
+        "des": "Aborrecimento; mágoa; qualidade do que é amargo.",
+        "en": "bitterness"
+    },
+    "amasesia": {
+        "des": "Incapacidade para mastigar alimentos.",
+        "en": "amasesia"
+    },
+    "amastênico": {
+        "des": "Que traz os raios luminosos para um foco (lentes).",
+        "en": "amathenic"
+    },
+    "amastia": {
+        "des": "Ausência de mamas.",
+        "en": "amatia"
+    },
+    "amato": {
+        "des": "Do gr. ámathos, areia, pó (Amatofobia).",
+        "en": "love"
+    },
+    "amatório": {
+        "des": "Referente ao, ou próprio do amor; que tem a virtude de despertar o amor.",
+        "en": "amatory"
+    },
+    "amatório, músculo": {
+        "des": "Músculo oblíquo do olho que serve para piscar, ou &#34;namorar&#34;.",
+        "en": "Não encontrado"
+    },
+    "amaurose": {
+        "des": "Perda total da visão.",
+        "en": "amaurosis"
+    },
+    "amaxo": {
+        "des": "Do gr. ámaxa, carro (amaxofobia).",
+        "en": "amaxo"
+    },
+    "amazona": {
+        "des": "Mulher sem mamas.",
+        "en": "amazon"
+    },
+    "AMB": {
+        "des": "Sigla da Associação Médica Brasileira.",
+        "en": "AMB"
+    },
+    "ambi": {
+        "des": "Pref. lat.: em ambos os lados (ambivalência, ambidestro), em redor (ambiente).",
+        "en": "ambi"
+    },
+    "ambidestro": {
+        "des": "Que usa facilmente tanto a mão direita quanto a esquerda.",
+        "en": "ambidextrous"
+    },
+    "ambivalência": {
+        "des": "Estado psicopatológico no qual o indivíduo odeia e gosta, ao mesmo tempo, do mesmo objeto ou pessoa.",
+        "en": "ambivalence"
+    },
+    "ambli": {
+        "des": "Termo que indica obscuro, obtuso.",
+        "en": "ambli"
+    },
+    "ambliacusia": {
+        "des": "Dificuldade ou incapacidade de ouvir; diminuição da sensibilidade auditiva.",
+        "en": "amblycusis"
+    },
+    "ambliafia": {
+        "des": "Hipotatilidade; dureza do sentido do tato; insensibilidade da pele.",
+        "en": "amblyaphy"
+    },
+    "ambliopia": {
+        "des": "Diminuição da visão provocada por intoxicação, alteração nervosa, avitaminose, etc. .",
+        "en": "amblyopia"
+    },
+    "amblose": {
+        "des": "Aborto.",
+        "en": "amblose"
+    },
+    "ambrosia": {
+        "des": "Coisa que deleita, que produz prazer inefável; diz-se, na mitologia grega, do alimento dos deuses do Olimpo.",
+        "en": "Ambrosia"
+    },
+    "ambulatório": {
+        "des": "Errante; que não tem lugar fixo; paciente que caminha; consultório para pacientes não-internados, em hospitais, fábricas e policlínicas.",
+        "en": "outpatient"
+    },
+    "ambulo": {
+        "des": "Do lat. ambulo, caminhar (noctâmbulo, ambulatório).",
+        "en": "ambul"
+    },
+    "ambustão": {
+        "des": "Ato de queimar; queimação; cauterização cirúrgica.",
+        "en": "ambush"
+    },
+    "ameaça": {
+        "des": "Indício; pródromo de um mal; manifestação larvada de um estado mórbido.",
+        "en": "threat"
+    },
+    "ameba": {
+        "des": "Protozoário unicelular, cujo citoplasma emite expansões que permitem a sua locomoção ou a apreensão de alimento.",
+        "en": "amoeba"
+    },
+    "amebíase": {
+        "des": "Afecção causada por amebas.",
+        "en": "amoebiasis"
+    },
+    "amebicida": {
+        "des": "Que mata e destrói as amebas.",
+        "en": "amoebicide"
+    },
+    "amelia": {
+        "des": "Falta de membros.",
+        "en": "amelia"
+    },
+    "amelo": {
+        "des": "Do gr. améleia, indiferença, apatia, esquecimento (amelofasia). (Distinguir de a-melo).",
+        "en": "yellow"
+    },
+    "amenia": {
+        "des": "Amenorréia.",
+        "en": "amenia"
+    },
+    "amenorréia": {
+        "des": "Ausência do fluxo menstrual.",
+        "en": "amenorrhea"
+    },
+    "ametria": {
+        "des": "Ausência congênita de útero.",
+        "en": "ametry"
+    },
+    "amiastenia": {
+        "des": "Falta de força; astenia muscular.",
+        "en": "amyasthenia"
+    },
+    "amico": {
+        "des": "Do gr. amyché, arranhão (amicofobia).",
+        "en": "friend"
+    },
+    "amido": {
+        "des": "Substância existente em muitos vegetais (trigo, arroz, milho, batatas, etc.), muito utilizada na alimentação humana. Na boca, sob a ação da ptialina (saliva), começa a transformar-se em açúcar.",
+        "en": "starch"
+    },
+    "amigdal": {
+        "des": "do gr. amydále, amêndoa (amigdalectomia).",
+        "en": "amygdal"
+    },
+    "amígdala": {
+        "des": "Tonsila; órgão linfóide com a forma de amêndoa, que se encontra na garganta, entre os pilares do véu palatino.",
+        "en": "amygdala"
+    },
+    "amigdalectomia": {
+        "des": "Extirpação cirúrgica da amígdala.",
+        "en": "tonsillectomy"
+    },
+    "amigdalite": {
+        "des": "Inflamação da amígdala; tonsilite.",
+        "en": "tonsillitis"
+    },
+    "amilase": {
+        "des": "Enzima do suco pancreático que transforma o amido em maltose.",
+        "en": "amylase"
+    },
+    "amimia": {
+        "des": "Perturbação da linguagem, com incapacidade de realizar gestos expressivos e significativos (afasia motora da linguagem mímica).",
+        "en": "friendship"
+    },
+    "aminoácido": {
+        "des": "Produto final da digestão dos alimentos protéicos.",
+        "en": "amino acid"
+    },
+    "amioatrofia": {
+        "des": "Atrofia muscular.",
+        "en": "amyoatrophy"
+    },
+    "amiocardia": {
+        "des": "Enfraquecimento do músculo cardíaco.",
+        "en": "amyocardia"
+    },
+    "amitose": {
+        "des": "Divisão celular direta.",
+        "en": "amitosis"
+    },
+    "amixia": {
+        "des": "Ausência de secreção de muco; ausência de capacidade de hibridação entre duas espécies, por ausência de atração sexual.",
+        "en": "amixia"
+    },
+    "amnésia": {
+        "des": "Perda ou enfraquecimento da memória; pode ser temporária ou permanente.",
+        "en": "amnesia"
+    },
+    "amnio": {
+        "des": "Do gr. amnion, membrana que envolve o feto, vaso para recolher sangue dos sacrifícios (amniogênese, amniocoriônico).",
+        "en": "amnion"
+    },
+    "âmnio": {
+        "des": "Membrana que se desenvolve em torno do embrião dos vertebrados superiores, formando o saco ou cavidade amniótica na qual está contido o líquido amniótico, destinado a conservar úmido o embrião e protegê-lo contra choques.",
+        "en": "amnion"
+    },
+    "amniocentese": {
+        "des": "Punção para retirar líquido amniótico.",
+        "en": "amniocentesis"
+    },
+    "amniogênese": {
+        "des": "Produção de líquido amniótico.",
+        "en": "amniogenesis"
+    },
+    "amnioma": {
+        "des": "Tumor formado por remanescentes amnióticos.",
+        "en": "amnioma"
+    },
+    "amniorrexe": {
+        "des": "Ruptura do âmnio.",
+        "en": "amniorrhexis"
+    },
+    "amniota": {
+        "des": "Animal caracterizado pela presença de âmnios na vida embrionária.",
+        "en": "amniote"
+    },
+    "amniótico, líquido": {
+        "des": "Líquido contido no interior da bolsa fetal, e que funciona como pára-choque de defesa do feto contra traumatismos externos e deslocamentos bruscos do organismo materno.",
+        "en": "Não encontrado"
+    },
+    "amodorramento": {
+        "des": "Modorra; sono profundo.",
+        "en": "dormancy"
+    },
+    "amojar": {
+        "des": "Encher os peitos de leite.",
+        "en": "make love"
+    },
+    "amok": {
+        "des": "Palavra malaia que significa impulso de matar; é uma forma de loucura passageira entre os malaios, caracterizada por período de depressão, seguido de outro de excitação, em que o indivíduo tenta matar outros indivíduos.",
+        "en": "love"
+    },
+    "amolação": {
+        "des": "Aborrecimento; desgosto.",
+        "en": "nuisance"
+    },
+    "amolecimento": {
+        "des": "Ato de amolecer; necrobiose.",
+        "en": "softening"
+    },
+    "amonificação": {
+        "des": "Transformação de azoto orgânico de animais e plantas em amônia; impregnar de amônia.",
+        "en": "ammonification"
+    },
+    "amor": {
+        "des": "Afinidade temperamental ou psíquica; afetividade; benquerença; na mitologia era Cupido ou Eros, filho de Vênus e de Marte, representado por um menino, nu, alado, munido de aljava e de setas com que fere o coração dos mortais. Por instigação da mãe, amou P",
+        "en": "love"
+    },
+    "amorfa, doença": {
+        "des": "É aquela que evolui sem diferenciação de caracteres, e pouca manifestação clínica.",
+        "en": "Não encontrado"
+    },
+    "amorfia": {
+        "des": "Deformidade; falta de forma.",
+        "en": "amorphous"
+    },
+    "amorfo": {
+        "des": "Sem forma determinada; diz-se das substâncias que não estão na forma cristalina.",
+        "en": "amorphous"
+    },
+    "amostra": {
+        "des": "Em bioestatística, diz-se de grupo de indivíduos, fatos ou dados, para estudo comparativo.",
+        "en": "sample"
+    },
+    "amostra aleatória": {
+        "des": "Um subgrupo da população-alvo onde os indivíduos são selecionados aleatoriamente, isto é, cada indivíduo tem chance igual de ser selecionado para a amostra, também chamada probabilística; este procedimento torna o subgrupo representativo da população-alvo",
+        "en": "Não encontrado"
+    },
+    "amostra grátis": {
+        "des": "Porção, fragmento ou unidade de um medicamento que, tradicionalmente, é distribuído aos médicos pelos representantes/propagandistas da Indústria Farmacêutica, com a finalidade de poder ser comprovada a sua qualidade terapêutica.",
+        "en": "Não encontrado"
+    },
+    "amostragem": {
+        "des": "Técnicas, normas e procedimentos utilizados para obtenção de uma amostra representativa da população Universo.",
+        "en": "sampling"
+    },
+    "amoterapia": {
+        "des": "Método de tratamento das doenças pelo emprego de areias (areação ou arenação).",
+        "en": "ammotherapy"
+    },
+    "ampeloterapia": {
+        "des": "Cura pela uva; emprego de uvas no tratamento de certas doenças por seu efeito laxativo e diurético.",
+        "en": "ampelotherapy"
+    },
+    "amperagem": {
+        "des": "Quantidade de ampères de uma corrente elétrica.",
+        "en": "amperage"
+    },
+    "ampère": {
+        "des": "Unidade elétrica de intensidade, produzida pela corrente de um volt, através da resistência de um ohm. O termo advém de André Marie Ampère, físico e matemático francês (1775-1836).",
+        "en": "ampere"
+    },
+    "amplexo": {
+        "des": "Abraço; termo para designar o congresso sexual nos animais inferiores.",
+        "en": "embrace"
+    },
+    "amplificador": {
+        "des": "Aparelho destinado a aumentar a tensão, intensidade ou potência de sinais elétricos.",
+        "en": "amplifier"
+    },
+    "amplitude": {
+        "des": "Qualidade ou caráter daquilo que abrange grande amplidão; extensão; valor máximo de uma grandeza.",
+        "en": "amplitude"
+    },
+    "ampola": {
+        "des": "Pequeno receptáculo cilíndrico, de vidro, afilado em uma (ou duas) das extremidades, fechado a fogo e destinado a conter líquidos injetáveis, principalmente medicamentos, e assim conservados estéreis; qualquer dilatação, seja em aparelhos ou partes do cor",
+        "en": "ampoule"
+    },
+    "ampulheta": {
+        "des": "Instrumento constituído por dois recipientes de vidro, com areia, que se comunicam no meio em parte estreitada, e que serve para medir o tempo.",
+        "en": "Hourglass"
+    },
+    "amputação": {
+        "des": "Ato de amputar.",
+        "en": "amputation"
+    },
+    "amputar": {
+        "des": "Secionar um membro, ou parte dele.",
+        "en": "amputate"
+    },
+    "ana": {
+        "des": "Pref. gr. aná: para cima, excesso, de novo, através, contra, atrás, sôbre (Anadipsia, anasarca, anatomia, anafilaxia, anacrotismo, análise).",
+        "en": "a-N-A"
+    },
+    "anábase": {
+        "des": "Período de incremento da doença.",
+        "en": "anabasis"
+    },
+    "anabiose": {
+        "des": "Revivescência; volta à vida, depois de estádio de morte aparente.",
+        "en": "anabiosis"
+    },
+    "anabolismo": {
+        "des": "Processo pelo qual as substâncias alimentares são incorporadas pelas células vivas. Compreende os processos de síntese, em que há produção de matéria viva a partir dos produtos da digestão, e de energia, provenientes do catabolismo. Significa o termo fina",
+        "en": "anabolism"
+    },
+    "anabrose": {
+        "des": "Ulceração ou erosão da superfície.",
+        "en": "anabrosis"
+    },
+    "anacatestesia": {
+        "des": "Sensação de dúvida ou de instabilidade.",
+        "en": "anachathesia"
+    },
+    "anáclase": {
+        "des": "Refração ou reflexão da luz; flexão forçada de um membro.",
+        "en": "anaclasis"
+    },
+    "anaclisia": {
+        "des": "Posição do doente na cama, horizontalmente; decúbito.",
+        "en": "anaclisis"
+    },
+    "anacloridria": {
+        "des": "Diminuição ou ausência de acidez ou de ácido clorídrico no suco gástrico; acloridria.",
+        "en": "anachlorhydria"
+    },
+    "anacmese": {
+        "des": "Parada da maturação, especialmente das células primárias da medula óssea, na agranulocitose.",
+        "en": "anachmesis"
+    },
+    "anacorese": {
+        "des": "Fenômeno associado ao aumento da resistência orgânica a outras infecções que não a atual, conseqüente a uma infecção anterior.",
+        "en": "Não encontrado"
+    },
+    "anacoreta": {
+        "des": "Indivíduo que não participa de vida social; ermitão.",
+        "en": "anchorite"
+    },
+    "anacrônico": {
+        "des": "Que está fora de tempo ou de uso.",
+        "en": "anachronistic"
+    },
+    "anactesia": {
+        "des": "Recuperação; convalescença.",
+        "en": "anathesia"
+    },
+    "anaeróbio": {
+        "des": "Nome que se dá aos organismos que vivem sem ar ou sem oxigênio livre.",
+        "en": "anaerobic"
+    },
+    "anaerose": {
+        "des": "Síncope respiratória, especialmente dos recém-nascidos; interrupção da função respiratória.",
+        "en": "anaerosis"
+    },
+    "anáfase": {
+        "des": "Estádio da mitose, que segue à metáfase, em que as metades dos cromosomas divididos se orientam em direção aos pólos do fuso, para formar a diáster.",
+        "en": "anaphase"
+    },
+    "anafia": {
+        "des": "Ausência ou perda do sentido do tato.",
+        "en": "anaphy"
+    },
+    "anafilaxia": {
+        "des": "Condição ou sensibilização do organismo a substâncias estranhas de natureza protéica, ou substâncias de outra natureza, previamente introduzidas no organismo, natural ou artificialmente, que, em quantidades mínimas, novamente introduzidas provocam reações",
+        "en": "anaphylaxis"
+    },
+    "anaforese": {
+        "des": "Passagem de substâncias eletropositivas através dos tecidos, por meio de uma corrente elétrica.",
+        "en": "anaphoresis"
+    },
+    "anafrodisia": {
+        "des": "Ausência ou diminuição do desejo sexual; frigidez sexual.",
+        "en": "anaphrodisia"
+    },
+    "anagogia": {
+        "des": "Elevação da alma na contemplação das coisas divinas; êxtase; arrebatamento; enlevo.",
+        "en": "anagogy"
+    },
+    "anágrafe": {
+        "des": "Prescrição ou receita dada pelo medico.",
+        "en": "Não encontrado"
+    },
+    "anais": {
+        "des": "Condensação anual das atividades de uma organização cientifica.",
+        "en": "annals"
+    },
+    "anal": {
+        "des": "Relativo ao ânus; junto ao ânus.",
+        "en": "anal"
+    },
+    "anal, fase": {
+        "des": "Diz-se em psicanálise da fase observada em crianças, em torno do 2o ano de vida, quando o seu interesse se volta para o ânus. Na teoria da libido, vem depois da fase oral e é seguida das fases fálica e genital, com um período intermediário entre as duas ú",
+        "en": "Não encontrado"
+    },
+    "anal, reflexo": {
+        "des": "Irritação da pele em torno do ânus, provocando contração do esfíncter anal; reflexo reduzido ou obtido nas lesões medulares e exaltado em casos de inflamações e fístulas do ânus.",
+        "en": "Não encontrado"
+    },
+    "analepsia": {
+        "des": "Restauração das forças perdidas por doenças; convalescença.",
+        "en": "analeptic"
+    },
+    "analéptico": {
+        "des": "O que tonifica ou restaura.",
+        "en": "analeptic"
+    },
+    "analgesia": {
+        "des": "Ausência de sensibilidade dolorosa.",
+        "en": "analgesia"
+    },
+    "análise": {
+        "des": "Ato ou efeito de analisar; decomposição de um todo em suas partes constituintes.",
+        "en": "didactic analysis"
+    },
+    "análise clínica": {
+        "des": "Análise, geralmente feita em laboratórios especializados, de material oriundo do organismo de um paciente, para avaliar o seu estado geral ou determinar o diagnóstico de alguma enfermidade.",
+        "en": "Não encontrado"
+    },
+    "análise didática": {
+        "des": "Análise que todo psiquiatra candidato a psicanalista deve submeter-se para se tornar membro da sociedade psicanalítica e poder praticar a especialidade. Exigência introduzida em 1922, tem por finalidade instruir o futuro psicanalista e corrigir, eventualm",
+        "en": "Não encontrado"
+    },
+    "análise multivariada": {
+        "des": "É um método para simultaneamente considerar os efeitos de muitas variáveis, em relação a uma variável definida como variável dependente. Os métodos estatísticos comumente usados na pesquisa incluem regressão linear múltipla e regressão logística.",
+        "en": "Não encontrado"
+    },
+    "análise prospectiva": {
+        "des": "Análise de pesquisas efetuadas das quais se retira observações futuras para condutas posteriores.",
+        "en": "Não encontrado"
+    },
+    "análise transacional": {
+        "des": "Técnica psicoterápica aplicada em grupo ou individualmente, criada em 1958 pelo psiquiatra canadense Eric Berne, e que tem por fim permitir ao indivíduo maior autonomia e espontaneidade através da compreensão e aprendizado. Caracteriza-se pela linguagem c",
+        "en": "Não encontrado"
+    },
+    "analogia": {
+        "des": "Semelhança; aproximação de caracteres, formas e propriedades com outras tomadas para comparação.",
+        "en": "analogy"
+    },
+    "análogo": {
+        "des": "Diz-se dos órgãos ou partes que, conquanto sejam de origens diferentes, têm a mesma função biológica.",
+        "en": "analogue"
+    },
+    "anamnese": {
+        "des": "Antecedentes ou comemorativos de uma doença ou de um paciente em exame, incluindo seu passado, desde a época infantil, e seus antecedentes hereditários.",
+        "en": "anamnesis"
+    },
+    "anandrio": {
+        "des": "Que não tem órgãos masculinos.",
+        "en": "anandry"
+    },
+    "anão": {
+        "des": "Que não atingiu desenvolvimento completo.",
+        "en": "dwarf"
+    },
+    "anaplasia": {
+        "des": "Reversão celular à forma mais primitiva e indiferençada; alteração em que as células se tornam incapazes de atingir sua estrutura ou função normais.",
+        "en": "anaplasia"
+    },
+    "anarquia": {
+        "des": "Falta de ordem.",
+        "en": "anarchy"
+    },
+    "anarréia": {
+        "des": "Movimento ou fluxo de líquidos dos pontos inferiores para os superiores.",
+        "en": "anarrhea"
+    },
+    "anartria": {
+        "des": "Falha ou defeito na articulação das palavras por lesão da área motora verbal.",
+        "en": "anarthria"
+    },
+    "anasarca": {
+        "des": "Acúmulo generalizado de líquidos entre os tecidos; edema generalizado.",
+        "en": "anasarca"
+    },
+    "anaspadia": {
+        "des": "Abertura da uretra no dorso do pênis; epispadia.",
+        "en": "anaspadia"
+    },
+    "anástole": {
+        "des": "Retração ou aproximação dos lábios de uma ferida.",
+        "en": "anastole"
+    },
+    "anastomose": {
+        "des": "Comunicação normal entre dois vasos, dois nervos, dois espaços ou dois órgãos.",
+        "en": "anastomosis"
+    },
+    "anatomia": {
+        "des": "Ciência que trata da estrutura do corpo humano, do corpo dos outros animais e das plantas.",
+        "en": "anatomy"
+    },
+    "anatresia": {
+        "des": "Perfuração; trepanação; anatrese.",
+        "en": "anatresia"
+    },
+    "anatropia": {
+        "des": "Estado do indivíduo que sente náuseas ou apresenta vômitos.",
+        "en": "anatropy"
+    },
+    "anca": {
+        "des": "Quadril; primeira porção do membro inferior.",
+        "en": "hip"
+    },
+    "ancilo": {
+        "des": "Do gr. agkylos, dobrado, recurvado (ancilose, ancilóstomo).",
+        "en": "hook"
+    },
+    "ancilostomíase": {
+        "des": "Infecção por Necator americanus e/ou por Ancylostoma duodenale, cujas larvas infestantes penetram no organismo tanto pela ingestão de alimentos contaminados como através da pele, geralmente nas regiões interdigitais, podendo produzir prurido e lesões vesi",
+        "en": "hookworm"
+    },
+    "ancon": {
+        "des": "Do gr. agkón, cotovelo (anconite, anconagra).",
+        "en": "ancon"
+    },
+    "anconagra": {
+        "des": "Gota da articulação do cotovelo.",
+        "en": "anconagra"
+    },
+    "anconócace": {
+        "des": "Afecção da articulação do cotovelo.",
+        "en": "anconocace"
+    },
+    "andro": {
+        "des": "Do gr. andrós, homem (andromania, androfagia).",
+        "en": "andro"
+    },
+    "androgênio": {
+        "des": "Termo geralmente aplicado a qualquer dos hormônios que estimulam o desenvolvimento dos órgãos sexuais e das características sexuais secundárias do sexo masculino.",
+        "en": "androgen"
+    },
+    "andrógeno": {
+        "des": "Que possui ação masculinizante; relativo à produção de filhos masculinos.",
+        "en": "androgen"
+    },
+    "androginismo": {
+        "des": "Presença de características femininas em homens.",
+        "en": "androgyny"
+    },
+    "andrógino": {
+        "des": "Relativo ao androginismo; que apresenta aparência feminina.",
+        "en": "androgynous"
+    },
+    "androglossia": {
+        "des": "Caráter masculino no modo de falar da mulher.",
+        "en": "androglossia"
+    },
+    "andrologia": {
+        "des": "Estudo da constituição e das doenças do sexo masculino, particularmente dos órgãos genitais do homem.",
+        "en": "andrology"
+    },
+    "anebo": {
+        "des": "Impúbere; que não é núbil.",
+        "en": "anebo"
+    },
+    "anectasia": {
+        "des": "Ausência de distensão; perda de elasticidade de órgão.",
+        "en": "anectasia"
+    },
+    "anedonia": {
+        "des": "Perda total da sensação de prazer.",
+        "en": "anhedonia"
+    },
+    "anelação": {
+        "des": "Respiração curta; dispnéia.",
+        "en": "annealing"
+    },
+    "anelado": {
+        "des": "Que apresenta forma de anéis.",
+        "en": "ringed"
+    },
+    "anelante": {
+        "des": "Que respira com dificuldade.",
+        "en": "yearning"
+    },
+    "anelar": {
+        "des": "Respirar com dificuldade.",
+        "en": "ring"
+    },
+    "anemia": {
+        "des": "Moléstia caracterizada pela diminuição da taxa de hemoglobina ou do número de hemácias, ou de ambos, causando depauperamento orgânico, fadiga, palidez e descoloração das mucosas.",
+        "en": "Não encontrado"
+    },
+    "anemo": {
+        "des": "Do gr. ánemos, vento (anemofobia, anemoterapia).",
+        "en": "anemo"
+    },
+    "anencefalia": {
+        "des": "Ausência de encéfalo.",
+        "en": "anencephaly"
+    },
+    "anepia": {
+        "des": "Impossibilidade de falar.",
+        "en": "anepia"
+    },
+    "anepitimia": {
+        "des": "Perda do apetite; diminuição do desejo sexual.",
+        "en": "anepithymia"
+    },
+    "anergia": {
+        "des": "Incapacidade orgânica de reagir a um antígeno ou a um reagente.",
+        "en": "anergy"
+    },
+    "anese, aneto": {
+        "des": "Do gr. ánesis, afrouxamento, diminuição (anesia, anetodermia).",
+        "en": "Não encontrado"
+    },
+    "anesia": {
+        "des": "Melhoria dos sintomas de doença.",
+        "en": "anesia"
+    },
+    "anestesia": {
+        "des": "Perda da sensibilidade numa área limitada da pele ou perda total das sensações e da consciência; perda local ou geral da sensibilidade.",
+        "en": "anesthesia"
+    },
+    "anestésico": {
+        "des": "Substância que produz insensibilidade aos estímulos externos.",
+        "en": "anesthetic"
+    },
+    "anestia": {
+        "des": "Estado mórbido em que o doente não quer vestir-se.",
+        "en": "anesthesia"
+    },
+    "aneurina": {
+        "des": "Vitamina B1; tiamina.",
+        "en": "aneurine"
+    },
+    "aneurisma": {
+        "des": "Dilatação circunscrita de uma artéria devido à diminuição da resistência da parede do vaso e ectasia gradual provocada pela pressão sangüínea.",
+        "en": "aneurysm"
+    },
+    "anexial": {
+        "des": "Pertencente aos anexos, particularmente aos anexos uterinos.",
+        "en": "adnexal"
+    },
+    "anexite": {
+        "des": "Inflamação dos anexos uterinos (ovários, trompas e respectivos ligamentos).",
+        "en": "attach"
+    },
+    "anfi": {
+        "des": "Pref. gr. amphi: de ambos os lados (anfiartrose, anfimixis, anfidéxio) ou ao redor de (anfiteatro).",
+        "en": "amph"
+    },
+    "anfiartrose": {
+        "des": "Articulação cujas superfícies são ligadas por discos de cartilagens fibrosas ou por membranas sinoviais; são articulações pouco móveis, como as pubianas e as intervertebrais.",
+        "en": "amphiarthrosis"
+    },
+    "anfiblestro": {
+        "des": "Do gr. amphíblestron, rede (anfiblestrite).",
+        "en": "amphibious"
+    },
+    "anfibolia": {
+        "des": "Curva febril com temperaturas irregulares ou variáveis; período de prognóstico incerto em uma doença.",
+        "en": "amphibole"
+    },
+    "anfifagia": {
+        "des": "Capacidade para ingerir qualquer espécie de alimento.",
+        "en": "amphiphagia"
+    },
+    "anfófilo": {
+        "des": "Que se cora com corantes ácidos ou básicos.",
+        "en": "amphophile"
+    },
+    "ânfora": {
+        "des": "Vaso de duas asas, para líquidos.",
+        "en": "amphora"
+    },
+    "anfórico": {
+        "des": "Que lembra o som obtido por uma corrente de ar ou sopro, na boca de uma garrafa.",
+        "en": "amphoric"
+    },
+    "anfótero": {
+        "des": "Que atua como ácido ou base.",
+        "en": "amphoteric"
+    },
+    "angeíte": {
+        "des": "Inflamação de um vaso, sangüíneo ou linfático.",
+        "en": "angiitis"
+    },
+    "angina": {
+        "des": "Sensação de aperto, sufocação; qualquer inflamação de caráter agudo na faringe (tonsilite, faringite e outras); dor constritiva, intensa no peito (angina pectoris), que se irradia para o braço esquerdo, produzida por isquemia do miocárdio.",
+        "en": "angina"
+    },
+    "angio": {
+        "des": "Do gr. aggeîon, vaso, recipiente (angiectasia, periangiite).",
+        "en": "angio"
+    },
+    "angiotensina I e II": {
+        "des": "A angiotensina I (polipeptídio de 10 aminoácidos) é convertida em angiotensina II (polipeptídio de oito aminoácidos), que causa a secreção de aldosterona, cortisol e desoxicorticosterona.",
+        "en": "Não encontrado"
+    },
+    "angor": {
+        "des": "Angústia; angina.",
+        "en": "angor"
+    },
+    "angström": {
+        "des": "Unidade de comprimento de onda elétrica, igual a 10-7 mm, e símbolo Å; o termo advém de Anders Jonas Angström, físico sueco (1814-1874).",
+        "en": "angstrom"
+    },
+    "ângulo": {
+        "des": "Grau de divergência entre duas linhas ou planos que se entrecruzam.",
+        "en": "angle"
+    },
+    "angústia": {
+        "des": "Ansiedade intensa.",
+        "en": "anguish"
+    },
+    "angusto": {
+        "des": "Estreitado; apertado; estenosado.",
+        "en": "anguish"
+    },
+    "anideação": {
+        "des": "Carência de ideação; ausência.",
+        "en": "anideation"
+    },
+    "anideísmo": {
+        "des": "Falta absoluta de idéias; caracteriza os fenômenos de automatismo mental (alucinação, eco do pensamento).",
+        "en": "anideism"
+    },
+    "anidrâmnio": {
+        "des": "Ausência de líquido amniótico.",
+        "en": "anhydramnium"
+    },
+    "anidro": {
+        "des": "Desprovido de água; a expressão é usada em química para os compostos em que foi eliminada a água da molécula.",
+        "en": "anhydrous"
+    },
+    "anil": {
+        "des": "Substância corante obtida da planta Indigofera anil.",
+        "en": "indigo"
+    },
+    "anilado": {
+        "des": "Azulado; que tem cor de anil.",
+        "en": "crimped"
+    },
+    "anima": {
+        "des": "Alma.",
+        "en": "anima nobile"
+    },
+    "anima nobile": {
+        "des": "O Homem.",
+        "en": "Não encontrado"
+    },
+    "anima vili": {
+        "des": "O animal.",
+        "en": "Não encontrado"
+    },
+    "animal": {
+        "des": "Ser vivo, dotado de sensibilidade, movimentos voluntários e respiração perceptível.",
+        "en": "animal"
+    },
+    "ânion": {
+        "des": "Termo criado por Faraday, representa o elemento de carga elétrica negativa ou pólo negativo de uma corrente elétrica. Os âniones ou aniontes incluem os metalóides, os radicais ácidos, a oxidrila ou hidroxila. São simbolizados por uma vírgula ou travessão,",
+        "en": "anion"
+    },
+    "aniridia": {
+        "des": "Ausência congênita da íris.",
+        "en": "aniridia"
+    },
+    "aniscúria": {
+        "des": "Incontinência urinária; enurese.",
+        "en": "aniscuria"
+    },
+    "aniso": {
+        "des": "Do gr. ánisos, desigual (anisogamia, anisotropia).",
+        "en": "anise"
+    },
+    "anisócito": {
+        "des": "Célula sangüínea de tamanho desigual.",
+        "en": "Não encontrado"
+    },
+    "anisocitose": {
+        "des": "Desigualdade das dimensões das hemácias ou de outras células.",
+        "en": "anisocytosis"
+    },
+    "anisocoria": {
+        "des": "Desigualdade no diâmetro pupilar.",
+        "en": "anisocoria"
+    },
+    "anisúria": {
+        "des": "Alternância de poliúria e oligúria.",
+        "en": "anisuria"
+    },
+    "anodinia": {
+        "des": "Ausência de dor; ausência de dores do parto.",
+        "en": "anodynia"
+    },
+    "anódino": {
+        "des": "Que alivia a dor, como os entorpecentes e os calmantes; inócuo, sem conseqüência para a saúde ou o bem-estar.",
+        "en": "anodyne"
+    },
+    "anojada, mulher": {
+        "des": "Grávida (pop.).",
+        "en": "Não encontrado"
+    },
+    "anojado": {
+        "des": "Nauseado; prestes a vomitar; desgostoso.",
+        "en": "anodized"
+    },
+    "anoplo": {
+        "des": "Do gr. ánoplos, desarmado (anopluro).",
+        "en": "anople"
+    },
+    "anopsia": {
+        "des": "Deficiência da vista, por opacificação da córnea; catarata.",
+        "en": "anopsia"
+    },
+    "anorco": {
+        "des": "Castrado; sem testículos.",
+        "en": "anorcus"
+    },
+    "anorexia": {
+        "des": "Falta de apetite; fastio; inapetência.",
+        "en": "anorexia"
+    },
+    "anorgasmia": {
+        "des": "Incapacidade de realizar o orgasmo, no coito.",
+        "en": "anorgasmia"
+    },
+    "anosmia": {
+        "des": "Ausência ou diminuição do olfato.",
+        "en": "anosmia"
+    },
+    "anoso": {
+        "des": "Idoso; envelhecido.",
+        "en": "old"
+    },
+    "anovulação": {
+        "des": "Supressão da ovulação.",
+        "en": "anovulation"
+    },
+    "anovulatório": {
+        "des": "Diz-se daquele que proporciona a supressão da ovolução.",
+        "en": "anovulatory"
+    },
+    "anoxia": {
+        "des": "Deficiência de oxigênio nos órgãos e tecidos.",
+        "en": "anoxia"
+    },
+    "anquilo": {
+        "des": "V. ancilo.",
+        "en": "ankyle"
+    },
+    "anquilose": {
+        "des": "Imobilidade anormal de uma articulação; ancilose.",
+        "en": "ankylosis"
+    },
+    "anser": {
+        "des": "Do lat. anser, ganso (anserino).",
+        "en": "anser"
+    },
+    "anseriforme": {
+        "des": "Semelhante a ganso ou pato.",
+        "en": "anseriform"
+    },
+    "ânsia": {
+        "des": "Perturbação com sensação de aperto ou angústia; aflição; mágoa; mal-estar.",
+        "en": "craving"
+    },
+    "ansiedade": {
+        "des": "Distimia penosa e global, em que se associam transtornos afetivos, intelectuais e dinâmicos, com sensação injustificada de perigo iminente, insegurança e incerteza.",
+        "en": "anxiety"
+    },
+    "antagonista": {
+        "des": "Substância ou medicamento que se opõe às atividades de outra substância orgânica ou medicamentosa, por efeito fisiológico, químico ou mediante medicamento competitivo.",
+        "en": "antagonist"
+    },
+    "antálgico": {
+        "des": "Analgésico.",
+        "en": "antalgic"
+    },
+    "ante": {
+        "des": "Pref. lat. ante: diante de, antes (antebraço, antecubital).",
+        "en": "before"
+    },
+    "anteboca": {
+        "des": "Parte anterior da boca.",
+        "en": "foremouth"
+    },
+    "antebraço": {
+        "des": "Parte do membro superior, entre o cotovelo e a munheca.",
+        "en": "forearm"
+    },
+    "antecedentes": {
+        "des": "Fenômenos que precedem o aparecimento de doença.",
+        "en": "background"
+    },
+    "anti": {
+        "des": "Pref. gr. anti: contra, em lugar de (antiinflamatório, antálgico, antídoto).",
+        "en": "anti"
+    },
+    "antianêmico": {
+        "des": "Que combate ou evita a anemia.",
+        "en": "antianemic"
+    },
+    "antibiose": {
+        "des": "Ação bacteriostática exercida por certos micróbios sobre outros, que crescem em sua vizinhança.",
+        "en": "antibiosis"
+    },
+    "antibiotic-like": {
+        "des": "Expressão inglesa para substâncias com propriedades antibacterianas, porém produzidas por seres vivos superiores, vegetais ou animais; em português, a expressão que melhor lhe corresponda talvez seja &#34;análogos dos antibióticos&#34;.",
+        "en": "antibiotic-like"
+    },
+    "antibiótico": {
+        "des": "Substância produzida por várias espécies de microrganismos, capaz de impedir o crescimento de outros microrganismos ou destruí-los.",
+        "en": "antibiotic"
+    },
+    "anticolinérgico": {
+        "des": "Qualquer substância que se contrapõe aos efeitos da acetilcolina, o principal neuro-transmissor do sistema nervoso parassimpático.",
+        "en": "anticholinergic"
+    },
+    "anticoncepção": {
+        "des": "Prevenção da gravidez.",
+        "en": "contraception"
+    },
+    "anticoncepcional": {
+        "des": "Método ou substância que evita a concepção.",
+        "en": "oral combined hormonal contraceptive"
+    },
+    "anticoncepcional hormonal combinado oral": {
+        "des": "Método anticoncepcional que consiste na utilização, por via oral, de estrogênio associado ao progestogênio, inibindo a ovulação e formando o muco cervical espesso, o que dificulta a passagem dos espermatozóides.",
+        "en": "Não encontrado"
+    },
+    "anticoncepcional/dispositivo intra-uterino": {
+        "des": "Objeto pequeno de plástico flexível, freqüentemente com revestimento ou fios de cobre, inserido no útero da mulher através da vagina, o que torna mais difícil a passagem do espermatozóide pelo trato reprodutivo feminino, reduzindo a possibilidade de ferti",
+        "en": "Não encontrado"
+    },
+    "anticoncepcional/métodos comportamentais": {
+        "des": "Métodos que requerem que a mulher aprenda quando o período fértil de seu ciclo começa e termina, evitando assim, quando desejar, a gravidez; método de abstinência.",
+        "en": "Não encontrado"
+    },
+    "anticoncepcional/métodos de barreira": {
+        "des": "Forma mais antiga de controle da concepção, são aqueles que evitam a gravidez através do impedimento da ascensão dos espermatozóides ao útero.",
+        "en": "Não encontrado"
+    },
+    "anticorpo": {
+        "des": "Substância natural ou induzida (pela exposição a um antígeno) que tem a capacidade de reagir com antígeno específico.",
+        "en": "antibody"
+    },
+    "antiemético": {
+        "des": "Substância ou medicamento que suprime náuseas e/ou vômitos.",
+        "en": "antiemetic"
+    },
+    "antiespasmódico": {
+        "des": "Que alivia espasmos.",
+        "en": "antispasmodic"
+    },
+    "antifisético": {
+        "des": "Medicamento que se opõe à formação ou que facilita a eliminação dos gases do tubo digestivo.",
+        "en": "antiphytic"
+    },
+    "antiflogístico": {
+        "des": "Que combate a inflamação; antiinflamatório.",
+        "en": "antiphlogistic"
+    },
+    "antígeno": {
+        "des": "Qualquer substância que reage com os anticorpos ou estimula a produção de anticorpos.",
+        "en": "antigen"
+    },
+    "anti-helmíntico": {
+        "des": "Substância que atua contra os helmintos.",
+        "en": "anthelmintic"
+    },
+    "anti-histamínico": {
+        "des": "Substância que neutraliza a ação da histamina.",
+        "en": "antihistamine"
+    },
+    "antiinflamatório não-hormonal": {
+        "des": "Substância com propriedades antiinflamatórias, cuja estrutura química não é esteróide, ou seja, não é derivada de hormônios da supra-renal.",
+        "en": "Não encontrado"
+    },
+    "anti-séptico": {
+        "des": "Substância utilizada para destruir microrganismos ou inibir sua reprodução ou metabolismo, aplicada por via tópica em superfícies cutâneas ou mucosas e em feridas infectadas, para esterilizá-las.",
+        "en": "antiseptic"
+    },
+    "antlo": {
+        "des": "Do gr. ántlos, água do mar (antlofobia).",
+        "en": "antlo"
+    },
+    "anto": {
+        "des": "Do gr. ánthos, flor (antomania).",
+        "en": "holy"
+    },
+    "antra": {
+        "des": "Prefixo que indica relação com carvão.",
+        "en": "anthra"
+    },
+    "antraco": {
+        "des": "Do gr. ánthrax, ántrakos, carvão (antracóide, antracose).",
+        "en": "anthrax"
+    },
+    "antracose": {
+        "des": "Deposição de partículas de carvão nos pulmões; pneumoconiose por carvão.",
+        "en": "anthracosis"
+    },
+    "antraz": {
+        "des": "Inflamação dura, circunscrita, profunda, dolorosa do tecido subcutâneo. Elimina pus na superfície, através de vários pontos. O vocábulo origina-se do grego, onde significa carvão, tendo, porém, outro sentido, isto é, de certas pedras, principalmente uma p",
+        "en": "anthrax"
+    },
+    "antro": {
+        "des": "Do gr. ántron, buraco (antrocele, antrostomia).",
+        "en": "den"
+    },
+    "antropo": {
+        "des": "Do gr. ánthropos, homem (antropometria, antropóide).",
+        "en": "anthropo"
+    },
+    "antropofagia": {
+        "des": "Canibalismo; ação de comer carne humana.",
+        "en": "anthropophagy"
+    },
+    "anurese": {
+        "des": "Retenção de urina na bexiga; anúria.",
+        "en": "anury"
+    },
+    "anúria": {
+        "des": "Supressão da secreção ou eliminação da urina, devido a lesões renais ou obstrução mecânica.",
+        "en": "anuria"
+    },
+    "ânus": {
+        "des": "Extremidade distal do tubo digestivo.",
+        "en": "anus"
+    },
+    "anusite": {
+        "des": "Inflamação do ânus; proctite.",
+        "en": "anusitis"
+    },
+    "anverso": {
+        "des": "Parte anterior de objeto que possui dois lados.",
+        "en": "obverse"
+    },
+    "anxietas tibiarum": {
+        "des": "Sensação de desconforto nas pernas, mais notada à noite, entre os joelhos e sem nenhum sintoma subjetivo, freqüentemente associada a parestesias.",
+        "en": "Não encontrado"
+    },
+    "aorta": {
+        "des": "Artéria-tronco do sistema arterial, que começa no ventrículo esquerdo, dirigindo-se para cima (aorta ascendente), depois se encurva em arco (arco aórtico ou croça da aorta), dirigindo-se para baixo, atravessando o tórax (aorta torácica), seguindo pelo abd",
+        "en": "aorta"
+    },
+    "aosmia": {
+        "des": "Ausência de olfato ou odor; mau cheiro.",
+        "en": "osmia"
+    },
+    "APAE": {
+        "des": "Sigla da Associação de Pais e Amigos dos Excepcionais, criada no Rio de Janeiro em 1954, por sugestão da americana Beatrice Bemis, que residia ali com sua filha &#34;mongolóide&#34;; a entidade se destina a congregar os pais e amigos dos excepcionais numa associa",
+        "en": "APAE"
+    },
+    "apaloniquia": {
+        "des": "Unha membranosa, em cornificação.",
+        "en": "apalonychia"
+    },
+    "apalpar": {
+        "des": "Tocar com as mãos ou dedos, para conhecer a resistência, os limites, a extensão, as irregularidades e a temperatura de órgãos e as alterações orgânicas.",
+        "en": "grope"
+    },
+    "apandria": {
+        "des": "Aversão mórbida ao sexo masculino; perda de função dos órgãos masculinos.",
+        "en": "apandry"
+    },
+    "apantismo": {
+        "des": "Obliteração de órgão.",
+        "en": "apantism"
+    },
+    "apantropia": {
+        "des": "Medo mórbido de convívio com seres humanos.",
+        "en": "apantropy"
+    },
+    "aparadeira": {
+        "des": "Mulher que serve de parteira; parteira sem diploma (pop.).",
+        "en": "sideboard"
+    },
+    "aparelho": {
+        "des": "Conjunto de órgãos que desempenham uma função, como o digestório, respiratório, urinário; dispositivo aplicado ao corpo com o fim de imobilizar um órgão ou corrigir deformidade.",
+        "en": "device"
+    },
+    "apareunia": {
+        "des": "Coito difícil ou impossível.",
+        "en": "apareunia"
+    },
+    "apastia": {
+        "des": "Inapetência como sintoma neuropatológico.",
+        "en": "apastia"
+    },
+    "apatia": {
+        "des": "Estado de indiferença; inatividade; falta de emoções.",
+        "en": "apathy"
+    },
+    "apeiro": {
+        "des": "Do gr. ápeiros, infinito (apeirofobia).",
+        "en": "apeiro"
+    },
+    "apêndice": {
+        "des": "Nome genérico de parte aderente a órgão.",
+        "en": "appendix"
+    },
+    "apêndice cecal": {
+        "des": "Prolongamento do ceco, com tecido linfóide, situado na ampola cecal.",
+        "en": "Não encontrado"
+    },
+    "apendicectomia": {
+        "des": "Retirada cirúrgica do apêndice, notadamente o cecal.",
+        "en": "appendectomy"
+    },
+    "apendicite": {
+        "des": "Inflamação do apêndice, geralmente referida ao apêndice cecal.",
+        "en": "appendicitis"
+    },
+    "apepsia": {
+        "des": "Impossibilidade de digerir; redução ou supressão das funções digestivas; ausência de pepsina no suco gástrico.",
+        "en": "apepsia"
+    },
+    "aperitivo": {
+        "des": "Que estimula o apetite.",
+        "en": "appetizer"
+    },
+    "apetite": {
+        "des": "Desejo ou disposição para ingerir alimentos ou bebidas.",
+        "en": "appetite"
+    },
+    "Apgar, coeficiente": {
+        "des": "Classificação de prematuros em graus até 10, proposta em 1953 pela anestesista americana Virginia Apgar; é a relação entre o sofrimento fetal e certos sintomas, como ritmo cardíaco, respiração, reflexos, turgor,etc. .",
+        "en": "Não encontrado"
+    },
+    "api": {
+        "des": "Do lat. apis, abelha (apicultura, apifobia).",
+        "en": "api"
+    },
+    "apical": {
+        "des": "Relativo ao ápice.",
+        "en": "apical"
+    },
+    "ápice": {
+        "des": "Ponta; extremidade; ponto máximo de um fenômeno.",
+        "en": "apex"
+    },
+    "apifobia": {
+        "des": "Medo mórbido de abelhas ou de suas picadas.",
+        "en": "apiphobia"
+    },
+    "apirexia": {
+        "des": "Cessação da febre.",
+        "en": "apyrexia"
+    },
+    "apisinação": {
+        "des": "Efeito tóxico decorrente da picada de abelhas.",
+        "en": "apisination"
+    },
+    "aplacar": {
+        "des": "Aclamar; aliviar; minorar a dor ou sofrimento (pop.).",
+        "en": "placate"
+    },
+    "aplasia": {
+        "des": "Ausência de formação; desenvolvimento incompleto de tecido; atrofia congênita.",
+        "en": "aplasia"
+    },
+    "aplestia": {
+        "des": "Apetite insaciável; voracidade mórbida.",
+        "en": "aplestia"
+    },
+    "apnéia": {
+        "des": "Suspensão transitória da respiração.",
+        "en": "apnea"
+    },
+    "apnêuse": {
+        "des": "Respiração sustentada; espasmo inspiratório.",
+        "en": "apnea"
+    },
+    "apo": {
+        "des": "Pref. gr. apó: afastamento, derivação, privação, separação, conclusão (apófise, apogamia, apogeusia, aponeurose, apoplexia).",
+        "en": "apo"
+    },
+    "apobiose": {
+        "des": "Morte normal, fisiológica.",
+        "en": "apobiosis"
+    },
+    "apocatástase": {
+        "des": "Restauração; restabelecimento da saúde.",
+        "en": "apocatastasis"
+    },
+    "apociesia": {
+        "des": "Fim da gestação; parto.",
+        "en": "apociesia"
+    },
+    "apócope": {
+        "des": "Fratura; amputação.",
+        "en": "apocope"
+    },
+    "apócrino": {
+        "des": "Relativo ao tipo de secreção glandular em que os produtos se concentram na extremidade livre das células.",
+        "en": "apocrine"
+    },
+    "apocrisia": {
+        "des": "Evacuação de substâncias mórbidas.",
+        "en": "apocrisy"
+    },
+    "ápode": {
+        "des": "Que não possui pés ou patas; ápodo.",
+        "en": "apodal"
+    },
+    "apófise": {
+        "des": "Qualquer processo, excrescência ou inchação, sobretudo de osso.",
+        "en": "apophysis"
+    },
+    "apogeu": {
+        "des": "Ponto de gravidade máxima da doença; ponto culminante.",
+        "en": "heyday"
+    },
+    "apogeusia": {
+        "des": "Distúrbio no sentido do gosto.",
+        "en": "heyday"
+    },
+    "apoginia": {
+        "des": "Perda da capacidade reprodutora do órgão feminino.",
+        "en": "apogyny"
+    },
+    "apojadura": {
+        "des": "Enchimento de leite, no peito; afluência da secreção de leite.",
+        "en": "abutment"
+    },
+    "apomatesia": {
+        "des": "Esquecimento daquilo que fora aprendido.",
+        "en": "apomatesia"
+    },
+    "aponeurose": {
+        "des": "Membrana fibrosa, de colágeno, que envolve os músculos.",
+        "en": "aponeurosis"
+    },
+    "aponia": {
+        "des": "Cessação de dores ou de sofrimentos.",
+        "en": "aponia"
+    },
+    "apoplexia": {
+        "des": "Paralisia súbita ou cessação das funções cerebrais por extravasamento sangüíneo no cérebro.",
+        "en": "stroke"
+    },
+    "aposia": {
+        "des": "Ausência de sede.",
+        "en": "aposia"
+    },
+    "aposição": {
+        "des": "Crescimento por adição de camadas contínuas externas.",
+        "en": "the position"
+    },
+    "apositia": {
+        "des": "Anorexia; inapetência.",
+        "en": "apositia"
+    },
+    "apósito": {
+        "des": "Medicamento colocado sobre ferimento; penso curativo.",
+        "en": "deposit"
+    },
+    "apóstase": {
+        "des": "Separação anormal de partes normalmente ligadas.",
+        "en": "apostasy"
+    },
+    "apostema": {
+        "des": "Inflamação supurativa; abscesso.",
+        "en": "bet"
+    },
+    "apostia": {
+        "des": "Ausência congênita de prepúcio.",
+        "en": "bet"
+    },
+    "aposto": {
+        "des": "Ligado à superfície.",
+        "en": "I bet"
+    },
+    "apragmatismo": {
+        "des": "Perda dos valores utilitários, por incapacidade de agir ou realizar os atos da vida quotidiana.",
+        "en": "apragmatism"
+    },
+    "apraxia": {
+        "des": "Perda da compreensão do uso de objetos e coisas; cegueira psíquica.",
+        "en": "apraxia"
+    },
+    "áptero": {
+        "des": "Desprovido de asas.",
+        "en": "wingless"
+    },
+    "aptidão": {
+        "des": "Capacidade; disposição; habilidade.",
+        "en": "fitness"
+    },
+    "Aquiles": {
+        "des": "O herói grego mais famoso. Filho de Peleu e de Tétis, tomou parte na guerra de Tróia e combateu com Agamenão, que lhe tomou a escrava Briseida. Indignado, Aquiles recolheu-se à sua tenda, desistindo de lutar; retornou depois às armas, para vingar o heróic",
+        "en": "Achilles"
+    },
+    "Aquiles, reflexo do tendão de": {
+        "des": "Flexão do pé pela percussão do tendão de Aquiles, estando o paciente de joelhos.",
+        "en": "Não encontrado"
+    },
+    "Aquiles, tendão de": {
+        "des": "O mais forte tendão do corpo humano, situado póstero-inferiormente em cada perna, estendendo-se ao osso calcâneo.",
+        "en": "Não encontrado"
+    },
+    "aquilia": {
+        "des": "Ausência de lábios; aquelia.",
+        "en": "aquilia"
+    },
+    "aquiria": {
+        "des": "Ausência congênita da mão.",
+        "en": "aquiria"
+    },
+    "aquisia": {
+        "des": "Ausência de ejaculação; esterilidade.",
+        "en": "acquisition"
+    },
+    "ar": {
+        "des": "Mistura gasosa que forma a atmosfera.",
+        "en": "air"
+    },
+    "aração": {
+        "des": "Gula; ato de comer rápido (pop.).",
+        "en": "plowing"
+    },
+    "aracne": {
+        "des": "Do gr. arachné, aranha (aracnídeo, aracnoidite).",
+        "en": "arachnee"
+    },
+    "araruta": {
+        "des": "Farinha de fécula das raízes da maranta, usada na preparação de papas e bolos, principalmente no interior do Brasil, como alimento infantil; o termo advém de Arrow-Root, marca inglesa.",
+        "en": "arrowroot"
+    },
+    "arcada": {
+        "des": "Disposição anatômica em arco.",
+        "en": "arcade"
+    },
+    "arco": {
+        "des": "Do gr. archos, ânus, reto (arcoptose, arcocele, arquite); - do gr. archós, o que conduz, guia (arcoplasma); - do lat. arcus, arco (arciforme).",
+        "en": "bow"
+    },
+    "área sob a curva": {
+        "des": "Corresponde à área da figura geométrica feita pela curva de concentração de um fármaco em função do tempo; é calculada pela regra simples da área do paralelogramo; ASC; AUC (área under the curve).",
+        "en": "Não encontrado"
+    },
+    "areação": {
+        "des": "Método terapêutico de cobrir o corpo ou qualquer parte dele com areia quente e seca, ou areia com propriedades medicamentosas, como a monazítica.",
+        "en": "the reaction"
+    },
+    "areo": {
+        "des": "Do gr. araiós, leve, lento (areômetro).",
+        "en": "aerial"
+    },
+    "aréola": {
+        "des": "Espaço limitado entre tecidos ou que circunda um ponto.",
+        "en": "areola"
+    },
+    "aréola mamilar": {
+        "des": "Zona circular pigmentada, existente em torno do bico do peito ou mamilo.",
+        "en": "Não encontrado"
+    },
+    "argento": {
+        "des": "Do lat. argentum, prata (argênteo).",
+        "en": "argent"
+    },
+    "argiria": {
+        "des": "Coloração acinzentada da pele e das mucosas, conseqüente ao uso prolongado de sais de prata.",
+        "en": "argyria"
+    },
+    "argiro": {
+        "des": "Do gr. árgyros, prata (argiríase, argirismo).",
+        "en": "argyro"
+    },
+    "aritmo": {
+        "des": "Do gr. arithmós, algarismo (aritmomania).",
+        "en": "arithme"
+    },
+    "arque, arqui": {
+        "des": "Do gr. arché, começo, origem, primazia, ou archaîos, antigo, primitivo (arquêntero, arquétipo, menarca, arquinéfron); - V. também arco.",
+        "en": "Não encontrado"
+    },
+    "arquebiose": {
+        "des": "Origem da vida; vida primitiva; suposta geração espontânea dos seres.",
+        "en": "archebiosis"
+    },
+    "arquejar": {
+        "des": "Respirar com dificuldade; ter dispnéia intensa.",
+        "en": "pant"
+    },
+    "arquétipo": {
+        "des": "Segundo Carl Gustav Jung, psicólogo e psicanalista suíço (1875-1961), imagens psíquicas do inconsciente coletivo, que são patrimônio comum a toda a Humanidade.",
+        "en": "archetype"
+    },
+    "arqui": {
+        "des": "Termo para indicar antigo, primitivo, principal.",
+        "en": "arch"
+    },
+    "arreno": {
+        "des": "Do gr. árrhen, árrhenos, macho (arrenoblastoma, arrenotocia).",
+        "en": "I rake"
+    },
+    "arrepio": {
+        "des": "Ação de arrepiar; sensação de frio, com queda da temperatura exterior.",
+        "en": "shiver"
+    },
+    "arrinia": {
+        "des": "Ausência congênita de nariz.",
+        "en": "arrinia"
+    },
+    "arritmia": {
+        "des": "Perturbação ou desvio do ritmo.",
+        "en": "cardiac arrhythmia"
+    },
+    "arritmia cardíaca": {
+        "des": "Qualquer anormalidade envolvendo o sistema elétrico do coração, responsável pelo número de batimentos. As mais freqüentes formas de arritmia são a taquicardia e a bradicardia, respectivamente, aceleração e diminuição do número de batimentos cardíacos.",
+        "en": "Não encontrado"
+    },
+    "arrocho": {
+        "des": "Sensação de aperto torácico (pop.).",
+        "en": "squeeze"
+    },
+    "arrojar": {
+        "des": "Expelir com força pelas vias naturais; vomitar; diarréia (pop.).",
+        "en": "throw"
+    },
+    "arrotar": {
+        "des": "Emitir ar pela boca, vindo do estômago.",
+        "en": "burp"
+    },
+    "artelho": {
+        "des": "Dedo do pé; pododátilo.",
+        "en": "toe"
+    },
+    "artéria": {
+        "des": "Vaso que transporta o sangue do coração para os tecidos do organismo.",
+        "en": "artery"
+    },
+    "arteriectasia": {
+        "des": "Dilatação anormal de uma artéria.",
+        "en": "arteriectasia"
+    },
+    "arteriopatia": {
+        "des": "Designação genérica das doenças das artérias.",
+        "en": "arteriopathy"
+    },
+    "arteriorrafia": {
+        "des": "Sutura de uma artéria.",
+        "en": "arteriorrhaphy"
+    },
+    "arteriorragia": {
+        "des": "Hemorragia arterial.",
+        "en": "arteriorrhagia"
+    },
+    "arteriosclerose": {
+        "des": "Alteração na parede das artérias, espessamento e endurecimento, resultando na perda da elasticidade.",
+        "en": "arteriosclerosis"
+    },
+    "articulação": {
+        "des": "Junta; união de dois ou mais ossos; maneira de se pronunciar distintamente as sílabas das palavras.",
+        "en": "articulation"
+    },
+    "articulações, doenças das": {
+        "des": "1. Artrite: inflamação de uma ou mais articulações. Principais tipos: reumatóide, tuberculosa, gonocócica, gotosa e traumática; 2. Sinovite: qualquer inflamação da membrana que forra a cavidade articular; 3. Epifisite: inflamação da extremidade de um osso",
+        "en": "Não encontrado"
+    },
+    "articulado": {
+        "des": "Ligado por articulação; preso; ajustado.",
+        "en": "articulated"
+    },
+    "artralgia": {
+        "des": "Dor nas articulações.",
+        "en": "arthralgia"
+    },
+    "artrite": {
+        "des": "Inflamação dos tecidos das articulações.",
+        "en": "arthritis"
+    },
+    "artrite reumatóide": {
+        "des": "Doença inflamatória cronica, degenerativa e progressiva, que afeta as articulações móveis, principalmente dos dedos das mãos e/ou pés, provocando destruição das estruturas articulares e periarticulares. É sistêmica e, por isso, pode atingir outros órgãos.",
+        "en": "Não encontrado"
+    },
+    "artro": {
+        "des": "Do gr. árthron, articulação (gonartrose, poliartrite, sinartrose).",
+        "en": "arthrosis"
+    },
+    "artrocentese": {
+        "des": "Punção de uma articulação.",
+        "en": "arthrocentesis"
+    },
+    "artrocondrite": {
+        "des": "Inflamação que atinge as cartilagens articulares.",
+        "en": "arthrochondritis"
+    },
+    "artroflogose": {
+        "des": "Artrite; inflamação articular.",
+        "en": "arthrophlogosis"
+    },
+    "artropatia": {
+        "des": "Qualquer tipo de doença das articulações.",
+        "en": "arthropathy"
+    },
+    "artrose": {
+        "des": "Processo crônico de degeneração das articulações.",
+        "en": "osteoarthritis"
+    },
+    "asafia": {
+        "des": "Pronúncia indistinta das palavras.",
+        "en": "asafia"
+    },
+    "asarcia": {
+        "des": "Magreza extrema; atrofia.",
+        "en": "asarcia"
+    },
+    "Áscaris lumbricóides": {
+        "des": "Helminto que pode atingir até 30 cm de comprimento; parasita do intestino humano.",
+        "en": "Não encontrado"
+    },
+    "ascite": {
+        "des": "Derrame de líquido na cavidade peritoneal. Geralmente é um sintoma de insuficiência renal, cardíaca, de cirrose hepática e outros.",
+        "en": "ascites"
+    },
+    "Asclepíade": {
+        "des": "Célebre médico grego que exerceu sua profissão em Roma (128",
+        "en": "Asclepiad"
+    },
+    "asfalgesia": {
+        "des": "Sensação de queimadura, quando se tocam alguns objetos.",
+        "en": "asphalgesia"
+    },
+    "asfigmia": {
+        "des": "Desaparecimento temporário do pulso.",
+        "en": "asphygmy"
+    },
+    "asfixia": {
+        "des": "Suspensão da respiração; anóxia; sufocação.",
+        "en": "asphyxia"
+    },
+    "asma brônquica": {
+        "des": "Perturbação da respiração que se caracteriza por crises recorrentes de dispnéia (dificuldade de respirar), com &#34;chiado&#34; característico, devido a um estreitamento da luz dos brônquios e bronquíolos. Durante o acesso asmático, a mucosa dos brônquios torna-s",
+        "en": "Não encontrado"
+    },
+    "aspergilose": {
+        "des": "Doença causada por fungo do gênero Aspergillus.",
+        "en": "aspergillosis"
+    },
+    "aspermia": {
+        "des": "Ausência de líquido seminal, ou de semente.",
+        "en": "aspermia"
+    },
+    "aspersão": {
+        "des": "Ato de aspergir; pulverização de líquidos sobre superfícies; borrifo ou ducha com medicamentos.",
+        "en": "sprinkling"
+    },
+    "asplenia": {
+        "des": "Ausência de baço.",
+        "en": "asplenia"
+    },
+    "asporulado": {
+        "des": "Destituído de esporo; que perdeu a propriedade de esporular, ou que normalmente não produz esporos.",
+        "en": "sporulated"
+    },
+    "asquistodactilia": {
+        "des": "Fusão congênita dos dedos.",
+        "en": "aschistodactyly"
+    },
+    "assada": {
+        "des": "Macerada; diz-se da pele maltratada ou sujeita à sudação prolongada, sem tratamento higiênico subseqüente.",
+        "en": "Não encontrado"
+    },
+    "assadura": {
+        "des": "Irritação cutânea, com descamação e rubefação, provocada por atrito ou calor, também denominada de intertrigem.",
+        "en": "diaper rash"
+    },
+    "assepsia": {
+        "des": "Ausência de micróbios ou matéria séptica; profilaxia ou prevenção de invasão de microrganismos.",
+        "en": "asepsis"
+    },
+    "asséptico": {
+        "des": "Livre de matérias sépticas.",
+        "en": "aseptic"
+    },
+    "assexuado": {
+        "des": "Desprovido de sexo.",
+        "en": "asexual"
+    },
+    "assimetria": {
+        "des": "Falta de simetria; desvio da disposição normal de órgãos, membros ou partes.",
+        "en": "asymmetry"
+    },
+    "assimilação": {
+        "des": "Transformação dos alimentos e conseqüente incorporação aos tecidos vivos; anabolismo.",
+        "en": "assimilation"
+    },
+    "assimilável": {
+        "des": "Diz-se do que, sendo ingerido por via enteral ou parenteral, é integrado na economia ou nos tecidos.",
+        "en": "assimilable"
+    },
+    "assinclitismo": {
+        "des": "Apresentação oblíqua da cabeça fetal.",
+        "en": "asynclitism"
+    },
+    "assistência ambulatorial": {
+        "des": "Segundo o Ministério da Saúde, conjunto de procedimentos médicos e terapêuticos de baixa complexidade, possíveis de realização em ambulatórios e postos de saúde.",
+        "en": "Não encontrado"
+    },
+    "assistência farmacêutica": {
+        "des": "Segundo o Ministério da Saúde, grupo de atividades relacionadas com o medicamento, destinadas a apoiar as ações de saúde demandadas por uma comunidade. Envolve o abastecimento de medicamentos em todas e em cada uma de suas etapas constitutivas, a conserva",
+        "en": "Não encontrado"
+    },
+    "assistia": {
+        "des": "Abstinência de alimento.",
+        "en": "used to watch"
+    },
+    "asso": {
+        "des": "O mesmo que albino.",
+        "en": "ass"
+    },
+    "assoalho do terceiro ventrículo": {
+        "des": "Superfície formada pelos constituintes do hipotálamo.",
+        "en": "Não encontrado"
+    },
+    "associação": {
+        "des": "É a reunião de idéias ou dados para um fim comum, e verificação de dependência entre dois fatores.",
+        "en": "Association"
+    },
+    "Associação Médica Brasileira": {
+        "des": "Sociedade sem fins lucrativos, fundada em 26 de janeiro de 1951, por Jairo Ramos, seu idealizador e primeiro presidente. Tem por finalidade defender a categoria médica em terrenos científico, ético, social, econômico e cultural; contribuir para a elaboraç",
+        "en": "Não encontrado"
+    },
+    "assonia": {
+        "des": "Surdez total.",
+        "en": "wheeze"
+    },
+    "astasia": {
+        "des": "Incoordenação motora com incapacidade de permanecer de pé.",
+        "en": "astasia"
+    },
+    "astásico": {
+        "des": "Relativo à astasia; instável.",
+        "en": "astatic"
+    },
+    "astenia": {
+        "des": "Ausência ou perda de força muscular; fraqueza muscular freqüente na fase invasiva das doenças infecciosas.",
+        "en": "asthenia"
+    },
+    "astigmatismo": {
+        "des": "Erro de refração na visão devido ao fato de a córnea (membrana transparente da parte anterior do olho) ser desigualmente curva em várias direções, de tal modo que os raios luminosos não podem ser focados no mesmo ponto da retina. O astigmatismo faz com qu",
+        "en": "Não encontrado"
+    },
+    "astisia": {
+        "des": "Impotência sexual, no homem.",
+        "en": "astisia"
+    },
+    "astrágalo": {
+        "des": "Osso curto do tarso, situado entre a perna, acima, o calcâneo e o escafóide, adiante e atrás.",
+        "en": "astragalus"
+    },
+    "astrape": {
+        "des": "Do gr. astrapé, relâmpago, (astrapefobia).",
+        "en": "astrape"
+    },
+    "astrapofobia": {
+        "des": "Medo mórbido de relâmpago.",
+        "en": "astrapophobia"
+    },
+    "astrição": {
+        "des": "Efeito decorrente de substância adstringente.",
+        "en": "astriction"
+    },
+    "astrócito": {
+        "des": "Célula em forma de estrela; certo tipo de célula da neuróglia.",
+        "en": "astrocyte"
+    },
+    "atadura": {
+        "des": "Faixa de pano de malhas largas para prender, manter e proteger partes lesadas.",
+        "en": "bandage"
+    },
+    "atalhar": {
+        "des": "Fazer cessar corrimento de sangue.",
+        "en": "cut short"
+    },
+    "ataque": {
+        "des": "Termo popular usado para as crises convulsivas súbitas; acesso súbito de qualquer espécie, geralmente acompanhado de perda da consciência; acesso repentino de doença.",
+        "en": "attack"
+    },
+    "atarantar": {
+        "des": "Perturbar o sentido momentâneamente; confundir.",
+        "en": "fuss"
+    },
+    "atavismo": {
+        "des": "Herança de caracteres remotos, presente nos ancestrais.",
+        "en": "atavism"
+    },
+    "ataxia": {
+        "des": "Perda da faculdade de coordenar os movimentos voluntários.",
+        "en": "muscle ataxia"
+    },
+    "ataxia muscular": {
+        "des": "Perda da capacidade de coordenar os movimentos durante a marcha.",
+        "en": "Não encontrado"
+    },
+    "ate": {
+        "des": "Do gr. áte, ruína, desastre, castigo (atefobia).",
+        "en": "up until"
+    },
+    "atecnia": {
+        "des": "Esterilidade; impotência.",
+        "en": "atechny"
+    },
+    "atelectasia": {
+        "des": "Falta de dilatação; expansão incompleta dos pulmões por ocasião do nascimento; colapso pulmonar mecânico por compressão ou reflexo.",
+        "en": "atelectasis"
+    },
+    "ateliose": {
+        "des": "Infantilismo pituitário; nanismo hipofisário.",
+        "en": "atheliosis"
+    },
+    "atelo": {
+        "des": "Do gr. atelés, incompleto (atelomielia, atelocardia).",
+        "en": "atelo"
+    },
+    "atero": {
+        "des": "Do gr. athér, atheros, ponta, papila, espiga (ateroma, aterosclerose).",
+        "en": "ater"
+    },
+    "ateroma": {
+        "des": "Degeneração da parede interna das artérias, com formação de depósitos de colesterina e sais de cálcio.",
+        "en": "atheroma"
+    },
+    "aterosclerose": {
+        "des": "Forma de arteriosclerose em que a íntima está, sobretudo, acometida com produção de massas ateromatosas na luz do vaso, com gotículas de gordura.",
+        "en": "atherosclerosis"
+    },
+    "ateto": {
+        "des": "V. teto.",
+        "en": "atheist"
+    },
+    "atetose": {
+        "des": "Distúrbio caracterizado por movimentos irregulares, arrítmicos, das mãos e dos pés, com distensões e contrações dos dedos, em conseqüência de lesões centrais.",
+        "en": "athetosis"
+    },
+    "atimia": {
+        "des": "Melancolia; ausência do timo.",
+        "en": "atimia"
+    },
+    "atípico": {
+        "des": "Irregular; que não apresenta tipo normal.",
+        "en": "atypical"
+    },
+    "atiria": {
+        "des": "Ausência da glândula tiróide.",
+        "en": "would shoot"
+    },
+    "atlas": {
+        "des": "Primeira vértebra cervical, que suporta o crânio.",
+        "en": "atlas"
+    },
+    "atmo": {
+        "des": "Do gr. atmós, vapor (atmorrinômetro, atmosfera).",
+        "en": "atmosphere"
+    },
+    "atmólise": {
+        "des": "Separação de gases combinados, por meio de passagem através de placa porosa; desintegração de tecidos orgânicos por vapores de líquidos voláteis; análise de gases.",
+        "en": "atmolysis"
+    },
+    "atocia": {
+        "des": "Esterilidade feminina.",
+        "en": "actism"
+    },
+    "átoco": {
+        "des": "Que não se reproduz.",
+        "en": "atoch"
+    },
+    "atômica, massa": {
+        "des": "Razão entre a massa de um átomo de nuclídeo e 1/12 da massa de um átomo do nuclídeo carbono; peso atômico.",
+        "en": "Não encontrado"
+    },
+    "atomicidade": {
+        "des": "Atividade atômica dos corpos químicos; valência; número de átomos que constitui a molécula das substâncias simples.",
+        "en": "atomicity"
+    },
+    "atômico": {
+        "des": "Relativo ao átomo.",
+        "en": "atomic"
+    },
+    "atômico, número": {
+        "des": "Número de prótons do núcleo.",
+        "en": "Não encontrado"
+    },
+    "atomização": {
+        "des": "Dispersão de líquidos em gotículas extremamente pequenas, forçando-se a passagem líquida através de tubos capilares, com abertura numa câmera ou cavidade.",
+        "en": "atomization"
+    },
+    "atomizador": {
+        "des": "Instrumento para realizar a atomização.",
+        "en": "atomizer"
+    },
+    "atomizar": {
+        "des": "Realizar a atomização; reduzir a átomos ou partículas extremamente finas.",
+        "en": "atomize"
+    },
+    "átomo": {
+        "des": "Partícula da molécula; menor partícula que pode entrar em combinação, que consta de um centro ou núcleo em torno do qual giram diminutos elétrons, disposição esta que permite sua comparação a um sistema solar infinitamente pequeno.",
+        "en": "atom"
+    },
+    "atonia": {
+        "des": "Deficiência de tono; estupor com imobilidade completa observada na esquizofrenia catatônica.",
+        "en": "intestinal atony"
+    },
+    "atonia intestinal": {
+        "des": "Paralisia ou paresia da contratilidade intestinal.",
+        "en": "Não encontrado"
+    },
+    "atônito": {
+        "des": "Pasmado; assustado; perturbado emocionalmente.",
+        "en": "astonished"
+    },
+    "atopia": {
+        "des": "Conjunto de afecções alérgicas caracterizadas por influência hereditária, e que inclui asma, eczema e febre-do-feno.",
+        "en": "atopy"
+    },
+    "atópico": {
+        "des": "Relativo à atopia; fora de lugar.",
+        "en": "atopic"
+    },
+    "atopognose": {
+        "des": "Perda da capacidade de localizar as sensações do organismo; perda da capacidade de localização tátil.",
+        "en": "atopognosis"
+    },
+    "atopomenorréia": {
+        "des": "Menstruação vicariante.",
+        "en": "atopomenorrhea"
+    },
+    "atóxico": {
+        "des": "Que não contém veneno; que não é tóxico.",
+        "en": "non-toxic"
+    },
+    "ATP": {
+        "des": "Abreviação de adenosinotrifosfato.",
+        "en": "ATP"
+    },
+    "atrabile": {
+        "des": "Bílis negra, da concepção da medicina hipocrática, segundo a qual havia duas bílis: a bílis e a astrabile ou bílis negra, esta promovendo instabilidade, melancolia, hipocondria.",
+        "en": "attract"
+    },
+    "atração": {
+        "des": "Força ou progresso que atrai um corpo em direção a outro; aproximação; afinidade de forças contrárias.",
+        "en": "attraction"
+    },
+    "atrepsia": {
+        "des": "Atrofia do lactente; caquexia em conseqüência de danos nutritivos.",
+        "en": "atrepsy"
+    },
+    "atresia": {
+        "des": "Imperfuração; fechamento de abertura de orifício normal.",
+        "en": "atresia"
+    },
+    "atributo": {
+        "des": "Que é próprio de alguma coisa; qualidade; propriedade de um ser.",
+        "en": "attribute"
+    },
+    "atrição": {
+        "des": "Atrito; fricção enérgica; escoriação decorrente de atrito.",
+        "en": "attrition"
+    },
+    "átrico": {
+        "des": "Que não possui cílios ou flagelos.",
+        "en": "atric"
+    },
+    "atricose": {
+        "des": "Perda dos cabelos por alteração trófica; atriquia.",
+        "en": "atrichosis"
+    },
+    "átrio": {
+        "des": "Cavidade anterior do coração que recebe o sangue periférico; aurícula; cavidade do tímpano.",
+        "en": "atrium"
+    },
+    "atriquia": {
+        "des": "Ausência de pêlos ou flagelos; alopecia congênita.",
+        "en": "atrichia"
+    },
+    "atrofia": {
+        "des": "Diminuição do tamanho de um órgão ou de um organismo ou das células de um tecido.",
+        "en": "atrophy"
+    },
+    "atropina": {
+        "des": "Princípio ativo da beladona.",
+        "en": "atropine"
+    },
+    "aturdir": {
+        "des": "Atordoar; estontear; perturbar.",
+        "en": "stun"
+    },
+    "audi, audio": {
+        "des": "Do lat. audire, ouvir (Audimutismo, audiômetro).",
+        "en": "Não encontrado"
+    },
+    "audiometria": {
+        "des": "Avaliação quantitativa e qualitativa da acuidade auditiva, para diagnóstico.",
+        "en": "audiometry"
+    },
+    "Auerbach, plexo de": {
+        "des": "Plexo nervoso do intestino delgado, localizado entre as túnicas mucosa e muscular, um dos responsáveis pela motilidade intestinal, independente do sistema nervoso central. O termo advém de Leopold Auerbach, anatomista alemão (1828-1897).",
+        "en": "Não encontrado"
+    },
+    "auge": {
+        "des": "Ponto mais elevado; apogeu.",
+        "en": "heyday"
+    },
+    "aulo": {
+        "des": "Do gr. aulós, cano, tubo (disaulia).",
+        "en": "class"
+    },
+    "aura": {
+        "des": "Fenômeno ou sensação especial que, nos indivíduos epilépticos, surge imediatamente antes do início do ataque.",
+        "en": "aura"
+    },
+    "áureo": {
+        "des": "Que tem cor de ouro; brilhante; magnífico.",
+        "en": "golden"
+    },
+    "auréola": {
+        "des": "Círculo luminoso em torno de um ponto, ou de uma zona.",
+        "en": "halo"
+    },
+    "auri, auro, aureo": {
+        "des": "Do lat. aureus ou aurum, ouro (aurismo, aurocromodermia, áureoterapia, aureococo); - do lat.auris, ouvido (auriforme, auricula)auto - Do gr. autós, próprio (autógeno, autogamia, autismo).",
+        "en": "Não encontrado"
+    },
+    "aurícula": {
+        "des": "Porção externa da orelha chamada pavilhão do ouvido; cavidade do coração; átrio.",
+        "en": "auricle"
+    },
+    "auriscálpio": {
+        "des": "Instrumento para raspar substância estranha do ouvido.",
+        "en": "auriscalp"
+    },
+    "aurismo": {
+        "des": "Intoxicação por excesso de sais de ouro.",
+        "en": "aurism"
+    },
+    "auroterapia": {
+        "des": "Terapêutica com sais de ouro; crisoterapia.",
+        "en": "aurotherapy"
+    },
+    "auscultação": {
+        "des": "Ato de ouvir sons ou ruídos produzidos no interior do organismo (coração, pulmão).",
+        "en": "auscultation"
+    },
+    "autarcia": {
+        "des": "Tranqüilidade de espírito; calma; sobriedade.",
+        "en": "autarky"
+    },
+    "autismo": {
+        "des": "Fenômeno patológico que se caracteriza por perda do contato com a realidade e o mundo externo, e criação mental de um mundo autônomo centrado no próprio indivíduo, resultado de inadequacidade no desenvolvimento, de etiologia puramente orgânica, que se man",
+        "en": "autism"
+    },
+    "auto": {
+        "des": "Prefixo para exprimir relação com o próprio, de si mesmo.",
+        "en": "self"
+    },
+    "autoclave": {
+        "des": "Aparelho para esterilização, por meio de vapor sob pressão.",
+        "en": "autoclave"
+    },
+    "autóctone": {
+        "des": "Indígena; da própria terra; nativo.",
+        "en": "autochthonous"
+    },
+    "autofagia": {
+        "des": "Ato de destruir a si próprio; nutrição do corpo mediante consumo dos próprios tecidos.",
+        "en": "autophagy"
+    },
+    "autofilia": {
+        "des": "Estado mórbido caracterizado por acentuado amor à própria pessoa.",
+        "en": "autophilia"
+    },
+    "automedicação": {
+        "des": "Prática popular de medicação sem orientação médica, em que o paciente medica a si próprio sem ter conhecimento profissional para fazê-lo.",
+        "en": "self-medication"
+    },
+    "autópsia": {
+        "des": "Exame das partes de um cadáver humano; necropsia.",
+        "en": "autopsy"
+    },
+    "auto-sugestão": {
+        "des": "Influência sugestiva que o próprio indivíduo exerce sobre si mesmo, cultivando determinadas idéias ou maneiras de pensar e agir.",
+        "en": "autosuggestion"
+    },
+    "auxese": {
+        "des": "Crescimento; aumentar de tamanho.",
+        "en": "help"
+    },
+    "auxo": {
+        "des": "Termo que indica relação com crescimento, estimulação, aceleração.",
+        "en": "help"
+    },
+    "auxo, auxano": {
+        "des": "Do gr. auxé, crescimento, aumento (auxócito, auxômetro), ou auxánomai, crescer (auxanologia).",
+        "en": "Não encontrado"
+    },
+    "avareza": {
+        "des": "Prazer mórbido de amealhar valores; em termos psicanalíticos, corresponderia ao prazer infantil da retenção anal de fezes.",
+        "en": "avarice"
+    },
+    "aversão": {
+        "des": "Nojo; asco; antipatia; repulsa.",
+        "en": "aversion"
+    },
+    "averso": {
+        "des": "Virado para trás.",
+        "en": "aversion"
+    },
+    "avexado": {
+        "des": "Aflito; angustiado (pop.).",
+        "en": "vexed"
+    },
+    "ávido": {
+        "des": "Que deseja ardentemente; que apresenta afinidade química com outro corpo.",
+        "en": "avid"
+    },
+    "avitaminose": {
+        "des": "Estado provocado pela carência de uma ou mais vitaminas no organismo humano.",
+        "en": "avitaminosis"
+    },
+    "avito": {
+        "des": "Que vem dos antepassados; ancestral.",
+        "en": "avito"
+    },
+    "avoado": {
+        "des": "Adoidado; irrequieto (pop.).",
+        "en": "avoado"
+    },
+    "avoengo": {
+        "des": "Referente aos avós; que precede ou é herdado dos avós.",
+        "en": "grandfather"
+    },
+    "Avogadro, lei de": {
+        "des": "&#34;Volumes iguais de gases",
+        "en": "Não encontrado"
+    },
+    "Avogadro, número de": {
+        "des": "Representa o número de 6,023.1023 moléculas contidas numa molécula-grama.",
+        "en": "Não encontrado"
+    },
+    "avulsão": {
+        "des": "Ato de extrair ou retirar com violência; extração de órgão ou parte dele; extração de dente.",
+        "en": "avulsion"
+    },
+    "avulso": {
+        "des": "Arrancado à força; isolado.",
+        "en": "single"
+    },
+    "axantopsia": {
+        "des": "Cegueira para o amarelo.",
+        "en": "axanthopsia"
+    },
+    "axênico": {
+        "des": "Não contaminado por germes estranhos.",
+        "en": "axenic"
+    },
+    "axi, axo": {
+        "des": "Do lat. axis ou do gr. áxon, eixo (axial, axiforme, axônio, axonema).",
+        "en": "Não encontrado"
+    },
+    "axial": {
+        "des": "Que se refere a eixo; que representa forma de eixo.",
+        "en": "axial"
+    },
+    "axífugo": {
+        "des": "Que faz sair do eixo; centrífugo.",
+        "en": "axifuge"
+    },
+    "axioma": {
+        "des": "Proposição evidente por si mesmo.",
+        "en": "axiom"
+    },
+    "axípeto": {
+        "des": "Que se dirige para o centro; centrípeto.",
+        "en": "axipetus"
+    },
+    "áxis": {
+        "des": "Eixo; segunda vértebra cervical.",
+        "en": "axis"
+    },
+    "axonema": {
+        "des": "Filamento axial do cromosoma; filamento axial dos flagelos de certos protozoários.",
+        "en": "axoneme"
+    },
+    "axônio": {
+        "des": "Cilindro-eixo da célula nervosa.",
+        "en": "axon"
+    },
+    "axóstilo": {
+        "des": "Bastonete flexível que serve de eixo de sustentação do corpo de certos protozoários.",
+        "en": "axostyle"
+    },
+    "axúngia": {
+        "des": "Gordura de porco.",
+        "en": "axungia"
+    },
+    "azedo": {
+        "des": "Que tem sabor ácido; acre.",
+        "en": "sour"
+    },
+    "azia": {
+        "des": "Pirose, queimação.",
+        "en": "heartburn"
+    },
+    "ázimo": {
+        "des": "Que não tem fermento; não provoca fermentação.",
+        "en": "unleavened"
+    },
+    "azinhavre": {
+        "des": "Camada verde de hidrocarbonato de cobre que se forma nos objetos de cobre expostos ao ar e à umidade; zinabre.",
+        "en": "holly"
+    },
+    "azoospermia": {
+        "des": "Ausência de espermatozóides ativos no sêmen.",
+        "en": "azoospermia"
+    },
+    "azotada, substância": {
+        "des": "Substância que contém nitrogênio.",
+        "en": "Não encontrado"
+    },
+    "azotemia": {
+        "des": "Presença no sangue, em concentração superior à normal, de uréia e outras substâncias azotadas.",
+        "en": "Não encontrado"
+    }
+}

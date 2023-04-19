@@ -1,0 +1,61 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+
+<style>
+    .title {
+      text-align: center;
+      margin-top: 10px;
+    }
+
+    .title span {
+      font-size: 1.5em;
+      color: #FFA500;
+      font-style: italic;
+    }
+    table {
+        margin: 0 auto;
+        margin-top: 50px;
+        border-collapse: collapse;
+    }
+
+    td {
+        padding: 10px;
+        border: 1px solid #ccc;
+    }
+
+    th {
+        background-color: #FFA500;
+        color: #fff;
+        padding: 10px;
+        border: 1px solid #ccc;
+        text-align: center;
+    }
+
+    td:nth-child(2) {
+        font-weight: bold;
+    }
+  
+    td:nth-child(odd) {
+        background-color: #f2f2f2;
+    }
+</style>
+
+
+<h3 class="title">
+    <span>{{designation}}</span>
+</h3>
+
+<table>
+    <tr>
+      <td>Description</td>
+      <td>{{value["des"]}}</td>
+    </tr>
+    <tr>
+      <td>Tradução em inglês</td>
+      <td>{{value["en"]}}</td>
+    </tr>
+  </table>
+
+{% endblock %}
