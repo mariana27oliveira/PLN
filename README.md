@@ -15,4 +15,7 @@ TPC6 - pasta aula 6 > pasta TPC (fazer uma ou várias páginas HTML sobre Engenh
 
 TPC7 - pasta aula 6 > pasta aula, pasta templates, ficheiro term.html (fazer uma página html mais bonita)
 
+TP1 - trabalho de grupo (código + relatório) (realizado com Joana Fernandes e Beatriz Leite)
+
+
 
