@@ -6,7 +6,7 @@ file = open ('dicionario_medico.txt', encoding='utf8')
 text = file.read()
 #text = re.sub(r'\f', '', text) -- anterior, não apanhava as descrições que estavam na outra página
 text = re.sub(r'\f', '\n', text)
-text = re.sub(r'(\n\n.+)\n\n', 'r\1', text)
+text = re.sub(r'(\n\n.+)\n\n', r'r\1', text)
 
 
 
@@ -16,11 +16,10 @@ entries = re.findall(r'\n\n(.+)((?:\n.+)+)', text)
 
 print(entries)
 
-#print(entries)
-
 #remover o \n
 new_entries = [(designation, description.strip()) for designation, description in entries]
 
+#print(new_entries)
 
 
 '''

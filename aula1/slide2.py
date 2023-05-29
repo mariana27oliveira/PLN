@@ -1,3 +1,4 @@
+s="Mariana"
 def string(s):
 
     # Reverse the string
@@ -20,3 +21,4 @@ def string(s):
     # Convert to uppercase
     u = s.upper()
     print(f"Uppercase string: {u}")
+string(s)
