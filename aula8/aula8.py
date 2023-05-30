@@ -61,7 +61,7 @@ for u in urls: #:1 so para vermos se fica bem, para noa bombardearmos o site. ch
 #print(lista)
 file = open ("doenças.json", "w", encoding="utf-8")
 json.dump(lista, file, ensure_ascii=False, indent=4)
-file.close
+file.close()
 
 #para alem das descrições queremos tambem o conteudo da pagina correspondente
 
