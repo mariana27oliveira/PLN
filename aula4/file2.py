@@ -20,6 +20,7 @@ for l in linhas:
         if p in t: #sendo t o dicionário
             l = re.sub(p, f"<a href title='{dicionario.get(p)}'>{p}</a>", l)
     texto += l+"\n"
+    print(texto)
 with open("LIVRO-Doenças-do-Aparelho-Digestivos_teste.html", "w",  encoding="utf-8") as file1:
     file1.write(texto)
 

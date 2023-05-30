@@ -15,7 +15,7 @@ for designation, description in dici.items():
     en_translation = translator.translate(designation)
     print(en_translation)
     new_dici[designation] = {"des":description, 
-                             "en": translator.translate(designation)
+                             "en": en_translation
                              }
     
 file_out=open("dicionario_translation.json", "w", encoding="utf8")

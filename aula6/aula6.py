@@ -27,6 +27,7 @@ def term(t):
 def table():
     return render_template("table.html")
 
+
 @app.route("/terms/search")
 def search():
 
@@ -39,6 +40,20 @@ def search():
             if re.search(text,designation,flags=re.I) or re.search(text,description["desc"],flags=re.I): 
                 lista.append((designation,description))
     return render_template("search.html",matched = lista)
+
+'''
+@app.route("/terms/search")
+def search():
+    text = request.args.get("text")
+    lista = []
+    if text:
+        for designation, item_value in db.items():
+            description = item_value.get("desc")
+            en = item_value.get("en")
+            if re.search(text, designation, flags=re.I) or re.search(text, description, flags=re.I):
+                lista.append((designation, description, en))
+    return render_template("search.html", matched=lista)
+'''
 
 @app.route("/term", methods=["POST"])
 def addTerm():

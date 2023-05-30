@@ -7,16 +7,17 @@ import json
 def extractDiseaseParser (url):
     page_html = requests.get(url).text
     page_soup=BeautifulSoup(page_html, "html.parser")
-    print(page_soup)
+    #print(page_soup)
 
     page_div = page_soup.find("div", class_="field-name-body")
     #estamos a remover os divs que apareciam no print na parte da page
-    res = page_div.div.div
-    res.name = "page" #altera o nome do elemento
-    res.attrs = {} #altera os atributos para nada, neste caso
+    res = page_div.div.div.text
+    #res.name = "page" #altera o nome do elemento
+    #res.attrs = {} #altera os atributos para nada, neste caso
+    #print(res)
     return str(res)
 
-def getDiseaseInfo(url):
+def getDiseaseInfo(div):
     desc = div.find("div", class_="field-content").text
     title = div.div.h3.a.text
     return title, desc
@@ -57,7 +58,7 @@ for u in urls: #:1 so para vermos se fica bem, para noa bombardearmos o site. ch
         lista.append({title:{"desc":desc, "page":page_info}})
 
 #está a ficar grande, vamos fazer funções
-print(lista)
+#print(lista)
 file = open ("doenças.json", "w", encoding="utf-8")
 json.dump(lista, file, ensure_ascii=False, indent=4)
 file.close
