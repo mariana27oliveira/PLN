@@ -13,7 +13,7 @@ for line in lines:
     translation = re.findall(r'@\s(.+)$', line) #retorna uma lista por palavra
     desig_s = ''.join(desig) #transforma em strings
     translation_s = ''.join(translation) #transforma em strings
-    dicionario[desig_s] = translation #constrói o dicionário
+    dicionario[desig_s] = translation_s #constrói o dicionário
 
 print(dicionario)
 

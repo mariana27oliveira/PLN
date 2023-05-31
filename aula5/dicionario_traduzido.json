@@ -1,21 +1,15 @@
 {
     "achaque": {
         "des": "Expressão antiga de falta ou defeito físico ou moral; alteração da saúde; doença. Expressão popular muito empregada para os sofrimentos que se prolongam ou repetem amiúde, como enxaqueca, reumatismo crônico, asma, dismenorréia, etc. .",
-        "en": [
-            "think that"
-        ]
+        "en": "think that"
     },
     "acidez": {
         "des": "Qualidade das substâncias que dão impressão picante e acre ao gosto; excesso de teor ácido; propriedade de um corpo libertar íons H.",
-        "en": [
-            "acidity"
-        ]
+        "en": "acidity"
     },
     "ácido": {
         "des": "Substância que na presença da água fornece exclusivamente como cátion (íon positivo) o hidrogênio (H).",
-        "en": [
-            "fatty acid"
-        ]
+        "en": "fatty acid"
     },
     "ácido graxo": {
         "des": "Uma das cinco classes das gorduras ou lipídios. Estes ácidos diferenciam-se entre si em face de suas características químicas; são chamados de saturados quando apresentam uma ligação molecular simples; de insaturados quando apresentam uma ligação molecula",
