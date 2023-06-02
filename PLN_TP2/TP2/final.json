@@ -1,0 +1,638 @@
+{
+    "ácido gástrico": {
+        "en": "gastric acid",
+        "es": "ácido gástrico",
+        "categoria": "sistema digestivo",
+        "definição": "Ácido gástrico é o ácido hidroclorídrico presente no suco gástrico. É produzido pelas células parietais, estimuladas pela presença do hormônio gastrina.\n"
+    },
+    "amargo": {
+        "en": "bitter",
+        "es": "amargo",
+        "categoria": "sistema sensorial",
+        "definição": "Amargo (do latim: amarus) descreve o gosto primário produzido por soluções aquosas de substâncias amargas, como por exemplo solução de cafeína bem como o Chimarrão, a Chicória, a Gentiana lutea e o famoso Denatônio.\n"
+    },
+    "artéria": {
+        "en": "artery",
+        "es": "arteria",
+        "definição": "Vaso sangüíneo de paredes grossas que transporta o sangue vindo do coração. Depois de o sangue ter sido distribuído para os tecidos do organismo, ele é recolhido em vasos sangüíneos de paredes finas",
+        "categoria": "sistema circulatório"
+    },
+    "arteríola": {
+        "en": "arteriole",
+        "es": "arteriola",
+        "definição": "Pequena artéria.",
+        "categoria": "sistema circulatório"
+    },
+    "astrócito": {
+        "en": "astrocyte",
+        "es": "astrocito",
+        "categoria": "sistema nervoso",
+        "definição": "Os astrócitos são células da neuróglia, são as mais abundantes do sistema nervoso central e são as que possuem as maiores dimensões. Levam esse nome pelo seu formato (astro=estrela, cito=célula). Existem dois tipos de astrócitos: os protoplasmásticos e os fibrosos. Os primeiros predominam na substância cinzenta, e os  segundos predominam na substância branca do cérebro.\n"
+    },
+    "astrocitoma": {
+        "en": "astrocytoma",
+        "es": "astrocitoma",
+        "categoria": "sistema nervoso",
+        "definição": "Astrocitoma são tumores (neoplasia) do sistema nervoso central (SNC) originados de um astrócito, uma célula em forma de estrela que sustenta os neurônios. É o tipo de glioma mais comum e podem ser benignos ou malignos. Quanto menor o grau, mais tempo de sobrevida, que pode ultrapassar 10 anos (grau I) ou serem menor a 1 ano (grau IV). Afetam 5 em cada 100.000 pessoas.\n"
+    },
+    "audição": {
+        "en": "(faculty of) hearing",
+        "es": "capacidad auditiva",
+        "categoria": "sistema sensorial",
+        "definição": "A audição (do latim auditione) é um dos cinco sentidos capaz de ouvir e processar um espectro de som, através da orelha, órgão responsável pela captação dos sons e direcionamento para as vias auditivas centrais, para ser influenciado pelo sistema nervoso total, incluindo o sistema corporal onde estes sons serão processados e \"compreendidos\" pelo córtex região espinhal onde está localizado o sistema nervoso da região da cabeça que estão as orelhas, o nariz, a boca, os olhos e os músculos da região onde está localizado o cérebro (sistema nervoso). \n"
+    },
+    "bainha de mielina": {
+        "en": "myelin sheath, medullary sheath",
+        "es": "vaina de mielina",
+        "categoria": "sistema nervoso",
+        "definição": "A bainha de mielina é uma estrutura formada por uma membrana lipídica rica em glicofosfolipídeos e colesterol, que recobre os axônios, atuando principalmente como isolante elétrico, facilitando a rápida comunicação entre os neurônios. É formada por células especializadas chamadas células da glia. Essas células enrolam-se ao redor do axônio, depositando camada sobre camada de sua própria membrana plasmática em uma espiral justa, formando uma estrutura semelhante a um \"rocambole\".\n"
+    },
+    "bexiga": {
+        "en": "(urinary) bladder",
+        "es": "vejiga",
+        "definição": "Órgão muscular oco, reservatório musculomembranoso,com capacidade de 250 cm3 (podeaumentar), que armazena a urina atéo momento da micção.",
+        "categoria": "sistema urinário"
+    },
+    "boca": {
+        "en": "mouth",
+        "es": "boca",
+        "definição": "Orifício para ingestão de alimentos ou cavidade que contém o sistema mastigatório. Compreende oespaço entre as maçãs do rosto e osdentes e a cavidade bucal propriamente dita, limitada na parte superior pelaabóbada palatina, na parte anteriorpelos lábios e na posterior pelo pálatoe faringe. Nela se situam as glândulas salivares (parótidas) e muitas outras glândulas pequenas que secretama saliva, a qual serve para umedecer aboca, transformar os alimentos emmassa e lubrificá-los, assim comolimpar a boca das bactérias e partículas de alimentos. É uma das regiõesdo corpo mais sujeita ao ataque demicroorganismos patogênicos. (V.Estomatite.)",
+        "categoria": "sistema respiratório"
+    },
+    "cãibra": {
+        "en": "muscular spasm",
+        "es": "calambre",
+        "categoria": "sistema muscular",
+        "definição": "As cãibras (português europeu) ou câimbras (português brasileiro) são contrações involuntárias de um músculo esquelético. São frequentes durante a noite, ou em exercícios físicos extenuantes, em pessoas que não possuem condicionamento físico adequado.\n"
+    },
+    "cárdia": {
+        "en": "cardiac part of stomach, cardia",
+        "es": "cardias",
+        "categoria": "sistema digestivo",
+        "definição": "Cárdia é a região de transição entre o esôfago inferior e o estômago.\n"
+    },
+    "ceco": {
+        "en": "blind gut, cecum",
+        "es": "ciego",
+        "definição": "Porção do intestino, na região direita inferior do abdome.Forma grande saco cego na uniãodos intestinos grosso e delgado eneles se projeta o apêndice.",
+        "categoria": "sistema digestivo"
+    },
+    "cérebro": {
+        "en": "cerebrum, upper brain",
+        "es": "cerebro",
+        "definição": "Parte frontal e superiordo sistema nervoso central, que secompõe de dois hemisférios, oumetades diferenciadas; abriga oscentros nervosos que regulam asprincipais funções orgânicas, tantoas vegetativas como as de relaçãoou de intelecção. A porção maisimportante do sistema nervoso.",
+        "categoria": "sistema nervoso"
+    },
+    "cicatriz": {
+        "en": "scar",
+        "es": "cicatriz",
+        "categoria": "sistema tegumentar",
+        "definição": "Cicatriz ou fibrose são áreas de tecido fibroso é o resultado de uma lesão da derme, geralmente em consequência de uma lesão ou por corte cirúrgico. Além do impacto estético, a perda da integridade da pele e tecidos subcutâneos facilitam infecções, são mais vulneráveis a perda sanguínea e diminuem a sensibilidade na área. Cicatrizes podem também comprometer o funcionamento e proteção de órgãos.\n"
+    },
+    "cifose": {
+        "en": "kyphosis, hunchback",
+        "es": "cifosis",
+        "definição": "Curvatura da coluna vertebral, de concavidade posterior.Deformidade correspondente aoaumento da convexidade da colunadorsal.",
+        "categoria": "sistema esquelético"
+    },
+    "defecação": {
+        "en": "bowel movement, defecation",
+        "es": "defecación",
+        "definição": "Ato de expelir as fezesdo intestino. (V. Prisão de ventre.)",
+        "expressões popular": " evacuação dos excrementos ",
+        "categoria": "sistema digestivo"
+    },
+    "diástole": {
+        "en": "(cardiac) diastole",
+        "es": "diástole",
+        "definição": "Dá-se esse nome aosmovimentos de dilatação do coração, durante os quais as câmarascardíacas se enchem de sangue, eque durante a sístole é impulsionado para o interior das artérias.",
+        "categoria": "sistema circulatório"
+    },
+    "duodeno": {
+        "en": "duodenum",
+        "es": "duodeno",
+        "definição": "A primeira porção dointestino delgado.",
+        "expressões popular": " parte inicial do intestino delgado ",
+        "categoria": "sistema digestivo"
+    },
+    "epiglote": {
+        "en": "epiglottis, epiglottic cartilage",
+        "es": "epiglotis",
+        "definição": "Lâmina fibrocartilaginosa que cobre a entrada da laringe. Ao fechar-se a glote, a epiglotecolabora com o fechamento da traquéia e impede que, na deglutição,penetrem na laringe os alimentos.",
+        "categoria": "sistema respiratório"
+    },
+    "esmegma": {
+        "en": "smegma",
+        "es": "esmegma",
+        "definição": "Secreção caseosa emredor do prepúcio ou dos pequenoslábios.",
+        "categoria": "sistema reprodutor"
+    },
+    "faringe": {
+        "en": "pharynx, throat",
+        "es": "faringe",
+        "definição": "Órgão situado entre aboca e o esôfago. Funciona comoum órgão de ressonância da fala;possui um grupo de músculossemicirculares que ajudam nadeglutição dos alimentos. divide-seem nasofaringe, que se estende atéo nariz, e orofaringe que conduz àfaringe e à traquéia. A mucosa quereveste a faringe pode ser afetadapor inflamações crônicas ou agudascomo efeito secundário de resfriado grave, inflamação de garganta ouamidalite aguda.",
+        "categoria": "sistema respiratório"
+    },
+    "garganta": {
+        "en": "throat, pharynx",
+        "es": "garganta",
+        "definição": "Espaço compreendido entre o palatino e a entrada doesôfago. Em sentido amplo, compreende a laringe, a faringe, o grupo de músculos que intervém nadeglutição, os arcos palatinos e abase da língua. Na parte exteriortambém se considera garganta aporção anterior do pescoço",
+        "categoria": "sistema respiratório"
+    },
+    "glândula parótida": {
+        "en": "parotid (gland), parotic",
+        "es": "glándula parótida",
+        "categoria": "sistema digestivo",
+        "definição": "A glândula parótida é a maior das três glândulas salivares pares. Localiza-se entre o ramo da mandíbula e o processo estiloide do osso temporal. No seu interior está o ducto parotídeo. Este ducto entra na cavidade da boca através de um pequeno furo na altura do segundo dente molar maxilar.\n"
+    },
+    "glândula pineal": {
+        "en": "epiphysis, pineal body",
+        "es": "glándula pineal",
+        "definição": "Órgão do tamanho de uma ervilha que se situano crânio próximo da base doencéfalo.",
+        "categoria": "sistema endócrino"
+    },
+    "glândula salivar": {
+        "en": "salivary gland",
+        "es": "glándula salivar",
+        "categoria": "sistema digestivo",
+        "definição": "As glândulas salivares localizam-se na cavidades nasais e no interior e também em torno da cavidade bucal tendo como objetivo principal a produção e secreção da saliva.\n"
+    },
+    "glândula suprarrenal": {
+        "en": "adrenal (gland)",
+        "es": "glándula suprarrenal",
+        "categoria": "sistema endócrino",
+        "definição": "Nos mamíferos, as glândulas suprarrenais ou glândulas adrenais são glândulas endócrinas envolvidas por uma cápsula fibrosa e situadas acima dos rins. Nos humanos, a suprarrenal direita tem  formato triangular, enquanto  a esquerda tem a forma de meia-lua, isso devido a pressão exercida pelo fígado em desenvolvimento.  São principalmente responsáveis pela libertação de hormonas em resposta ao stress através da síntese e liberação de hormonas corticosteroides, como o cortisol, e de catecolaminas, como a adrenalina (ou epinefrina). Estimulam a conversão de proteínas e gorduras em glicose, ao mesmo tempo que diminuem a captação de glicose pelas células, aumentando, assim, a utilização de gorduras.\n"
+    },
+    "glote": {
+        "en": "glottis",
+        "es": "glotis",
+        "definição": "A abertura entre as cordasvocais e a laringe.",
+        "expressões popular": " entrada da faringe para a via aérea principal ",
+        "categoria": "sistema respiratório"
+    },
+    "hemangioma": {
+        "en": "hemangioma, hemartoma",
+        "es": "hemangioma",
+        "definição": "Tumor com origem em vasos sangüíneos.",
+        "categoria": "sistema circulatório"
+    },
+    "hipófise": {
+        "en": "pituitary, hypophysis",
+        "es": "hipófisis",
+        "categoria": "sistema endócrino",
+        "definição": "Hipófise (também denominada glândula pituitária) é uma glândula endócrina com cerca de 1 cm de diâmetro alojada na sela túrcica (A sela turca protege a hipófise, mas deixa um espaço bem pequeno para expansão) ou fossa hipofisária do osso esfenoide na base do cérebro. Está localizada abaixo do hipotálamo e posteriormente ao quiasma óptico, sendo ligada ao hipotálamo pela haste pedúnculo hipofisário ou infundíbulo, é  envolvida pela dura-máter (exceto o infundíbulo). A hipófise é considerada uma \"glândula mestra\", pois secreta hormônios que controlam o funcionamento de outras glândulas, sendo grande parte de suas funções reguladas pelo hipotálamo.\n"
+    },
+    "hipotálamo": {
+        "en": "hypothalamus",
+        "es": "hipotálamo",
+        "definição": "Estrutura no cérebro que controla o funcionamentodas principais glândulas endócrinas.É ainda o principal centro de controle da ingestão de alimentos. Naporção lateral do hipotálamo está ocentro da fome e na porção mediana o centro da saciedade. Medicamentos que inibem o apetite produzem efeito ao agirem nestes centros.",
+        "categoria": "sistema endócrino"
+    },
+    "intestino delgado": {
+        "en": "small bowel, small intestine",
+        "es": "intestino delgado",
+        "definição": "Componente do sistema digestivo, o intestino delgado é um tubo de 4 a 8metros de comprimento, quandodistendido, mas quando vivo, porcausa dos músculos parcialmentecontraídos, tem aproximadamente4,5 metros; quando não está havendo digestão, pode encurtar-se paraaté 2,5 metros. Suas partes sãoduodeno, jejuno e íleo. O duodeno éa parte que se liga ao estômago e asede freqüente de úlceras. Na mucosa intestinal encontram-se asvilosidades intestinais, que aumentam a superfície de absorção de alimentos. É nele que a maioria dassubstâncias passa para o sangue, tanto as que não precisam ser digeridas,como os produtos finais da digestão.O médico brasileiro Dr. MassayukaiOkumura realizou em 1968 o primeiro transplante de intestino no país eo terceiro no mundo.",
+        "categoria": "sistema digestivo"
+    },
+    "intestino grosso": {
+        "en": "large bowel, large intestine",
+        "es": "intestino grueso",
+        "definição": "Parte do sistema digestivo, o intestino grosso éum tubo que mede 1,5 metro decomprimento e compreende o ceco,o cólon e o reto. Estende-se da porção terminal do íleo até o ânus. Suasparedes internas não produzem sucoporque nesta parte do sistema digestivo não há digestão, apenas a passagem de água do intestino para osangue. Com isso, os materiais quepercorrem o instestino grosso vãoficando cada vez mais sólidos; sãoas fezes que se acumulam no reto esão eliminadas pelo ânus.",
+        "categoria": "sistema digestivo"
+    },
+    "jejuno": {
+        "en": "empty intestine, jejunum",
+        "es": "yeyuno",
+        "definição": "A segunda porção do intestino delgado.",
+        "expressões popular": " parte do intestino delgado desde o duodeno até ao íleo ",
+        "categoria": "sistema digestivo"
+    },
+    "lábio": {
+        "en": "lip",
+        "es": "labio",
+        "definição": "Parte exterior e vermelhado contorno da boca.",
+        "categoria": "sistema digestivo"
+    },
+    "laringe": {
+        "en": "larynx, voice box",
+        "es": "laringe",
+        "definição": "Aparelho responsávelpela produção da voz, localizado naregião do pomo-de-adão. Condutocartilaginoso formado pelas cartilagens cricóide, aritenóide, pelatireóide e pela epiglote.",
+        "categoria": "sistema respiratório"
+    },
+    "medula óssea": {
+        "en": "bone marrow, medulla",
+        "es": "médula ósea",
+        "definição": "Substância mole,avermelhada ou amarelada, que enche as cavidades (canais medulares)dos ossos e onde ocorre a hematopoese (formação dos glóbulos vermelhos).",
+        "categoria": "sistema circulatório"
+    },
+    "meninge": {
+        "en": "meninx",
+        "es": "meninge",
+        "categoria": "sistema nervoso",
+        "definição": "As meninges (singular meninge, do Grego μῆνιγξ, \"membrana\")  são o sistema das membranas que revestem e protegem o encéfalo, incluindo o tronco encefálico e a medula espinal. As meninges consistem de três camadas: a dura-máter, a aracnoide e a pia-máter. A função primária das meninges e do líquor (líquido cefalorraquidiano) é proteger o sistema nervoso inferior.\n"
+    },
+    "mesentério": {
+        "en": "mesentery, mesenterium",
+        "es": "mesenterio",
+        "categoria": "sistema digestivo",
+        "definição": "\n"
+    },
+    "miocárdio": {
+        "en": "myocardium, cardiac muscle",
+        "es": "miocardio",
+        "definição": "O músculo cardíaco. O coração é o músculo oco chamado “miocárdio”, com fibrasestriadas, revestido externamentepelo pericárdio e dividido por umsepto vertical em duas metades,cada uma delas formada de duas câmaras: a aurícula superiore oventrículo inferior.",
+        "categoria": "sistema muscular"
+    },
+    "músculo": {
+        "en": "muscle, musculus",
+        "es": "músculo",
+        "definição": "Órgão carnudo constituído pela reunião de muitas fibras,cujas contrações determinam os movimentos das várias partes do corpodos animais. Há três tipos: liso,estriado e cardíaco. Faseofaríngeo:músculo da faringe inserto na base dohióide.Baseoglosso:o que vai do ossohióide à base da língua. Bucinador:situado na espessura da bochecha e atuana mastigação e no ato de soprar eassoviar. Gêmeo: cada um dos músculos pares, paralelos um ao outro queformam a panturrilha. Escalenos:aqueles inseridos nas vértebrascervicais. Pronador:cada um dosmúsculos que executa a pronação.Supinador: aquele que, no antebraçoe na mão, exerce ação oposta à dospronadores. Temporoauricular:umdos músculos da orelha.",
+        "categoria": "sistema muscular"
+    },
+    "narina": {
+        "en": "nostril",
+        "es": "narina",
+        "categoria": "sistema respiratório",
+        "definição": "Narina é cada um dos dois canais do nariz, desde o ponto onde se dividem, nas fossas nasais, até à sua abertura exterior. Nas aves e mamíferos, contêm os ossos turbinados (ou conchas) que dividem cada narina em cavidades designadas por meato comum, médio e ventral e que têm a função de aquecer o ar durante a inspiração e diminuir a umidade durante a expiração. Os peixes não respiram através de narinas, mas têm, efectivamente, duas narinas (dois buracos) usadas como órgão olfativo.\n"
+    },
+    "nasofaringe": {
+        "en": "nasal pharynx, nasopharynx",
+        "es": "nasofaringe",
+        "definição": "Espaço entre asfossas nasais posteriores e o palato.",
+        "categoria": "sistema respiratório"
+    },
+    "odinofagia": {
+        "en": "odynophagia",
+        "es": "odinofagia",
+        "definição": "Dor à deglutição.",
+        "categoria": "sistema digestivo"
+    },
+    "onicólise": {
+        "en": "onycholysis",
+        "es": "onicolisis",
+        "categoria": "sistema tegumentar",
+        "definição": "Onicólise refere-se ao descolamento da unha do leito da unha a partir da ponta (distal) ou dos lados. Diz-se ocorrer especialmente no dedo anelar, mas pode ocorrer em qualquer uma das unhas. A causa mais comum de onicólise é a psoríase. Também pode ocorrer na tireotoxicose e pensa-se ser devido da hiperatividade simpático. Também pode ser visto em infecções ou trauma. A Onicólise cria um espaço subungueal que acumula sujeira e restos de queratina; a coloração branco-acinzentada é causada pela presença de ar sob a unha, mas a cor varia de amarelo e castanho; a área pode ter odor fétido quando a lâmina ungueal sobrejacente é removida.\n"
+    },
+    "ovário": {
+        "en": "ovary",
+        "es": "ovario",
+        "categoria": "sistema endócrino",
+        "definição": "Ovário é o órgão onde são produzidos os gametas femininos (células sexuais) tanto nos animais como nas plantas (os seres vivos com órgãos diferenciados), formado por uma região medular rica em vasos e a cortical, onde se localizam os folículos. Eles têm a forma de amêndoa, medindo até 5 cm em seu maior diâmetro e possui uma espessura máxima de 1,5 centímetros.\n"
+    },
+    "paladar": {
+        "en": "taste, sense of taste",
+        "es": "paladar",
+        "categoria": "sistema sensorial",
+        "definição": "O sistema gustativo ou sentido do paladar é o sistema sensorial parcialmente responsável pela percepção do sabor (flavor). O paladar é a percepção produzida ou estimulada quando uma substância na boca reage quimicamente com as células receptoras gustativas localizadas nas papilas gustativas da cavidade oral, principalmente na língua. O paladar, junto com o cheiro (olfato) e a estimulação do nervo trigêmeo (registrando a textura, a dor e a temperatura), determina os sabores dos alimentos e outras substâncias. Os seres humanos têm receptores gustativos nas papilas gustativas e em outras áreas, incluindo a superfície superior da língua e a epiglote. O córtex gustativo é responsável pela percepção do paladar.\n"
+    },
+    "percepção": {
+        "en": "perception, percipience",
+        "es": "percepción",
+        "definição": "Recebimento de impressões por meio dos sentidos.",
+        "expressões popular": "percepção ",
+        "categoria": "sistema sensorial"
+    },
+    "pleura": {
+        "en": "pleura",
+        "es": "pleura",
+        "definição": "Dupla membrana serosaque envolve cada um dos pulmões.",
+        "categoria": "sistema respiratório"
+    },
+    "prepúcio": {
+        "en": "prepuce, preputium",
+        "es": "prepucio",
+        "definição": "Dobra da pele do pênisque recobre a glande.",
+        "expressões popular": "  prega de pele que recobre a glande do pénis ou o clítoris ",
+        "categoria": "sistema tegumentar"
+    },
+    "pulmão": {
+        "en": "lung",
+        "es": "pulmón",
+        "categoria": "sistema respiratório",
+        "definição": "O pulmão é o órgão do sistema respiratório, responsável pelas trocas gasosas entre o ambiente e o sangue. Sua principal função é oxigenar o sangue e eliminar o dióxido de carbono do corpo.\n"
+    },
+    "rabdomiólise": {
+        "en": "rhabdomyolysis",
+        "es": "rabdomiolisis",
+        "categoria": "sistema muscular",
+        "definição": "Rabdomiólise é uma síndrome de destruição do músculo esquelético com vazamento do conteúdo muscular que é frequentemente acompanhada por mioglobinúria e se for suficientemente grave, pode ocorrer insuficiência renal aguda com transtornos metabólicos potencialmente letais. Um espectro diversificado de doenças hereditárias e adquiridas que afetam as membranas musculares, os canais iônicos de membranas e o suprimento de energia muscular causa rabdomiólise. Os mecanismos fisiopatológicos finais comuns entre essas causas de rabdomiólise incluem um aumento descontrolado do cálcio intracelular livre e a ativação de proteases dependentes de cálcio, que levam à destruição de miofibrilas e à digestão lisossomal do conteúdo de fibras musculares. Recentes avanços em genética molecular e histoquímica de enzimas musculares podem permitir um diagnóstico metabólico específico em muitos pacientes com rabdomiólise recorrente idiopática.\n"
+    },
+    "reflexo": {
+        "en": "reflex, jerk",
+        "es": "reflejo",
+        "definição": "Contração muscularinvoluntária como resposta a umaexcitação sensitiva.",
+        "expressões popular": "reflexo ",
+        "categoria": "sistema nervoso"
+    },
+    "saliva": {
+        "en": "saliva, spittle",
+        "es": "saliva",
+        "definição": "A secreção das seis glândulas salivares (duas parótidas, duassubmaxilares e duas sublinguais).",
+        "categoria": "sistema digestivo"
+    },
+    "sinapse": {
+        "en": "synapse",
+        "es": "sinapsis",
+        "definição": "Ponto ou local onde as células nervosas se comunicam.Quando o impulso chega à parte final do axônio, ela produz uma substância química que se espalha porsua área. Tal substância estimula osdendritos do neurônio seguinte, fazendo nele surgir outro impulsonervoso, que irá até a sinapse seguinte.",
+        "categoria": "sistema nervoso"
+    },
+    "timo": {
+        "en": "thymus (gland)",
+        "es": "timo",
+        "definição": "Glândula sita na base do pescoço. É grande na criança e com a idade se atrofia. Sua função não é bem conhecida.",
+        "categoria": "sistema endócrino"
+    },
+    "tónus muscular": {
+        "en": "muscular tension, muscular tone",
+        "es": "tono muscular",
+        "categoria": "sistema muscular",
+        "definição": "O tônus muscular(pt-BR) ou tónus(pt-PT?) (AO 1990) é o estado de tensão elástica (contração ligeira) que apresenta o músculo em repouso, e que permite iniciar a contração rapidamente após o impulso dos centros nervosos. Num estado de relaxamento completo (sem tónus), o músculo levaria mais tempo a iniciar a contração.\n"
+    },
+    "unidade motora": {
+        "en": "motor unit",
+        "es": "unidad motora",
+        "categoria": "sistema muscular",
+        "definição": "Unidade motora é composta por um único  neurônio motor alfa e todas as fibras musculares que ele inerva. Substâncias químicas especializadas são liberadas pelo neurônio motor em resposta a um impulso nervoso. Em seguida, essas substâncias químicas geram eventos no interior da célula muscular que resultam em contração ou encurtamento desta.\n"
+    },
+    "uretra": {
+        "en": "urethra",
+        "es": "uretra",
+        "definição": "Canal que transporta aurina da bexiga para o exterior e quetambém dá saída ao líquido seminal na cópula.",
+        "categoria": "sistema reprodutor"
+    },
+    "válvula aórtica": {
+        "en": "aortic valve",
+        "es": "válvula aórtica",
+        "categoria": "sistema circulatório",
+        "definição": "Válvula aórtica ou valva aórtica é uma das quatro válvulas cardíacas, separando o ventrículo esquerdo cardíaco da artéria aorta. Se encontra aberta na sístole cardíaca, permitindo a passagem do sangue do ventrículo para a circulação sistêmica. Quando ocorre o relaxamento do ventrículo, na diástole cardíaca, esta valva se fecha, impedindo o refluxo do sangue. É composta de um anel de sustentação, que fixa três componentes ou cúspides. De duas cúpides saem as arterias coronárias direita e esquerda. Desta maneira existem três cúspides, ou seja, cúspide coronariana direita, cúspide coronariana esquerda e cúspide não coronariana.   \n"
+    },
+    "válvula mitral": {
+        "en": "bicuspid valve, mitral valve",
+        "es": "válvula mitral",
+        "categoria": "sistema circulatório",
+        "definição": "Válvula mitral, valva mitral, válvula bicúspide ou valva atrioventricular esquerda é a valva cardíaca que separa o átrio esquerdo (aurícula esquerda) do ventrículo esquerdo, impedindo que o sangue recue para a aurícula após ser bombeado desta para o ventrículo.\n"
+    },
+    "válvula tricúspide": {
+        "en": "tricuspid valve",
+        "es": "válvula tricúspide",
+        "categoria": "sistema circulatório",
+        "definição": "A válvula tricúspide, ou valva tricúspide, ou valva atrioventricular direita, encontra-se no lado dorsal direito do coração dos mamíferos, entre o átrio direito(pt-BR) ou aurícula direita(pt-PT?) e o ventrículo direito. A função da válvula é impedir o refluxo do sangue do ventrículo direito para o átrio direito.\n"
+    },
+    "vaso sanguíneo": {
+        "en": "blood vessel",
+        "es": "vaso sanguíneo",
+        "categoria": "sistema circulatório",
+        "definição": "Os vasos sanguíneos são órgãos em forma de tubos que se ramificam por todo o organismo da maior parte dos animais, principalmente em cordados, como o ser humano, por onde circula o sangue: artérias, arteríolas, vênulas, veias e capilares. São compostos por três camadas, chamadas túnicas, a íntima, que é a mais interna e é formada por uma camada de células endoteliais e uma outra de tecido conjuntivo frouxo; a média, separada da íntima pela lâmina elástica interna, que possuem pequenos poros que permitem a passagem de nutrientes, é formada por células musculares lisas, e a adventícia, que é a mais externa e é composta de colágeno e fibras elásticas.\n"
+    },
+    "veia": {
+        "en": "vein, vena",
+        "es": "vena",
+        "definição": "Vaso que traz o sangue detodas as partes do corpo para ocoração. Internamente são providas de válvulas que impedem o refluxo do sangue. Ramificam-se emvasos de menor calibre, denominados “vênulas”, que ligam as veiasaos capilares. As veias possuemparedes mais finas que as artérias,porém seu diâmetro é maior.",
+        "categoria": "sistema circulatório"
+    },
+    "vesícula biliar": {
+        "en": "gall bladder",
+        "es": "vesícula biliar",
+        "categoria": "sistema digestivo",
+        "definição": "A vesícula biliar é um órgão anexo presente no organismo humano em forma de pera. Armazena até 50 ml de bile (bílis, em português europeu), que é utilizada no sistema digestivo, não sendo responsável por sua produção.\n"
+    },
+    "via biliar": {
+        "en": "bile duct",
+        "es": "vía biliar",
+        "categoria": "sistema digestivo",
+        "definição": "Vias biliares, trato biliar ou árvore biliar, é o termo médico para referir-se ao sistema responsável por produzir, armazenar e secretar bile. É composto pelos ductos hepáticos, ducto cístico, ducto biliar comum e a vesícula biliar. A bile consiste em água, eletrólitos, ácido biliar, colesterol, fosfolipídios e bilirrubina conjugada. Alguns componentes são sintetizados pelos hepatócitos (células do fígado) e o restante é filtrado do sangue pelo fígado.\n"
+    },
+    "visão": {
+        "en": "acuity, vision, visual acuity",
+        "es": "visión",
+        "definição": "Ato ou faculdade de ver.",
+        "expressões popular": "visão ",
+        "categoria": "sistema sensorial"
+    },
+    "tubo digestivo": {
+        "en": "Digestive Tube",
+        "categoria": "sistema digestivo",
+        "definição": "O tubo digestivo é uma estrutura presente nos Bilateria (animais triploblásticos e em Platelmintos) e Cnidaria, sendo o canal que traz o alimento ao interior do corpo, o digere, e conduz os metabólitos de volta ao meio externo. Em todos os casos, é uma cavidade formada pela endoderme no momento do fechamento do embrião, e pode se apresentar em inúmeros níveis de complexidade, dependendo do grupo taxonômico.\n"
+    },
+    "dopamina": {
+        "en": "Dopamine",
+        "definição": "É um neurotransmissor que participa da regulaçãodo apetite no sistema nervoso central e tem um papel importante napercepção das sensações de prazer.A ética médica em vigor no Brasilcondena o uso de remédios paraemagrecimento.",
+        "categoria": "sistema endócrino"
+    },
+    "mucosa intestinal": {
+        "en": "Intestinal Mucosa",
+        "categoria": "sistema digestivo",
+        "definição": "A mucosa intestinal é o tecido que reveste as paredes internas dos intestinos. É caracterizada pela aparência pregueada, que facilita a absorção dos nutrientes já diferidos e a formação do bolo fecal.\n"
+    },
+    "sistema límbico": {
+        "en": "Limbic System",
+        "categoria": "sistema nervoso",
+        "definição": "Na superfície medial do cérebro dos mamíferos, o sistema límbico é a unidade responsável pelas emoções e comportamentos sociais. É uma região constituída de neurônios, células que formam uma massa cinzenta denominada de lobo límbico.\n"
+    },
+    "reto": {
+        "es": "recto",
+        "definição": "Porção terminal do intestinogrosso.",
+        "categoria": "sistema digestivo"
+    },
+    "artéria femoral": {
+        "es": "arteria femoral",
+        "categoria": "sistema circulatório",
+        "definição": "Aviso médico: enfatiza-se a leitura de A Wikipédia não dá conselhos médicos\n"
+    },
+    "intestino": {
+        "es": "intestino",
+        "categoria": "sistema digestivo",
+        "definição": "Na anatomia humana, o intestino é o segmento do canal alimentar que se estende a partir do esfíncter do piloro do estômago ao ânus e, em seres humanos e outros mamíferos, constituída por dois segmentos, o intestino delgado e o intestino grosso. Nos seres humanos, o intestino delgado é subdividido em duodeno, jejuno e íleo, enquanto o intestino grosso é subdividido em ceco e cólon.\n"
+    },
+    "brônquio": {
+        "es": "bronquio",
+        "expressões popular": "brônquio ",
+        "categoria": "sistema respiratório",
+        "definição": "Nos mamíferos, os brônquios são os tubos que levam o ar aos pulmões. A traqueia humana divide-se em dois brônquios (direito e esquerdo). Estes apresentam estrutura muito semelhante à da traqueia e são denominados brônquios de primeira ordem. Cada brônquio principal dá origem a pequenos brônquios lobares ou de segunda ordem, que ventilam os lobos pulmonares. Estes, por sua vez, dividem-se em brônquios segmentares ou de terceira ordem, que vão ter os segmentos broncopulmonares. Os brônquios, por sua vez, se ramificam várias vezes até se transformarem em bronquíolos, um para cada alvéolo pulmonar, ao que se designa de árvore bronquial. Os brônquios têm a parede revestida internamente por um epitélio ciliado e externamente encontra-se reforçada por anéis de cartilagem, irregulares que, nas ramificações se manifestam como pequenas placas ou ilhas.Brônquios são condutos cartilaginosos localizados na porção mediana do tórax, abaixo da região inferior da traqueia; e se estendem desde o ponto da ramificação desta até o hilo pulmonar. O brônquio direito é mais vertical, curto e largo que o esquerdo. \nTal como a traqueia, estes são constituídos por anéis incompletos de cartilagem e fibras musculares, conferindo mobilidade. Além disso, são também revestidos por epitélio ciliado, rico em células caliciformes (produtoras de muco). \nEssas estruturas, também chamadas de brônquios primários, subdividem-se nos brônquios lobares (ou de segunda ordem). À direita, há três destes: superior, médio e inferior; e, à esquerda, somente o brônquio superior e o inferior. \nDos brônquios lobares seguem os brônquios segmentares (ou de terceira ordem). Esses vão se ramificando em porções cada vez menores, chamadas bronquíolos. \nA partir destas últimas estruturas citadas, a constituição de suas paredes passa a ser de músculo liso, sem cartilagem. A nova estrutura, desta forma, confere mais rigidez e a capacidade móvel, encontrada nos brônquios, deixa de existir. \nOs bronquíolos terminam em estruturas denominadas ductos alveolares, que se finalizam nos microscópicos alvéolos pulmonares. Estes, graças a uma rede de vasos sanguíneos, efetuam as trocas gasosas (hematose). \n"
+    },
+    "músculo cardíaco": {
+        "es": "músculo cardiaco",
+        "categoria": "sistema muscular",
+        "definição": "O músculo estriado cardíaco é o tipo de tecido muscular que forma as camadas musculares  do coração, conhecida por miocárdio. Também é chamado tecido muscular estriado cardíaco.\n"
+    },
+    "esfíncter": {
+        "es": "esfínter",
+        "definição": "Músculo circular quecontrai o orifício de um órgão.",
+        "expressões popular": "músculo constritor, que aperta ",
+        "categoria": "sistema muscular"
+    },
+    "ureter": {
+        "es": "uréter",
+        "definição": "Tubo comprido (um decada lado) que conduz a urina dobacinete à bexiga. Mede de 25 cma 28 cm, em média.",
+        "categoria": "sistema urinário"
+    },
+    "pênis": {
+        "es": "pene",
+        "definição": "O órgão sexual masculino,que contém um canala",
+        "categoria": "sistema reprodutor"
+    },
+    "tubo seminífero": {
+        "es": "túbulos seminíferos",
+        "categoria": "sistema reprodutor",
+        "definição": "É nos tubos seminíferos (ou túbulos seminíferos) que os espermatozoides são produzidos. Cada testículo possui de 250 a 1000 túbulos que medem aproximadamente 150 a 250 µm de diâmetro e 30-70 centímetros de comprimento cada um, sendo o comprimento combinado dos túbulos de um testículo de aproximadamente 250 metros.\n"
+    },
+    "testículo": {
+        "es": "testículo",
+        "definição": "Glândula responsável pela fabricação da testosterona e dos esperma tozóides. V. Orquitquite, Criptorquia, Varicocele.",
+        "categoria": "sistema endócrino"
+    },
+    "dor": {
+        "es": "pale",
+        "definição": "Sinal de advertência. Sensação desagradável ou penosa, que seorigina pela irritação do tronco, raizou terminação de nervo da rede sensorial. A dor nos avisa que algo estáerrado e serve para proteger a parteferida ou doente contra outros danos, já que fazemos o possível paranão mexer na parte dolorida. Numainjúria, o organismo não pode esperar que o cérebro analise a mensagem antes de começar a agir. Todos nós já passamos pela experiência de tocar em alguma coisa quente e sentir um movimento súbito,quando a mão dá um pulo se afastando, quase que antes mesmo desentir a dor. Isso é realizado pelamedula espinhal, em que os sinaisde dor sofrem um “curto-circuito”no lugar, fazendo com que os músculos se movam antes que eles cheguem ao cérebro. Isso é conhecidocomo “reflexo” e pode ocorrer atéquando uma pessoa está inconsciente. A ação de piscar quando alguma coisa se aproxima do olho éum exemplo de reflexo. Qualquerque seja a sua natureza, a dor é umindício de alguma coisa errada. Elapode ser insignificante, e todos nóssofremos de dores que não durammuito tempo. Toda dor forte ou persistente não deve ser ignorada.",
+        "categoria": "sistema nervoso"
+    },
+    "sistema circulatório": {
+        "es": "sistema circulatorio",
+        "categoria": "sistema circulatório",
+        "definição": "O sistema circulatório é o conjunto de órgãos responsáveis pela distribuição de nutrientes para as células e coleta de suas excretas metabólicas para serem eliminadas por órgãos excretores. Os órgãos que fazem parte do sistema circulatório são:\n"
+    },
+    "sistema respiratório": {
+        "es": "sistema respiratorio",
+        "categoria": "sistema respiratório",
+        "definição": "O sistema respiratório é o conjunto de órgãos responsáveis pelas trocas gasosas entre o organismo dos animais e o meio ambiente, ou seja, a hematose pulmonar, possibilitando a respiração celular.\n"
+    },
+    "acolia": {
+        "definição": "Ausência de bílis no in testino, resultando cor esbranquiçada das fezes.",
+        "categoria": "sistema digestivo"
+    },
+    "alvéolo pulmonar": {
+        "definição": "Fundo de saco que determina as últimas ramificações brônquicas.",
+        "categoria": "sistema respiratório"
+    },
+    "aparelho digestivo": {
+        "definição": "Atualmente denomina-se “sistema diges tório”. O termo aparelho é utilizado para designar dois ou mais sistemas; na digestão apenas um está envolvido, daí a mudança de nome. Compõe-se de duas partes: tubo digestivo, formado por boca, faringe, esôfago, estômago, intestino delgado, intestino grosso, reto e ânus; e glândulas anexas, que são: glândulas salivares, fígado, pâncreas. A digestão começa na boca, onde as glândulas salivares preparam a saliva, suco digestivo que contém a ptialina ou amilase salivar. São três pares de glândulas salivares: as sublinguais, as sub maxilares e as parótidas. O fígado produz a bile, que contém sais biliares com função digestiva. O pâncreas contém dois grupos de células excretoras: um deles produz o suco pancreático, o mais importante dos sucos digestivos, que é lançado no duodeno; o outro produz hormônios lançados no sangue, por isso o pâncreas é considerado célula mista. Dos hormônios, o mais importante é a insulina,que regula o teor de glicose no sangue.",
+        "categoria": "sistema digestivo"
+    },
+    "aparelho reprodutor": {
+        "definição": "No homem, consta dos seguintes órgãos: testículos,dois órgãos ovais, formados por um sistema de tubos, chamados “tubos seminí feros”,",
+        "categoria": "sistema reprodutor"
+    },
+    "aponeurose": {
+        "definição": "Ou aponevrose. Membrana que protege os músculos.",
+        "categoria": "sistema muscular"
+    },
+    "bile": {
+        "definição": "Solução aquosa produzida nofígado, que inclui os sais biliares (osúnicos que têm função digestiva,funcionando como um detergente),fundamentais no metabolismo daslípides por meio da transformaçãoinicial das gorduras em partículasmenores (micelas). A secreção dabile pelo fígado é contínua, mas ficaarmazenada na vesícula biliar e somente é lançada no duodeno quando ali chega o bolo alimentar. Abilirrubina é o principal pigmentobiliar excretado pela bile e sua degradação gera os radicais heme,substratos imprescindíveis para aformação da molécula de hemoglobina. (V. Bilis.)",
+        "categoria": "sistema digestivo"
+    },
+    "borborigmo": {
+        "definição": "Saída de gases dointestino; “a barriga ronca”.",
+        "expressões popular": " ruído no ventre pela deslocação de gases ",
+        "categoria": "sistema digestivo"
+    },
+    "bronquíolo": {
+        "definição": "Pequeno brônquioterminal.",
+        "categoria": "sistema respiratório"
+    },
+    "canal anal": {
+        "definição": "Espaço entre o retoe o ânus.",
+        "categoria": "sistema digestivo"
+    },
+    "centro nervoso": {
+        "definição": "Qualquergrupo de células nervosas que agemem comum para executar determinada ação.",
+        "categoria": "sistema nervoso"
+    },
+    "corpo lúteo": {
+        "definição": "Corpo amarelo doovário.",
+        "expressões popular": "corpo que se forma no ovário após a ovulação ",
+        "categoria": "sistema reprodutor"
+    },
+    "dartos": {
+        "definição": "Delgada camada de fibrasmusculares lisas aplicadas contra aface interna do escroto.",
+        "categoria": "sistema reprodutor"
+    },
+    "dura-máter": {
+        "definição": "A mais externa dasmeninges.",
+        "expressões popular": " membrana que envolve o sistema nervoso central ",
+        "categoria": "sistema nervoso"
+    },
+    "embolia gordurosa": {
+        "definição": "Obstrução de um vaso por glóbulos degordura.",
+        "categoria": "sistema circulatório"
+    },
+    "folículo piloso": {
+        "definição": "Depressãoque contém a raiz do pêlo.",
+        "categoria": "sistema tegumentar"
+    },
+    "gânglio nervoso": {
+        "definição": "Coleção independente de células nervosas formando um centro nervoso, como,por exemplo, os gânglios do sistema simpático.",
+        "categoria": "sistema nervoso"
+    },
+    "gastrólito": {
+        "definição": "Presença de cálculo no estômago.",
+        "categoria": "sistema digestivo"
+    },
+    "hematose": {
+        "definição": "Transformação do sangue venoso em arterial nos pulmões;oxigenação do sangue nos pulmões.",
+        "categoria": "sistema respiratório"
+    },
+    "impulso nervoso": {
+        "definição": "Estímuloque se propaga, sempre no mesmosentido, em um neurônio e é de origem elétrica, resultando de alterações nas cargas elétricas das superfícies externa e interna da membrana celular.",
+        "categoria": "sistema nervoso"
+    },
+    "olfato": {
+        "definição": "Pelo olfato, percebemoso cheiro das substâncias. Os órgãosresponsáveis pela percepção doodor são as fossas nasais, forradasinternamente pela membrana pituitária. É nessa membrana que se expande o nervo olfativo. Quando oar, carregado de partículas odoríferas, penetra nas fossas nasais, amembrana pituitária é imediatamente impressionada porque omuco por ela produzido capta e conserva essas partículas. As delicadasramificações do nervo olfativorecolhem, então, as impressões docheiro e as transmitem ao cérebro.Quando ficamos resfriados, as secreções enchem as fossas nasais,impedindo que as células olfativassejam estimuladas pelo cheiro.",
+        "categoria": "sistema sensorial"
+    },
+    "oviduto": {
+        "definição": "Trompa de Falópio(hoje designada “tuba uterina”).",
+        "categoria": "sistema reprodutor"
+    },
+    "quimo": {
+        "definição": "Massa líquida espessa emque se transforma o alimento noestômago.",
+        "categoria": "sistema digestivo"
+    },
+    "retículo": {
+        "definição": "Rede, entrelaçamento.",
+        "categoria": "sistema digestivo"
+    },
+    "suco pancreático": {
+        "definição": "É o maisimportante dos sucos digestivos.Ele contém várias substâncias(tripsina, amilase, lipase, entre outras) que atuam na digestão dos alimentos.",
+        "categoria": "sistema digestivo"
+    },
+    "tato": {
+        "definição": "Pelo tato, apreciamos principalmente a forma, a superfície, o tamanho e a temperatura dos corpos que nos cercam. Percebemos também as sensações de dor e de pressão. Os órgãos táteis são as papilas, espalhadas na camada da derme, abaixo da epiderme. São nas papilas que se encontram os corpúsculos táteis, receptores dos estí mulos.",
+        "categoria": "sistema sensorial"
+    },
+    "esqueleto axial": {
+        "definição": "Esqueleto do tronco.",
+        "categoria": "sistema esquelético"
+    },
+    "esqueleto apendicular": {
+        "definição": "Esqueleto dos mem-bros.",
+        "categoria": "sistema esquelético"
+    },
+    "osso irregular": {
+        "definição": "Osso complexo como, por exem-plo, o esfenóide.",
+        "categoria": "sistema esquelético"
+    },
+    "epimísio": {
+        "definição": "Tecido conectivo que envolve a super-fície de um músculo.",
+        "categoria": "sistema muscular"
+    },
+    "perimísio": {
+        "definição": "Tecido conectivo que envolve feixes de fi bras musculares.",
+        "categoria": "sistema muscular"
+    },
+    "endomísio": {
+        "definição": "Tecido conectivo que envolve uma fi bra muscular isolada, a qual está acondiciona-da pelo sarcolema.",
+        "categoria": "sistema muscular"
+    },
+    "perineuro": {
+        "definição": "Tecido conectivo que envolve os fei-xes de neuritos de um nervo periférico, que con-siste em lamelas concêntricas de células epiteli-óides de tecido conectivo. Barreira de difusão.",
+        "categoria": "sistema nervoso"
+    },
+    "nervo motor": {
+        "definição": "Nervo que tem fi bras nervosas apenas para a musculatura. Fibras nervosas aferentes, por exemplo, dos fusos musculares, não são consideradas nesta denominação.",
+        "categoria": "sistema nervoso"
+    },
+    "abertura piriforme": {
+        "definição": "Contorno da abertura nasal anterior no crânio ósseo, em forma de pêra.",
+        "categoria": "sistema respiratório"
+    }
+}

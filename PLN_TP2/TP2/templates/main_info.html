@@ -1,0 +1,75 @@
+
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+
+<style>
+    .data-table {
+        font-family: Arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    .data-table thead th {
+        background-color: #2d532d;
+        color: #ffffff;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .data-table tbody td {
+        padding: 8px;
+    }
+
+    .data-table tbody tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    .data-table tbody tr:hover {
+        background-color: #ddd;
+    }
+
+    .data-table tfoot th {
+        background-color: #2d532d;
+        color: #ffffff;
+        padding: 8px;
+        text-align: left;
+    }
+</style>
+
+<table id="example" class="data-table">
+    
+    <thead>
+        <tr>
+            <th>Termo (pt)</th>
+            <th>Termo (en)</th>
+            <th>Sistema</th>
+            <th>Nota</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for key, value in dic.items() %}
+        <tr>
+            <td><a href="/specific_info/{{key}}" class="term-link" style="text-decoration: none; color: #2d532d">{{key}}</a></td>
+            <td>{{value.en}}</td>
+            <td>{{value.categoria}}</td>
+            {% if value.nota %}
+            <td>{{value.nota}}</td>
+            {% endif %}
+            {% if not value.nota %}
+            <td>{{"-"}}</td>
+            {% endif %}
+        </tr>
+        {% endfor %}
+        
+    </tbody>
+
+    
+</table>
+
+<br>  
+
+</div>
+{% endblock %}

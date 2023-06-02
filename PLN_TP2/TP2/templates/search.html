@@ -1,0 +1,26 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+<form action="/main_info/search" method="GET">
+    <div class="mb-3">
+      <label class="form-label">Inserir texto:</label>
+      <input type="text" class="form-control" name="text">
+    </div>
+    <button type="submit" class="btn btn-primary" style="background-color: #2d532d; color: white;">Pesquisar</button>
+  </form>
+
+  <br>
+  <ul style="list-style-type: none;">
+    {% for designation, definicao in matched %}
+      <li style="border: 1px solid #2d532d; padding: 10px; margin-bottom: 10px; border-radius: 10px; background-color: rgb(219, 245, 228);">
+        <b><a href="/specific_info/{{designation}}" style="color: #2d532d;">{{designation}}</a>:</b> {{definicao["definição"]}}
+      </li>
+    {% endfor %}
+  </ul>
+  
+  
+  
+
+{% endblock %}
