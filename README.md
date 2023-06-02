@@ -17,5 +17,6 @@ TPC7 - pasta aula 6 > pasta aula, pasta templates, ficheiro term.html (fazer uma
 
 TP1 - trabalho de grupo (código + relatório) (realizado com Joana Fernandes e Beatriz Leite)
 
+TP2 - trabalho de grupo (código + relatório) (realizado com Joana Fernandes e Beatriz Leite)
 
 
